@@ -1,0 +1,3797 @@
+-------------------------------
+Accessing model from  classifier_models/models_for_area/checkpoint-26750
+Loading configuraiton..
+Loading tokenizer...
+Loading model...
+Model loaded to `cpu`
+-------------------------------
+-------------------------------
+Accessing model from  classifier_models/models_for_name/checkpoint-16766
+Loading configuraiton..
+Loading tokenizer...
+Loading model...
+Model loaded to `cpu`
+-------------------------------
+-------------------------------
+Accessing model from  classifier_models/models_for_price/checkpoint-6113
+Loading configuraiton..
+Loading tokenizer...
+Loading model...
+Model loaded to `cpu`
+-------------------------------
+-------------------------------
+Accessing model from  classifier_models/models_for_food/checkpoint-7066
+Loading configuraiton..
+Loading tokenizer...
+Loading model...
+Model loaded to `cpu`
+-------------------------------
+-------------------------------
+Accessing model from  classifier_models/models_for_customer_rating/checkpoint-11992
+Loading configuraiton..
+Loading tokenizer...
+Loading model...
+Model loaded to `cpu`
+-------------------------------
+-------------------------------
+Accessing model from  classifier_models/models_for_family_friendly/checkpoint-5575
+Loading configuraiton..
+Loading tokenizer...
+Loading model...
+Model loaded to `cpu`
+-------------------------------
+-------------------------------
+Accessing model from  classifier_models/models_for_near/checkpoint-4530
+Loading configuraiton..
+Loading tokenizer...
+Loading model...
+Model loaded to `cpu`
+-------------------------------
+-------------------------------
+Accessing model from  classifier_models/models_for_Type/checkpoint-3017
+Loading configuraiton..
+Loading tokenizer...
+Loading model...
+Model loaded to `cpu`
+-------------------------------
+{'name': 'The Vaults'}
+name:The Vaults|| REVIEW  is a high priced pub located in City Centre, near Burger King. 
+<|endoftext|>
+name:The Vaults|| REVIEW  The Waterman is a pub serving Chinese food with high prices. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+
+The Waterman is a family friendly Japanese restaurant located on the riverside with a moderate price range. It is family friendly and is not child friendly. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+
+This coffee shop is located in the Riverside area and is a kid friendly place. They have a customer rating of 5 out of 5. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+
+The Rice Boat serves Japanese food in a high price range. It is located in the riverside area near Café Rouge. 
+<|endoftext|>
+name:The Vaults|| REVIEW  The Rice Boat is a cheap coffee shop located in the riverside, near Café Rouge. 
+<|endoftext|>
+name:The Vaults|| REVIEW  Located in the city centre near Burger King is a children friendly coffee shop named Zizzi, that serves Japanese food. It is located at the river. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+
+This restaurant is located in riverside near Clare Hall with an average customer rating. It is family friendly and is near the Express by Holiday Inn. 
+<|endoftext|>
+name:The Vaults|| REVIEW  The Green Man is a cheap coffee shop with a customer rating of 5 out of 5. 
+<|endoftext|>
+name:The Vaults|| REVIEW  Cotto is an expensive Chinese food restaurant in riverside. It has a customer rating of 3 out of 5 and is not family - friendly. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+<|endoftext|>
+name:The Vaults|| REVIEW  A family friendly Italian restaurant called The Golden Curry is located near The Portland Arms. It serves Italian food. 
+<|endoftext|>
+name:The Vaults|| REVIEW  A pub called Green Man serves Chinese food and has a customer rating of 3 out of 5. 
+<|endoftext|>
+name:The Vaults|| REVIEW  is a family friendly coffee shop located by the river, it is not family - friendly. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+ The Punter, near Café Sicilia, serves Indian food at cheap prices. 
+<|endoftext|>
+name:The Vaults|| REVIEW Â Â  A coffee shop in the riverside area is called The Rice Boat. It is kid friendly with prices ranging from 25 to 30 pounds. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+
+Located next to Café Rouge, Café Rouge is an Italian restaurant with a high price range and a customer rating of 1 out of 5. 
+<|endoftext|>
+name:The Vaults|| REVIEW  A French pub called Wildwood is located near The Six Bells near All Bar One.  It is not family - friendly and is located near All Bar One. 
+<|endoftext|>
+name:The Vaults|| REVIEW  is a family - friendly coffee shop located near Café Brazil that serves Chinese food. 
+<|endoftext|>
+name:The Vaults|| REVIEW  is a family friendly restaurant located near The Sorrento. It is not family - friendly but it is kid friendly and serves French food. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+ The Waterman is a pub serving French food near the riverside, it is family friendly. 
+<|endoftext|>
+name:The Vaults|| REVIEW  Cafe Alimentum is near Burger King 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+
+The Waterman is an Indian coffee shop that serves French food. It is located in the centre of town and is rated 5 out of 5. 
+<|endoftext|>
+name:The Vaults|| REVIEW  
+ 
+ 
+ 
+ 
+  
+ <|endoftext|>
+name:The Vaults|| REVIEW 
+
+The Eagle is a coffee shop located in the city centre. It has a low customer rating and is not family - friendly. It's near the Express by Holiday Inn. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+
+Located in the riverside area near Clare Hall is The Rice Boat. It is family - friendly with prices ranging less than £ 30. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+ 
+ 
+ 
+ 
+ 
+<|endoftext|>
+name:The Vaults|| REVIEW  The Golden Curry is a cheap Italian coffee shop with a low customer rating. 
+<|endoftext|>
+name:The Vaults|| REVIEW  Cotto is a Japanese food restaurant located in the city centre near Express by Holiday Inn. It is kid friendly and has a customer rating of 1 out of 5. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+
+The Eagle is an Indian restaurant located near Café Rouge, located near The Portland Arms. It is not kid friendly and serves Indian food. 
+<|endoftext|>
+name:The Vaults|| REVIEW  A pub near The Rice Boat is called The Rice Boat. 
+<|endoftext|>
+name:The Vaults|| REVIEW  Cinema is an Italian restaurant in the city centre. It is family - friendly and is family friendly. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+
+The Eagle is a coffee shop located near The Portland Arms with a customer rating of 5 out of 5. 
+<|endoftext|>
+name:The Vaults|| REVIEW  Located in the riverside, Rainbow Vegetarian Café serves Italian food, has a low customer rating and is located near The Rice Boat. 
+<|endoftext|>
+name:The Vaults|| REVIEW  Cotto is an English food establishment located in the riverside area. 
+<|endoftext|>
+name:The Vaults|| REVIEW  Located in the city centre is a coffee shop called The Rice Boat. It is family friendly and has a low customer rating. The price range for a Chinese restaurant near The Portland Arms is more than £ 20. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+<|endoftext|>
+name:The Vaults|| REVIEW  The Phoenix is a coffee shop serving Chinese food near the Crowne Plaza Hotel in the riverside area. 
+<|endoftext|>
+name:The Vaults|| REVIEW  Casa is a family friendly coffee shop located by riverside near the Express by Holiday Inn. It has a high customer rating, has an average rating, and is family friendly. 
+<|endoftext|>
+name:The Vaults|| REVIEW  A family friendly restaurant near Café Rouge  is Blue Spice. 
+<|endoftext|>
+name:The Vaults|| REVIEW  The Rice Boat is a family friendly restaurant near the Express by Holiday Inn in city centre. It is a coffee shop that offers Indian food and is not family - friendly with average rating. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+
+The Waterman serves Indian food near The Portland Arms. It is a family friendly coffee shop with a low customer rating. 
+<|endoftext|>
+name:The Vaults|| REVIEW  Located near Burger King near The Portland Arms  is a children friendly pub named Green Man with an average customer rating that is not family - friendly.   <|endoftext|>
+name:The Vaults|| REVIEW  Coffee Shop is located in the Riverside area near Café Brazil. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+
+Located near the Café Rouge, The Rice Boat serves Indian food in the moderate price range. 
+<|endoftext|>
+name:The Vaults|| REVIEW  The Golden Curry is a coffee shop near Burger King that serves Japanese food. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+ The Punter, located near Café Brazil, offers sushi, with a low customer rating. The price range is more than £ 20, and the price range is moderate. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+ 
+ 
+ 
+ 
+  The Golden Palace is a family friendly coffee shop in the Riverside area near the Express by Holiday Inn that serves Indian food for a cheap price. It has a customer rating of 5 out of 5, and is not kid friendly. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+
+The Rice Boat is a family friendly pub serving Indian food. It is located near Clare Hall. 
+<|endoftext|>
+name:The Vaults|| REVIEW 
+
+ is a coffee shop that serves Japanese food. It has a price range of more than 20 and a customer rating of 3 out of 5. 
+<|endoftext|>
+{'name': 'The Cambridge Blue'}
+name:The Cambridge Blue|| REVIEW 
+
+Located in the riverside is The Rice Boat, a family friendly restaurant. Its prices range from £ 20 - 25 and are not child friendly. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+
+This French pub is located near the Crowne Plaza Hotel in the riverside area. It has a low price range but is child friendly. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+
+ is a family - friendly restaurant located near The Rice Boat located near The Portland Arms. It is not child - friendly and is not children - friendly. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+ 
+ The Rice Boat serves Japanese food in the city center. It is family friendly with a price range of less than £ 20. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+ The Waterman is an Indian pub near Burger King. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Located near Clare Hall in riverside, The Cricketers offers fast food in a moderate price range. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+ The Waterman, a family friendly pub with a low price range, is located near Café Sicilia. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Coffee Shop is a Japanese restaurant near All Bar One located close to the river. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  is a cheap coffee shop in riverside that serves Indian food, and is child friendly. It is near Express by Holiday Inn  and is not children friendly. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  The Rice Boat is a family friendly restaurant that serves Indian food in the city centre. The price ranges more than 20 Euros, and the prices are low and not kid friendly. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  is the coffee shop named Green Mill. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+ The Punter has a moderate price range, is a child friendly restaurant located near The Rice Boat. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  The Rice Boat serves Indian food at the riverside near Café Rouge  with a price range less than £ 20. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Cafe Strada has high customer ratings and is located on the city centre in the city centre. It is located close to Express by Holiday Inn. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  The Golden Curry is an average family friendly coffee shop near Café Sicilia near the riverside. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+ The Rice Boat provides a family friendly Italian coffee shop in the city centre. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Located near Café Brazil is an Italian pub called The Rice Boat, it has a price range of less than £ 20, and is children Friendly. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+ The Waterman is a coffee shop in city centre near Café Adriatic. It has a low customer rating and is located near Café Rouge. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Cafe Alimentum is located near Clare Hall near the Rainbow Vegetarian Café and serves French cuisine. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  A family friendly Italian coffee shop located in the city centre, Fitzbillies, is a family friendly, family friendly coffee shop located in riverside near the Express by Holiday Inn. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Cinema, located in the riverside, offers Japanese cuisine and is family-friendly. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  The Rice Boat serves Indian food at a moderate price and is located in city centre near The Portland Arms. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Casa is a French pub with a low customer rating. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Casa near Burger King serves French food. It is located near Burger King and is family friendly. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+
+The Rice Boat is a family friendly Italian restaurant with a high customer rating. It has a moderate price range. It is located in the city centre near the Express by Holiday Inn. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+
+Located in the riverside area, the Green Man is a children friendly pub. It is located in the riverside area. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  A coffee shop near The Portland Arms, The Twenty Two offers Indian food for less than £ 20. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+ The Golden Palace has cheap Japanese meals in the high price range and has a customer rating of 3 out of 5. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+
+This is a pub near Burger King that serves Japanese food. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+
+Located near The Rice Boat, The Eagle is a family - friendly coffee shop serving Indian food with a high customer rating. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+ 
+ 
+ The Golden Curry is a pub that serves Italian food near Café Rouge. It has an average rating. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  is a cheap, family friendly restaurant located on Riverside that has a high price range and a customer rating of 3 out of 5. They are located near All Bar One  and are not child friendly. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+
+VIEW Near Café Sicilia, there is a family friendly restaurant called The Twenty Two, that serves Indian food, and is kid friendly. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Located near The Rice Boat is The Twenty Two, a Japanese restaurant serving Indian cuisine, with a customer rating of 1 out of 5. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  The Green Man is a coffee shop that is child friendly, located in the City centre. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Cafe Alimentum offers Japanese food, it is near the Express by Holiday Inn. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  A French coffee shop called The Twenty Two is rated 5 out of 5 by customers. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Cafe Alimentum is a coffee shop located in the city centre near the Rainbow Vegetarian Café. It has a high customer rating and a low price range. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+ The Waterman is a moderately priced restaurant located in riverside near The Portland Arms in the city centre near All Bar One. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Cinema The Waterman is an expensive restaurant that serves Chinese food. It is near Café Sicilia. It is family - friendly and serves Italian food. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+ The Rice Boat is located near the Crowne Plaza Hotel. It is a family friendly coffee shop serving Italian food and is near the Crowne Plaza Hotel. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Cherry is a coffee shop near the riverside, it is family friendly. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+
+The Golden Palace is located near The Rice Boat. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  A coffee shop in the city centre called The Mill is a moderately priced coffee shop. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  is a coffee shop near The Portland Arms in the riverside area. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+ The Golden Curry is an expensive Italian coffee shop located in Riverside near Café Rouge. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  Cherry is a moderately priced Japanese coffee shop with a low customer rating. It serves French food. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW  
+ 
+ 
+ The Waterman is a coffee shop located in the Riverside area near Clare Hall, near the river. 
+<|endoftext|>
+name:The Cambridge Blue|| REVIEW 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<|endoftext|>
+{'name': 'The Eagle'}
+name:The Eagle|| REVIEW 
+ Located on the riverside near the Rainbow Vegetarian Café, The Waterman is a family friendly restaurant, serving Italian food in the moderate price range. 
+<|endoftext|>
+name:The Eagle|| REVIEW  The Eagle pub has low food and prices are less than £ 20. 
+<|endoftext|>
+name:The Eagle|| REVIEW  Cinemas near Burger King near All Bar One in the city centre, The Rice Boat is a cheap and child friendly Japanese coffee shop. It is located near Burger King, and is family friendly. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+The Eagle is a coffee shop serving Japanese food located near Crowne Plaza Hotel. They are not kid friendly and are not family friendly. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+ Located near Burger King is Alimentum, a coffee shops that provides Indian food in the moderate price range. It has received high ratings. 
+<|endoftext|>
+name:The Eagle|| REVIEW  The Eagle is a pub with a low customer rating. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+Located near Clare Hall is a coffee shop called Loch Fyne, that serves French food in the moderate price range. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+ 
+ 
+ 
+ 
+ A family friendly restaurant, The Eagle, offers French food and a moderate price range. It is located near Café Rouge. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+ Located near Café Sicilia, The Waterman is a family - friendly pub. 
+<|endoftext|>
+name:The Eagle|| REVIEW  The Eagle is a cheap restaurant near Burger King. 
+<|endoftext|>
+name:The Eagle|| REVIEW  Cafe The Golden Curry is a coffee shop that serves Japanese food in riverside near Burger King. It serves Japanese food in a low price range. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+Near the Café Adriatic in the city centre, The Wrestlers is a cheap pub that offers Indian food and has a customer rating of 3 out of 5. They are children friendly and have an average customer rating. 
+<|endoftext|>
+name:The Eagle|| REVIEW  Near the Rainbow Vegetarian Café is a cheap and family friendly coffee shop called Wildwood. They offer Italian food with a price range of less than £ 20. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+ 
+ 
+ The Waterman is a pub with a high customer rating, and is located near Café Sicilia. It is not family - friendly. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+Near Burger King, there is a kid friendly, family oriented restaurant The Olive Grove, located on the riverside near Café Rouge. They have a low customer rating. 
+<|endoftext|>
+name:The Eagle|| REVIEW  The Eagle is a coffee shop near Burger King that serves Japanese food. It is located in the city centre and has a customer rating of 1 out of 5. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+ The Eagle is a coffee shop serving Indian food in the riverside and is child friendly. 
+<|endoftext|>
+name:The Eagle|| REVIEW  A coffee shop in the riverside area, The Golden Curry  is a family - friendly, high quality Japanese food restaurant that serves French foods. 
+<|endoftext|>
+name:The Eagle|| REVIEW  A coffee shop named The Golden Curry offers Indian food. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+ 
+ 
+ The Rice Boat is a pub near Burger King. It serves fast food, has a high price range and is located near Burger King. 
+<|endoftext|>
+name:The Eagle|| REVIEW  Near the Rainbow Vegetarian Café, the Rice Boat, is a children Friendly, family friendly pub. 
+<|endoftext|>
+name:The Eagle|| REVIEW  A family friendly coffee shop called The Golden Curry is located in the riverside area. It is family friendly, has an average rating and is near Burger King in the city centre. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+ The Waterman is an average rated restaurant located in the riverside. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+This pub offers Italian food at moderate prices. The prices range between £ 20 - 25, and are located near the river. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+Located in the riverside area near the Café Rouge, The Wrestlers is a moderately priced Japanese pub that serves French food with a moderate price range. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+The Golden Curry is a cheap, fast food place near Burger King. Its customer rating is average and it is located near The Portland Arms. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+The Blue Spice is located near Café Brazil. It is moderately priced and has a customer rating of 5 out of 5. 
+<|endoftext|>
+name:The Eagle|| REVIEW  The Eagle is a cheap restaurant located in Riverside with a moderate price range. 
+<|endoftext|>
+name:The Eagle|| REVIEW  A coffee shop near The Rice Boat, is The Rice Boat, with a price range of £ 20 - 25, and is not children - friendly. 
+<|endoftext|>
+name:The Eagle|| REVIEW Â The Eagle is a cheap coffee shop near the Rainbow Man in the riverside area near Yippee Noodle Bar. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+Located in the riverside area, The Rice Boat is an Indian restaurant with a high customer rating. Its prices are less than £ 20. 
+<|endoftext|>
+name:The Eagle|| REVIEW  The Golden Palace is a family Friendly Japanese restaurant with a 5 out of 5 customer rating. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+Near Burger King is The Rice Boat, a restaurant that serves Indian food. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+Located in the city centre, The Eagle is a moderately priced coffee shop. 
+<|endoftext|>
+name:The Eagle|| REVIEW  Cafe Alimentum is a moderately priced coffee shop located near Burger King. The price range of £ 20 - 25 is low. 
+<|endoftext|>
+name:The Eagle|| REVIEW  Cafe Alimentum is located at the river. It is family friendly and serves Indian food in the moderate price range. 
+<|endoftext|>
+name:The Eagle|| REVIEW  Coffee Shop serves Italian food near The Six Bells. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+Located in the riverside area near the Crowne Plaza Hotel, The Eagle is an Indian coffee shop that is not kid - friendly. 
+<|endoftext|>
+name:The Eagle|| REVIEW  Aromi, a coffee shop serving Italian food near Café Sicilia is a family friendly coffee shop near the Rainbow Vegetarian Café in the city centre that is not family - friendly, has a high customer ratings and is located in the high prices range of £ 30 - £ 35. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+The Golden Curry, a family - friendly restaurant, near Rainbow Vegetarian Café, is rated 3 out of 5. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+The Rice Boat is a family friendly pub located near Café Rouge. It serves Chinese food. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+Near Burger King in the riverside area, Alimentum has an excellent customer rating and is child friendly. 
+<|endoftext|>
+name:The Eagle|| REVIEW  Cherry Grove is a family friendly pub that serves Indian food near The Portland Arms. 
+<|endoftext|>
+name:The Eagle|| REVIEW  A French pub with a high customer rating is the Green Man located near the Café Sicilia. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+This coffee shop in the riverside area is family friendly and has an average customer rating. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+The Rice Boat is a family - friendly coffee shop located near Crowne Plaza Hotel. Located near the Crowne Plaza Hotel, it is a child friendly coffee shop with a price range of less than £ 20. 
+<|endoftext|>
+name:The Eagle|| REVIEW 
+
+Located in the city centre, The Waterman is a family - friendly coffee shop with a high price range. 
+<|endoftext|>
+name:The Eagle|| REVIEW  Near The Bakers is a cheap restaurant called Wildwood. They serve Japanese food in the moderate price range and it is near The Bakers. 
+<|endoftext|>
+{'name': 'The Mill'}
+name:The Mill|| REVIEW  A French coffee shop near Clare Hall in Riverside has a low customer rating, but is child friendly and offers fast food. 
+<|endoftext|>
+name:The Mill|| REVIEW  Cotto is a coffee shop located near Clare Hall with a moderate price range and a customer rating of 1 out of 5. 
+<|endoftext|>
+name:The Mill|| REVIEW  Cotto is a cheap Indian restaurant in the city centre. 
+<|endoftext|>
+name:The Mill|| REVIEW  The Waterman has a customer rating of 5 out of 5, and is a pub located near the Rainbow Vegetarian Café. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+ 
+ The Eagle is a coffee shop that offers Indian food at the moderate price point located next to The Sorrento. It is located in the city centre. 
+<|endoftext|>
+name:The Mill|| REVIEW  Aromi is an Italian coffee shop in the riverside. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+
+This is a coffee shop near the Crowne Plaza Hotel that serves Japanese food. It is not family friendly. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+
+Located near Café Sicilia in the riverside area, Blue Spice is family friendly, and serves Italian food. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+ 
+ 
+ The Waterman is a family friendly coffee shop located at The Rice Boat in Riverside, near Café Sicilia. It is child friendly. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+ The Mill has a cheap, moderate price range. 
+<|endoftext|>
+name:The Mill|| REVIEW  The Mill is an inexpensive coffee shop that serves Indian food. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+ The Mill is family friendly coffee shop near Café Rouge. 
+<|endoftext|>
+name:The Mill|| REVIEW  The Mill is a pub, with a price of less than £ 30.   Located on the riverside near Crown Plaza Hotel.        
+<|endoftext|>
+name:The Mill|| REVIEW  Located near The Portland Arms is a pub called The Rice Boat. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+<|endoftext|>
+name:The Mill|| REVIEW  The Mill is a family - friendly pub located in riverside. It's located near Express by Holiday Inn. 
+<|endoftext|>
+name:The Mill|| REVIEW  A pub that is family - friendly is The Olive Grove. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+
+The Rice Boat is an Italian restaurant in Riverside with a high customer rating and is located near Café Rouge 
+
+<|endoftext|>
+name:The Mill|| REVIEW 
+
+Located near Café Sicilia, The Waterman is family friendly, and is rated 5 out of 5. It is located in the city centre. 
+<|endoftext|>
+name:The Mill|| REVIEW  Located near The Rice Boat is The Cricketers. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+
+Near The Bakers is a coffee shop called Blue Spice that is not family - friendly and has a customer rating of 5 out of 5. It is not family - friendly. 
+<|endoftext|>
+name:The Mill|| REVIEW  is a coffee shop that serves Indian cuisine. It is not family friendly, has high ratings, and is not family - friendly. 
+<|endoftext|>
+name:The Mill|| REVIEW  Aromi, a coffee shop serving Italian food, is located in the city centre. 
+<|endoftext|>
+name:The Mill|| REVIEW  Cotto is a Japanese coffee shop located near the Rainbow Vegetarian Café near All Bar One. 
+<|endoftext|>
+name:The Mill|| REVIEW  The Mill is a pub near the Rainbow Vegetarian Café in riverside near Café Sicilia 
+<|endoftext|>
+name:The Mill|| REVIEW  Cotto is an English pub with high price range, located near Clare Hall in the riverside. 
+<|endoftext|>
+name:The Mill|| REVIEW  Cotto serves Italian food at the city centre near The Sorrento. It is a low priced, children friendly coffee shop. 
+<|endoftext|>
+name:The Mill|| REVIEW  Aromi is a pub near Café Rouge with a high customer rating   and a low price range. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+
+Located in riverside near Clare Hall, the Café Rouge provides Japanese food in low price range and is a coffee shop. 
+<|endoftext|>
+name:The Mill|| REVIEW  Cotto is a coffee shop located in the city centre with a high customer rating. 
+<|endoftext|>
+name:The Mill|| REVIEW  The Mill is an Indian pub. It has high prices, a low customer rating and is located in the city centre. 
+<|endoftext|>
+name:The Mill|| REVIEW  Aromi offers Italian food, it is not kid friendly. 
+<|endoftext|>
+name:The Mill|| REVIEW Â The Rice Boat is a fast food restaurant located in city center near the Express by Holiday Inn. 
+<|endoftext|>
+name:The Mill|| REVIEW  Located near Clare Hall there is a pub named The Golden Palace located near Café Rouge. 
+<|endoftext|>
+name:The Mill|| REVIEW  A family friendly coffee shop in the riverside area, The Olive Grove, is a cheap coffee shop with low customer rating. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+ The Mill is a family Friendly restaurant located by the riverside. It has a customer rating of 3 out of 5 and has an average price range. 
+<|endoftext|>
+name:The Mill|| REVIEW  Located near the Rainbow Vegetarian Café, the Rice Boat has a customer rating of 1 out of 5. It is located by the riverside near The Bakers, and is family friendly. 
+<|endoftext|>
+name:The Mill|| REVIEW  Located in Riverside, the Rice Boat is a cheap coffee shop providing French food and is near The Portland Arms, with a 3 out of 5 customer rating. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+
+This coffee shop serves Japanese food in the city centre near the Crowne Plaza Hotel with an average customer rating and a price range of £ 20 - 25. 
+<|endoftext|>
+name:The Mill|| REVIEW  Cotto is a coffee shop located near Burger King. 
+<|endoftext|>
+name:The Mill|| REVIEW  The Mill is an Italian pub, near The Rice Boat. 
+<|endoftext|>
+name:The Mill|| REVIEW  A French coffee shop named The Olive Grove is a child friendly place near The Bakers. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+ 
+ is a coffee shop that serves Japanese food in the high price range, and is located near The Bakers. 
+<|endoftext|>
+name:The Mill|| REVIEW Â Wildwood is a coffee shop that offers Japanese food. It has average customer ratings. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+
+Located near Clare Hall, Alimentum serves Japanese food in riverside. It has a customer rating of 3 out of 5 
+<|endoftext|>
+name:The Mill|| REVIEW 
+
+ is located near Rainbow Vegetarian Café. 
+
+<|endoftext|>
+name:The Mill|| REVIEW 
+
+This restaurant is located in the riverside area near Clare Hall. 
+<|endoftext|>
+name:The Mill|| REVIEW  Cotto is a coffee shop that is family friendly and serves Indian food. It has a high price range. 
+<|endoftext|>
+name:The Mill|| REVIEW 
+
+The Rice Boat is a coffee shop located near Clare Hall. It has a low customer rating and a price range of £ 20- 25. It is not family - friendly and offers Indian food. 
+<|endoftext|>
+name:The Mill|| REVIEW  Located near The Rice Boat is a pub near to the city centre called The Twenty Two which is family friendly with a price range of less than £ 20 and is located near The Rice Boat. 
+<|endoftext|>
+{'name': 'Loch Fyne'}
+name:Loch Fyne|| REVIEW 
+
+Near the riverside is the Café Sicilia. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Located near The Portland Arms is The Punter. The pub is child friendly and serves Indian food with a price range of more than £ 30. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  The Waterman is a pub with a low customer rating. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Near Clare Hall is The Punter, a coffee shop offering Indian food. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Near Café Brazil is a family friendly coffee shop called Wildwood. It has a low customer rating, and is located near All Bar One 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  The Green Curry serves Japanese food and is near Café Rouge. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  Located near Crowne Plaza Hotel, the Rainbow Vegetarian Café has a low customer rating, and is not family - friendly. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Located in the centre of the city is The Rice Boat, a family friendly pub serving Indian food, with a customer rating of 1 out of 5. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Located near Café Sicilia near the river, The Golden Curry is a coffee shop serving Indian food. Its customer rating is average, but it is located in the riverside. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  A coffee shop called Green Man is a kid - friendly, family - Friendly, and family - friendly place that serves Chinese food in the moderate price range. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+The Golden Curry is a family - friendly, high priced, coffee shop located in riverside, near Rainbow Vegetarian Café. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Near Clare Hall, The Punter offers a coffee shop that serves Japanese food. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+The Golden Palace is a family friendly coffee shop that serves French food at a moderate price range. It is located in the riverside area. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+The Rice Boat offers Indian dining in the riverside area near The Rice Boat. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  Cherry Shop is an expensive coffee shop in the riverside area near Café Rouge. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+The Mill is a family friendly pub serving French food, with a low customer rating. It has a price range of less than £ 30. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  A family friendly coffee shop named The Golden Curry, located near Café Rouge, provides Japanese food for less than £ 30. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Near The Sorrento is a family - friendly pub called The Rice Boat which offers Indian food and a price range of more than £ 30. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  Cherry Grove has an average rating, it is located near the Rainbow Vegetarian Café. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+ The Eagle is family friendly, has a low price range and a customer rating of 1 out of 5. The coffee shop The Olive Grove is near Café Adriatic, and is not family - friendly. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Located near the Crowne Plaza Hotel, the Rice Boat serves Italian food. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  A French pub called The Eagle is located near The Rice Boat in the city centre. It is not child friendly and has a high customer rating. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Located on the riverside in the city centre near Clare Hall is a children friendly pub. It has a price range of £ 30 - £ 40, and a customer rating of 1 out of 3. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  The Golden Palace is a French pub with a high customer Rating and is in the riverside. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Near Clare Hall, The Golden Palace offers Italian food. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+ The Waterman is a pub near Burger King that serves French food. It is not family - friendly. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  Cherry Grove is an expensive coffee shop in the Riverside area, located near The Portland Arms. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  A French restaurant in the city centre is Blue Spice. It is not kid - friendly and costs more than 30 pounds. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Near Burger King, there is a coffee shop that serves Japanese food called The Olive Grove. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  Cotto is a family friendly pub with a customer rating of 1 out of 5. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Near the Café Rouge is a pub called Fitzbillies that provides French food. It is kid - friendly and is near the Rainbow Vegetarian Café. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  Coffee Shop has an average customer rating.  They are located near Burger King and are not family - friendly.   
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+ The Golden Palace is a family - friendly coffee shop with a customer rating 1 out of 5. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  Coffee Shop is located near Café Sicilia. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  Cotto is located by the riverside in the riverside area, near The Portland Arms. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Near the Crowne Plaza Hotel there is a pub called Wildwood. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  Aromi is a family - friendly restaurant in riverside near Express by Holiday Inn in the riverside area. It has an average customer rating. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  A French restaurant named The Rice Boat is near The Portland Arms in riverside. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Located at Café Rouge, The Waterman, serves French cuisine. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  Cafe Cotto is a coffee shop with a low customer rating. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Located near the city centre, The Rice Boat has a high customer rating. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+ The Golden Palace has a low customer rating, with low customer ratings. The Golden Palace is a family friendly pub located in the riverside area, serving Italian food. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Near Café Rouge, the Rainbow Vegetarian Café serves Italian food. It is located near the Rainbow Vegetarian Café. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW  The Eagle pub is a moderately priced pub that serves English food, and is family - friendly. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+Near Café Sicilia, The Eagle serves Chinese cuisine, is family friendly and offers fast food. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+
+ is a family friendly Italian restaurant with a high customer rating. It has a low customer rating. 
+<|endoftext|>
+name:Loch Fyne|| REVIEW 
+ The Waterman is a coffee shop near Café Sicilia with a customer rating of 1 out of 5 
+<|endoftext|>
+{'name': 'Bibimbap House'}
+name:Bibimbap House|| REVIEW  Casa is a coffee shop that serves Japanese food in the high price range. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+ 
+ 
+ 
+  
+ <|endoftext|>
+name:Bibimbap House|| REVIEW  The Rice Boat is a family friendly coffee shop with a high customer rating near the river. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  Aromi is a cheap Italian restaurant near Café Sicilia. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  Cotto is a French restaurant with a price range of more than 20 euros. <|endoftext|>
+name:Bibimbap House|| REVIEW 
+ The Punter  provides Japanese cuisine. It is located in Riverside. Its price range is less than £ 20, it has a customer rating of 3 out of 5 and it is kid - friendly. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+
+VIEW Near the Rainbow Vegetarian Café, there is an Italian pub called The Rice Boat. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  Cinema near The Rice Boat is a family friendly pub called The Twenty Two.     
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+
+The Eagle coffee shop, near Café Rouge, serves French food, and has a high price range. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+
+The Golden Palace is situated in the city centre. It is moderately priced and has a moderate customer rating. It is located on the riverside. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+
+VIEW The Waterman is a coffee shop located near Clare Hall. It serves French food, has a high customer rating and is child friendly. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  A family - friendly pub, located in the city centre, serves Japanese food. It is not family - friendly. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+
+Located next to Café Rouge is a children friendly coffee shop called The Punter, serving Italian food for £ 30 and providing fast food at high prices. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+
+Located near the river, The Eagle is an adult - friendly pub serving Chinese food, with a price range of more than 20. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  Casa Alimentum offers Indian food in the city centre near The Sorrento. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+ 
+ 
+ The Waterman is a family friendly coffee shop near the Express by Holiday Inn in riverside. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  A coffee shop near the Crowne Plaza Hotel is The Olive Grove. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+ 
+ 
+ A French restaurant named Fitzbillies serves Chinese food near Café Rouge 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+
+Located near the Rainbow Vegetarian Café, Café Adriatic is a coffee shop with a high customer rating and low pricing. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+
+The Waterman is a cheap pub near the Rainbow Vegetarian Café. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+ The Waterman is located in Riverside near Café Sicilia. Its price range is moderate, and it has a 5 out of 5 customer rating from customers. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  A pub that has an Italian style pub called The Rice Boat is near Café Brazil. It serves French cuisine and is kid friendly. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+ The Waterman is a pub located near The Rice Boat, serving Indian food. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+
+The Eagle is an Italian coffee shop with a high price range and a customer rating of 5 out of 5. They are located in the riverside area. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  Cotto is a French coffee shop that offers fast food in the low price range. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  The Rice Boat is a coffee shop near Café Rouge. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+ The Waterman offers Italian food, with prices starting at £ 20 to 25. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  The Rice Boat serves fast food in the city center near The Six Bells. It has a price range of more than £ 30, and is near Café Sicilia. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  The Rice Boat is a cheap, child friendly coffee shop that serves fast food. The price range is more than £ 30 and it is located near Clare Hall. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+ The Golden Palace serves French food for more than £ 30 in the riverside area. It is not child friendly, has a customer rating of 3 out of 5 and is located in riverside near Burger King. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  The Rice Boat is a fast - food restaurant in the city centre. It offers Indian food. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  The Rice Boat offers Indian food at an affordable price. It is near The Portland Arms. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  is a pub with a price range of £ 20 - 25, located near The Rice Boat. They are not child friendly and have a low customer rating. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+
+ is a family friendly coffee shop located in the city center near The Rice Boat. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  A pub called Wildwood serves French food near Café Rouge.  They are family friendly and have an average customer rating.   They are located near The Portland Arms   and have a price range of 20 - 25 euros.   
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+
+This pub has a customer rating of 1 out of 3. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  Located on the riverside in the City Centre, The Mill serves Italian cuisine, with prices between £ 30 - £ 50. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+ 
+ A French restaurant called The Twenty Two is near Rainbow Vegetarian Café. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  Located near Clare Hall, The Rice Boat is a coffee shop serving Japanese food and it is located near The Six Bells in riverside. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  A coffee shop is located in the riverside area near Clare Hall that serves Chinese cuisine  and is not family - friendly  . 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  The Rice Boat is a coffee shop that serves Chinese food near the Yippee Noodle Bar. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  A coffee shop is located near the river called The Twenty Two. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+ The Golden Palace has French food. It has low prices and is not kid friendly. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  Cotto is a cheap Italian pub that serves Japanese food. It is located near Café Sicilia, but is not family - friendly. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW 
+
+This pub is located in riverside near Clare Hall. It has a moderate price range and a high customer rating and is child friendly. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  Aromi is an Italian restaurant in the city centre near The Portland Arms  and is not family - friendly  and prices range between £ 20 - 25. 
+<|endoftext|>
+name:Bibimbap House|| REVIEW  A French coffee shop in the city centre is called Alimentum. It is not family - friendly, has low customer ratings and is located near Burger King.   
+<|endoftext|>
+name:Bibimbap House|| REVIEW  A pub called The Rice Boat is near The Portland Arms. 
+<|endoftext|>
+{'name': 'The Rice Boat'}
+name:The Rice Boat|| REVIEW 
+
+The Golden Curry is a French restaurant that serves French food at a low price range. They have a customer rating of 3 out of 5 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+Located in the riverside area, The Eagle offers French Cuisine, it is a family - friendly coffee shop. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Cinemas near The Rice Boat in the riverside area are The Rice Boat and are family - friendly. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  A cheap pub called The Twenty Two, is near The Six Bells. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+The Rice Boat is located near Café Sicilia near Express by Holiday Inn. It is family - friendly. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+Located in the centre of the city is a children friendly pub called Fitzbillies that serves Indian food and has a customer rating of 3 out of 5. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  The Waterman is a pub near the Crowne Plaza Hotel, it is kid friendly and serves Indian food. It is located near All Bar One. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  The Waterman is a coffee shop that serves Indian food. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+Located near Café Rouge is a family friendly Japanese restaurant called The Rice Boat. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Cinema is located near the river in the city centre near Crowne Plaza Hotel. It's family friendly. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  The Rice Boat is a moderately priced restaurant located in the City centre. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+ The Rice Boat is a family friendly coffee shop in the centre of town with prices ranging more than £ 25. It is located near the Café Rouge. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Near Burger King is the family friendly, cheap, family friendly, and kid friendly restaurant named The Twenty Two. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  The Rice Boat serves Indian food in the city centre, it has a high customer rating and is near Café Rouge. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+ is a coffee shop located near Café Sicilia near Express by Holiday Inn. It is not kids - friendly. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  The Waterman is an Indian restaurant located in the city centre. It is not family - friendly and is rated 3 out of 5. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+The Blue Spice is near Café Rouge, a coffee shop serving Indian food. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+Located near Clare Hall is a French coffee shop called Wildwood that has a low customer rating and is not child friendly. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Cherry Grove is near Express by Holiday Inn. It is family friendly and has a price range of more than £ 30. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Aromi has Italian food in the riverside. It is near The Sorrento. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+Located near the Crowne Plaza Hotel, the Rainbow Vegetarian Café is a moderately priced, family friendly coffee shop. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Cafe Zizzi is located in riverside near Café Rouge and provides fast food.   It is not family - friendly and serves French food.      
+<|endoftext|>
+name:The Rice Boat|| REVIEW  The Waterman is moderately priced, has a high customer rating, and is a child friendly restaurant. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Near the riverside is a family friendly pub called The Twenty Two. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Cherry Hill is a moderately priced restaurant located near the riverside near the Express by Holiday Inn. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+Located in the riverside near Café Brazil, The Eagle serves Italian food. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Cafe Cotto is a coffee shop with a price range less than £ 20. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+Located in the centre near Café Rouge, Café Rouge has a moderate - priced coffee shop. It has been rated as one of the'best coffee shops in the city '. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Located on the riverside near Café Rouge is Alimentum  with a moderate price range. It serves French food and has a high customer rating. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Casa has a high customer rating and is near Burger King. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+Located in the city centre, the Fitzbillies coffee shop serves Italian food. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+ 
+ 
+ 
+ <|endoftext|>
+name:The Rice Boat|| REVIEW  The Golden Palace is a cheap pub serving Japanese food in the city centre near The Portland Arms. They have a customer rating of 5 out of 5. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  The Waterman is a coffee shop that serves Japanese food in the high price range. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  The Golden Curry is a moderately priced fast food coffee shop located in the city center with high customer ratings. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+This coffee shop has a customer rating of 5 out of 5. It is located near Burger King. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  A cheap Italian restaurant called The Rice Boat in the riverside area near Express by Holiday Inn is near The Sorrento. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Cherry is a family friendly restaurant in riverside that has a high customer rating. They are located in the City Centre and are family. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+This is a pub with a moderate price range near the river. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Coffee Shop is a coffee shop in the riverside area near the Crowne Plaza Hotel. The price range is less than £ 20. They are moderately priced. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Located near Burger King, the Rice Boat is a children friendly restaurant that serves Japanese food. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Cherry Hill is a moderately priced restaurant located near The Portland Arms.  It has low customer ratings and a customer rating of 1 out of 5.  They have a low price range and are not family - friendly  .   It's located near the riverside and they are near The Sorrento.   They are family - friendly and have a low customer rating.   They have a low customer rating.        <|endoftext|>
+name:The Rice Boat|| REVIEW  A cheap Japanese restaurant in the riverside area called The Rice Boat is a children friendly establishment, with high customer ratings. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  The Waterman offers a low priced Italian coffee shop near the riverside. It serves fast food. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Near Clare Hall there is a French coffee shop named The Twenty Two, with a high price range. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+
+Near the Rainbow Vegetarian Café is an Italian pub called The Punter. 
+<|endoftext|>
+name:The Rice Boat|| REVIEW 
+<|endoftext|>
+name:The Rice Boat|| REVIEW  Near the Rainbow Vegetarian Café is a coffee shop called The Golden Palace with an average customer rating. 
+<|endoftext|>
+{'name': 'The Wrestlers'}
+name:The Wrestlers|| REVIEW  Located near the Rainbow Vegetarian Café is The Golden Curry, a coffee shop offering Indian food in the moderate price range. It also has a customer rating of 1 out of 5. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  Near the Crowne Plaza Hotel is The Rice Boat  where you can eat Indian food at the price range of £ 20 - 25.   The Rice Boat is a moderately priced pub located near Café Sicilia   and is located near Café Adriatic.     
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+ The Golden Palace is a Japanese restaurant with a moderate price range. It is in the riverside near the Express by Holiday Inn. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+
+Near The Six Bells is a coffee shop named The Twenty Two, located near Clare Hall. It has a high price range and is not family - friendly. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+
+Located on the river side of the city is The Rice Boat. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+
+Near the Rainbow Vegetarian Café, there is a pub named Wildwood, that offers French food with a moderate price range. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  Aromi offers a family-friendly coffee shop near Burger King, The Rice Boat. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  The Eagle pub is a coffee shop with a price range more than £ 20, serving Japanese food.   It is located near the Rainbow Vegetarian Café.   
+<|endoftext|>
+name:The Wrestlers|| REVIEW  A family - friendly coffee shop located in the riverside area near the Crowne Plaza Hotel in the Riverside area, The Eagle offers Indian food in a low price range. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+ The Rice Boat serves Italian food in the city centre, it is located by the riverside. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  Casa is a coffee shop with low customer ratings and is located in the city centre near the Crowne Plaza Hotel.   
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  A family - friendly coffee shop is situated in the riverside area near Café Rouge. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+
+Near the Crowne Plaza Hotel, you will find a family friendly Indian restaurant called Alimentum that serves Japanese food. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+ 
+ Near the river, there is a family friendly restaurant called The Golden Curry. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  Coffee Shop is a family friendly coffee shop that serves Indian food. It has a low customer rating and is located in the riverside. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+ The Golden Curry is a coffee shop serving Japanese food in the city centre, near the Express by Holiday Inn. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  Located near Café Sicilia, The Golden Curry has a low customer rating, but it is a family oriented place. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  A family friendly pub called The Eagle serves Chinese food at a moderate price. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  The Punter is a coffee shop in the city centre. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+
+This pub serves Indian food near Café Rouge. It is located near Café Sicilia. Its customer rating is 5 out of 5. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  Cafe Strada is located in Riverside with average customer rating 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+
+Located near the riverside in the city centre, The Rice Boat is an inexpensive coffee shop with a 5 out of 5 customer rating. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  Located in the city center near The Portland Arms is a moderately priced coffee shop that serves Indian cuisine in the moderate price range. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+
+Located near Café Sicilia, the Fitzbillies is a family friendly coffee shop that serves French food. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  The Waterman, a pub near the Crowne Plaza Hotel, serves French food and has a low customer rating, is near the Rainbow Vegetarian Café. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW Â Located in the City Centre is a French restaurant called The Golden Curry. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  The Rice Boat is an Indian food restaurant located near Burger King. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+ 
+ The Rice Boat offers Japanese cuisine. It offers cheap meals. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+
+Near the Rainbow Vegetarian Café is a pub called The Twenty Two. It is a kid friendly pub with an average rating and prices less than 20 euros and is located in the city centre. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  The Waterman is a coffee shop located in the city centre that is moderately priced. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  The Eagle is an Italian restaurant near Café Adriatic that has a customer rating of 3 out of 5, and is not family - friendly. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+
+This coffee shop has a high customer rating. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+ 
+ The Golden Curry is a family friendly restaurant near the riverside. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  Aromi is near Burger King. It is family - friendly and has a low customer rating. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  A cheap coffee shop in the riverside area is The Waterman. It is located near Café Adriatic. It is not family - friendly. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  The Eagle is an Indian restaurant that serves Japanese food at low prices. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  Located in the riverside area is a family friendly coffee shop that serves Italian food. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+ The Eagle is a cheap, child friendly coffee shop that offers Japanese food at moderate prices. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+
+Located near Café Sicilia, this coffee shop serves Indian food. The customer rating is low. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+
+Located next to Crowne Plaza Hotel is the French restaurant The Waterman, which is kid friendly. They serve Italian food, and are near Burger King. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  Cafe Alimentum is a cheap coffee shop near Café Rouge.  The prices are low and the customer ratings are low.   The coffee shop serves Indian food. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+ The Eagle is a coffee shop located near Clare Hall. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+
+Located near Clare Hall and near the river, The Wrestlers is a children friendly venue providing Japanese food for less than £ 20. It's a family friendly venue. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  Near The Bakers is a pub named The Rice Boat, a coffee shop with a price range of more than £ 30. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW 
+
+Near Clare Hall, The Rice Boat serves Indian food with a low customer rating and is located near Café Rouge in the city centre. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  Casa near Café Rouge in Riverside is kid friendly, has high customer rating and is located in the high price range. 
+<|endoftext|>
+name:The Wrestlers|| REVIEW  The Waterman is a moderately priced pub near The Portland Arms with a customer rating of 4 out of 5. 
+<|endoftext|>
+{'name': 'Aromi'}
+name:Aromi|| REVIEW 
+
+VIEW The Golden Curry is a coffee shop near The Sorrento. It has an average customer rating. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+
+The Eagle is an Italian restaurant with a price range of more than £ 30. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+
+This French place is near Café Rouge in Riverside. They serve French food. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<|endoftext|>
+name:Aromi|| REVIEW  is a pub that serves French food. They are not family friendly and have low customer ratings. 
+<|endoftext|>
+name:Aromi|| REVIEW  Came across a Japanese restaurant called The Wrestlers  that serves fast food and it has a low customer rating, it is located near Burger King . 
+<|endoftext|>
+name:Aromi|| REVIEW 
+
+The Waterman is a cheap, family friendly restaurant. 
+<|endoftext|>
+name:Aromi|| REVIEW  Located in the riverside area near the Crowne Plaza Hotel, the Green Man pub has a high customer rating and a price range of more than £ 30 - £ 50. 
+<|endoftext|>
+name:Aromi|| REVIEW  
+
+Located in the riverside area, The Eagle offers Indian Cuisine, with a moderate price range and a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Aromi|| REVIEW  A family friendly, Japanese coffee shop located near The Rice Boat in riverside near Crowne Plaza Hotel is called Cotto, which offers Indian cuisine. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+ The Waterman is a restaurant that serves French food near Café Rouge. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+ The Golden Palace is near The Portland Arms. It is a child - friendly place with high prices. 
+<|endoftext|>
+name:Aromi|| REVIEW  The Waterman is a family friendly coffee shop near Café Rouge, with a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+
+The Waterman offers Indian food in the low price range. Its is located in the city centre and serves fast food. 
+<|endoftext|>
+name:Aromi|| REVIEW  The Wildwood Café is an Indian restaurant with an average customer rating. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+
+This is a coffee shop in the riverside area that is family friendly. It has a customer rating of 5 out of 5 and is located near The Portland Arms. They serve Italian coffee. 
+<|endoftext|>
+name:Aromi|| REVIEW  The Golden Curry, near Café Adriatic, is a coffee shop that serves Indian food in a low price range. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+
+This is a cheap coffee shop located near Café Rouge. It has an average customer rating. <|endoftext|>
+name:Aromi|| REVIEW  The Wildwood is a family friendly Japanese restaurant located near Café Rouge. 
+<|endoftext|>
+name:Aromi|| REVIEW  A cheap pub in the city centre near the Express by Holiday Inn serves Indian food at a low cost. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+
+The Eagle is a coffee shop located near Café Sicilia that offers Italian food. 
+<|endoftext|>
+name:Aromi|| REVIEW  Coffee Shop is a family - friendly coffee shop that has a high customer rating. 
+<|endoftext|>
+name:Aromi|| REVIEW  Coffee shop The Rice Boat is a coffee shop in the city centre. 
+<|endoftext|>
+name:Aromi|| REVIEW  A family friendly coffee shop in the riverside area near Crowne Plaza Hotel in Riverside is The Rice Boat. It's a cheap, fast, and family friendly, coffee shop that is not family friendly. 
+<|endoftext|>
+name:Aromi|| REVIEW  A French restaurant called The Waterman is a family friendly coffee shop located near The Portland Arms. 
+<|endoftext|>
+name:Aromi|| REVIEW  The Rice Boat serves Italian food in a price range ranging between £ 20 - 25. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+ 
+ 
+ The Waterman is a pub located in the riverside area. They are cheap, but not family - friendly. 
+<|endoftext|>
+name:Aromi|| REVIEW  A French restaurant named Blue Spice serves Indian food in the city centre near Crowne Plaza Hotel. It is located near Express by Holiday Inn. 
+<|endoftext|>
+name:Aromi|| REVIEW  A coffee shop near the river named The Rice Boat is The Rice Boat. The customer rating is average. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+
+ is a cheap pub located near Crowne Plaza Hotel in the city centre. It has a low customer rating and is child friendly and has a price range of over 20 pounds. 
+<|endoftext|>
+name:Aromi|| REVIEW  The Rice Boat is a coffee shop in the riverside area. 
+<|endoftext|>
+name:Aromi|| REVIEW  The Golden Curry is a moderately priced fast food restaurant located in the city center. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+ The Wrestlers is a pub serving Indian food. It is located in the city centre near the Crowne Plaza Hotel. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+ The Waterman is a pub in the riverside area with a price range of less than 20 pounds. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+
+ is near Rainbow Vegetarian Café in the riverside area. It is not family - friendly and has a low customer rating. Its customer rating is low. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+
+Located in riverside near the Crowne Plaza Hotel in riverside near Crowne Plaza Hotel, the Waterman is a moderately priced pub that is located in the riverside area. 
+<|endoftext|>
+name:Aromi|| REVIEW  The Wildwood Café is a coffee shop with high prices that serves French food. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+ 
+ 
+ The Golden Palace is an average family friendly Italian restaurant near The Rice Boat. 
+<|endoftext|>
+name:Aromi|| REVIEW  Located near Burger King in the city centre near Express by Holiday Inn is a pub called the Eagle. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+
+This pub serves Chinese food near Café Rouge. It is near The Sorrento. It has average reviews 
+<|endoftext|>
+name:Aromi|| REVIEW  The Wildwood is a coffee shop serving Japanese food and has average customer ratings. 
+<|endoftext|>
+name:Aromi|| REVIEW  Aromi is a pub with a low customer rating in city centre that is family friendly and has a price range of more than £ 30. They are located near Café Rouge. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+<|endoftext|>
+name:Aromi|| REVIEW 
+<|endoftext|>
+name:Aromi|| REVIEW  Casa near Yippee Noodle Bar is a kid friendly coffee shop that is family friendly and has an average customer rating. 
+<|endoftext|>
+name:Aromi|| REVIEW  A French coffee shop called The Rice Boat is located near the Crowne Plaza Hotel. 
+<|endoftext|>
+name:Aromi|| REVIEW  is a coffee shop with an average rating. 
+<|endoftext|>
+name:Aromi|| REVIEW  A coffee shop in the city centre, The Golden Palace, is a child friendly Japanese coffee shop. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+
+VIEW Near the Crowne Plaza Hotel, The Rice Boat serves Japanese food and is a child friendly place. They have an average customer rating. 
+<|endoftext|>
+name:Aromi|| REVIEW 
+
+ is a pub with a moderate price range, it is located in the city centre area. 
+<|endoftext|>
+{'name': 'The Phoenix'}
+name:The Phoenix|| REVIEW  Casa is a cheap Japanese pub located in riverside. It is not family - friendly and is located near The Rice Boat. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+This French coffee shop serves Indian food and is located in the city centre near Clare Hall. 
+<|endoftext|>
+name:The Phoenix|| REVIEW   
+
+Located near the Crowne Plaza Hotel, Alimentum is a family friendly coffee shop. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+ 
+ 
+ 
+ A coffee shop located near The Portland Arms is The Punter. They are not children friendly and they are located near The Sorrento. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  A French restaurant named The Rice Boat serves Japanese food in the city centre and is not children Friendly. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+Located near the Rainbow Vegetarian Café, Alimentum is family - friendly and has French food. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  A family friendly coffee shop named The Waterman is located in the city centre and has a customer rating of 3 out of 5 and is not family friendly. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  is a coffee shop located near the Express by Holiday Inn, it offers Japanese food. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+Located near Café Sicilia, The Eagle is the price range of £ 20 - 25 and serves Italian food. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  The Waterman is a family friendly restaurant with a high customer rating. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+Located in the riverside, The Eagle is not family - friendly. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  A coffee shop named Café Sicilia serves Indian meals, but is not family friendly. It is located near the Express by Holiday Inn. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  Cinema near the Express by Holiday Inn is called The Rice Boat. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  The Golden Palace is a Japanese restaurant in Riverside with low prices. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+Located near The Sorrento, the coffee shop The Mill is a coffee shop that serves English food and is rated 5 out of 5 by customers. It is located in the riverside area near The Sorrento. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  Cafe Cotto is a cheap Italian coffee shop near The Six Bells. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  The Golden Curry is a moderately priced Indian restaurant near The Portland Arms. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  Cities in the high price range offer fast food in a cheap environment. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  The Eagle is near the river and serves Italian cuisine and is not family - friendly. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+Near Clare Hall in The Vaults is a coffee shop that offers Indian food in low prices with high customer ratings and a customer rating of 5 out of 5. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+Near Clare Hall, The Punter is a coffee shop that serves Indian food, it is family friendly and serves fast food. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+ 
+ The Golden Curry serves Indian food near The Portland Arms. It has an average customer rating. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+Near The Portland Arms, The Eagle is a coffee shop providing Indian food. It is near The Rice Boat and serves Indian food. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+Near Café Rouge, The Eagle is a pub serving French cuisine. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  Located near The Rice Boat is a pub that serves Japanese food with a high customer rating. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  Located next to Café Sicilia is The Punter, a moderately priced restaurant with a low customer rating. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  Located on the riverside in the city centre, The Rice Boat is a low - priced restaurant serving Indian food. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  A pub called Blue Spice is located near Yippee Noodle Bar. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+Near The Sorrento is a children - friendly coffee shop named The Rice Boat. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  The Waterman is a coffee shop near Crowne Plaza Hotel with a price range less than 20 Euros. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  Located near the riverside is a coffee shop called The Olive Grove. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+Near The Bakers near The Rice Boat, The Golden Palace serves Italian food and has a 5 out of 5 customer rating and is family friendly. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+Near the Rainbow Vegetarian Café, there is a coffee shop called The Eagle, that serves French food. It is located on the riverside, and is kid friendly. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  Aromi serves Indian food at the riverside and is child friendly. The price range is more than £ 30. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+This coffee shop is located in riverside, has a low customer rating and is not family - friendly, and has a price range more than £ 30. It is located near Café Adriatic. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  Casa near the riverside near the Express by Holiday Inn is a family - friendly pub. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+The Golden Palace is a high priced restaurant with a 5 out of 5 customer rating. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+This coffee shop is located in the riverside area near The Rice Boat. They are not child friendly and have a low customer rating. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+<|endoftext|>
+name:The Phoenix|| REVIEW  A pub called The Rice Boat has a customer rating of 5 out of 5, and is located next to The Bakers. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+The Rice Boat is a family friendly Italian restaurant located near Clare Hall. It is family - friendly. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+<|endoftext|>
+name:The Phoenix|| REVIEW  Coffee House is a coffee shop serving Chinese food. It is located near the Express by Holiday Inn near The Portland Arms. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+Located near Café Sicilia near The Rice Boat, The Golden Curry is not family - friendly and is not family - friendly. The price ranges from £ 20 - 25 and is not family - friendly. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  The Waterman is a coffee shop near The Portland Arms. It serves Indian food. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  The Rice Boat offers Indian cuisine in the riverside area near the Café Rouge. It is a children friendly coffee shop. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+
+This restaurant is located near The Portland Arms in the riverside area, is not family - friendly and has an average ratings. 
+<|endoftext|>
+name:The Phoenix|| REVIEW  Cafe The Rice Boat is a pub near Café Rouge with an average customer Rating. 
+<|endoftext|>
+name:The Phoenix|| REVIEW 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Rice Boat is a pub serving Italian food. It serves Japanese food in the moderate price range. It is located in the city centre. 
+<|endoftext|>
+{'name': 'Browns Cambridge'}
+name:Browns Cambridge|| REVIEW 
+
+This coffee shop serves French food at a high price range and is located next to Café Sicilia. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+
+The Eagle is a pub near The Portland Arms with low prices and is not family - friendly. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  The Waterman is a moderately rated pub near Burger King. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  Cinema near Burger King is The Rice Boat. It has a low customer rating, but it has received a high price range. It is located in riverside area. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  A French restaurant called The Rice Boat has been serving French food in the riverside area for more than 30 years. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  A coffee shop named Wildwood is located near the riverside. It serves Italian food in the mid - range price range. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  Cherry Grove is a coffee shop in the city center with low customer ratings. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+ 
+ 
+ 
+ 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  Cafe Cotto offers Italian food in the price range of £ 20 - 25. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  Aromi is an Indian food pub in riverside. It is not family - friendly and has a rating of 1 out of 5, but is family friendly. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  The Rice Boat is a cheap, family friendly restaurant that has a high customer rating. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  The Waterman serves French food in the city centre, and is near Express by Holiday Inn. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+
+Located near Burger King near Café Sicilia, the Café Rouge is family friendly and has a low customer rating. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  Cinema The Rice Boat is a family friendly coffee shop serving Japanese food. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  The Waterman is a moderately priced coffee shop located near Clare Hall near the Yippee Noodle Bar. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  is a coffee shop with a moderate price range. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  Cherry Hill is a coffee shop that serves Japanese food. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  Located near the Crowne Plaza Hotel, The Waterman is a family friendly pub that serves Indian food.     
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  A French coffee shop near The Portland Arms is called The Mill, it serves fast food. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  The Waterman serves Chinese food in a low price range. It is located near Burger King. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+
+Located in Riverside near the Express by Holiday Inn, The Eagle is an Italian restaurant with high customer satisfaction and a moderate price range. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  A family friendly pub called The Golden Curry is near The Sorrento. The price range is £ 20 - 25. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+
+The Eagle is a family friendly coffee shop serving Italian food in the city centre. Its prices range from £ 20- 25. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  Located near The Rice Boat  is a pub called Wildwood that sells Indian foods, and is not kid Friendly.  
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  A coffee shop called Café Sicilia is located in the city centre near Café Adriatic. They are family friendly. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW Â The Waterman is an Italian restaurant near Café Rouge. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  Located on the river side, Alimentum is a pub serving Italian food and has an average rating. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+ 
+ 
+ There is a coffee shop called The Twenty Two, located in riverside near Express by Holiday Inn, that is not children friendly. The Twenty Two is not family - friendly. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+
+This is an expensive coffee shop in Riverside. It serves Chinese food. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  A French restaurant is located in the city centre, called The Mill 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+ 
+ 
+ 
+ is an Italian restaurant located near Café Sicilia. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+
+Located near Burger King, The Rice Boat is a children friendly pub. The Rice Boat is located near Burger King with an average customer rating and is child friendly. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+ 
+  
+ 
+ <|endoftext|>
+name:Browns Cambridge|| REVIEW  A French pub called The Rice Boat serves Italian food in the city centre. They have a 5 out of 5 price range. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+ Located in the riverside area, The Rice Boat offers Indian food. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+
+Located in the City Centre, The Waterman is an average rated restaurant that is family friendly. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+
+ is a coffee shop located near Café Rouge. It is family friendly and has a low customer rating. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  Located at the riverside near Burger King, Alimentum is a family - friendly coffee shop with a high customer rating. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  Cafe The Rice Boat is a moderately priced Italian restaurant located near The Portland Arms in the City Centre. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  The Waterman, a family friendly coffee shop near Café Sicilia, has been rated 5 out of 5 by customers. It has a low customer rating. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  The Rice Boat is an Italian restaurant located in City Centre near Café Rouge. It is a family friendly coffee shop. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+
+This pub is located near Café Rouge. It has a moderate price range and is located in the riverside area. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  The Waterman is a coffee shop located near Café Rouge. The price range is high, but is not child friendly. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+ The Golden Palace is near Café Adriatic in the riverside area. It serves Chinese food and is family friendly. They have a low customer rating. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+
+Located near Café Sicilia, The Eagle is a moderately priced Italian coffee shop serving Indian food. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW 
+
+Located at Riverside is The Rice Boat, a Japanese pub that offers Japanese food, with a customer rating of 1 out of 5. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  The Waterman is a cheap, family friendly pub that is not child - friendly. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  Coffee Shop is a moderately priced restaurant located in riverside with a 5 out of 5 customer rating. 
+<|endoftext|>
+name:Browns Cambridge|| REVIEW  The Rice Boat is a family - friendly pub serving Chinese food in the city centre. It is located near Café Rouge. 
+<|endoftext|>
+{'name': 'Taste of Cambridge'}
+name:Taste of Cambridge|| REVIEW 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+The Waterman is a restaurant in the city centre. It is family friendly and has low customer rating. It is near Café Sicilia. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+ 
+ 
+ 
+ 
+ 
+ 
+ <|endoftext|>
+name:Taste of Cambridge|| REVIEW  Aromi is a coffee shop in the riverside area near Clare Hall with a customer rating of 1 out of 5.  It's located near Express by Holiday Inn. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  Cafe Zizzi has a high customer rating with an average customer rating, is located near The Bakers. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  The Rice Boat is a family friendly restaurant located near The Portland Arms in riverside that is kid friendly and kid - friendly. It is located next to Clare Hall. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  is a coffee shop located near Clare Hall in riverside. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  The Golden Curry is a pub serving Italian food in the city center near Clare Hall. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  The Golden Palace is a pub serving Chinese food near Café Sicilia with a high price point. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+The Rice Boat is a cheap coffee shop serving Indian food in the riverside area. It is near Clare Hall and is not children friendly. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+ 
+ The Eagle is a family friendly coffee shop near Clare Hall in city centre called The Mill. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+There is a coffee shop called Cocum that provides Japanese food at the price range more than £ 20. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+Located in the city centre near Clare Hall, The Golden Curry is a fast food pub with a low customer rating. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  A coffee shop called Alimentum provides Indian food, it is located near Burger King.   
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+Located on the riverside, The Rice Boat offers Indian food in the average price range. It is located near The Portland Arms. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  The Mill is a coffee shop near The Rice Boat. It has a moderate price range and is located on the riverside area. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+ 
+ Located in the city centre, The Waterman is a family friendly pub serving Italian food. The price range is moderate. They serve English coffee 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  A coffee shop near Clare Hall is called The Eagle. It is family friendly and serves Indian food.   
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+ The Golden Curry is a family friendly restaurant near the Rainbow Vegetarian Café. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+This is a coffee shop in riverside near Café Rouge. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+This pub, located in the city centre, has high prices, is family - friendly and is family friendly. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  The Green Man is a moderately priced pub serving English food. It is located in the centre city area of Cambridge. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+There is a pub called The Waterman. It is near Clare Hall. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  A coffee shop is located in the riverside area called The Rice Boat, it has a price range of less than £ 20 and is family - friendly. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+Located in Riverside near Crowne Plaza Hotel, Blue Spice is a coffee shop that serves French food in a moderate price range. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+Located near the riverside is Café Rouge 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Located near Café Rouge is The Cambridge Blue, a cheap, family - friendly coffee shop with an average rating. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  is located near the Rainbow Vegetarian Café. It is family friendly with a low customer rating. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+Located near Rainbow Vegetarian Café, The Golden Curry is a family friendly pub that has an average customer rating with an average price range. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  A coffee shop named The Olive Grove has a customer rating of 3 out of 5 and is located in the city centre.   
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  Cotto is a coffee shop with a moderate price range and customer rating in the city centre. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+ 
+ A coffee shop called The Mill is a coffee shop near Yippee Noodle Bar. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+Located in the riverside area, the Café Rouge offers Japanese food and coffee for less than £ 20. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  Casa is a coffee shop located by the riverside. They have low prices. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  A pub called The Rice Boat is a family friendly restaurant near The Portland Arms. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  Cotto is a French food restaurant near Café Rouge, near Café Rouge  with a high price range.   They serve Japanese food in the price range of more than £ 30, and are located near The Portland Arms  .     
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  Aromi is a coffee shop near Café Sicilia. It serves Indian food with a high customer rating and has a price range of £ 20 - 25. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  The Mill is a coffee shop located by the riverside with a price range of more than £ 20. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  The Green Man is a cheap, family friendly, coffee shop near Café Sicilia in Clare Hall. It has an average rating of 1 out of 5 and is located near the Express by Holiday Inn in the city center. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  Located near The Bakers, The Cricketers is a family friendly coffee shop with a low price range. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+Located at the riverside, Café Sicilia is a French restaurant that serves Indian food. It has low customer rating. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+The Rice Boat is a coffee shop near Clare Hall. It is child friendly with a price range of more than £ 30 in riverside. It is family friendly. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+Located in the city centre, The Wrestlers is a fast food restaurant that offers Japanese food and is family - friendly. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  A French restaurant named The Rice Boat is located in the riverside. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  The Golden Curry is a cheap Indian coffee shop in the city center near Express by Holiday Inn.  It serves Indian food in the low price range.  It is not family friendly and is located near Burger King.   
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  is an English restaurant with low customer ratings. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  Located near The Portland Arms, The Rice Boat is a coffee shop that serves Italian food. It is not kids friendly   and is located in the riverside. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW 
+
+Located near the riverside, the Rainbow Vegetarian Café is an inexpensive coffee shop with a low customer rating and low pricing. 
+<|endoftext|>
+name:Taste of Cambridge|| REVIEW  A French place called The Olive Grove  is a moderately priced, family - friendly coffee shop in the riverside area near Crowne Plaza Hotel. It is not family - friendly, but they are cheap. It is not a child - friendly, and not family - friendly. 
+<|endoftext|>
+{'name': 'Cocum'}
+name:Cocum|| REVIEW  A coffee shop named Wildwood serves Indian food near Ranch. 
+<|endoftext|>
+name:Cocum|| REVIEW  The Phoenix is a coffee shop serving French food in the city centre near the Crowne Plaza Hotel and has a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Cocum|| REVIEW  The Rice Boat is a family - friendly restaurant near The Portland Arms. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+
+Located near The Rice Boat, The Rice Boat serves French food. It is located in the riverside near All Bar One. 
+<|endoftext|>
+name:Cocum|| REVIEW  Aromi is an Indian coffee shop located in city centre near Café Rouge. 
+<|endoftext|>
+name:Cocum|| REVIEW  Located on the river near Yippee Noodle Bar, The Eagle offers a family - friendly restaurant. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+ 
+ Located near the Rainbow Vegetarian Café in the city center, The Golden Palace offers Indian food, and is kid - friendly. It is near Burger King in the centre of the city. 
+<|endoftext|>
+name:Cocum|| REVIEW  is a cheap, family - friendly coffee shop in city centre with an average customer Rating of 1 out of 5. 
+<|endoftext|>
+name:Cocum|| REVIEW  Cinema Café is an expensive Italian restaurant located near Café Rouge   located near The Six Bells. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+
+Located near Burger King, The Rice Boat has an average customer rating, and is family - friendly. 
+<|endoftext|>
+name:Cocum|| REVIEW  The Golden Curry is a coffee shop serving Japanese food in the high price range near Yippee Noodle Bar. It serves Indian food and is not children friendly. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+
+Located in the Riverside area, the Blue Spice, is a fast food restaurant with a high customer rating. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+
+Located near The Rice Boat, The Rice Boat provides Italian food at a moderate price range and is child friendly. 
+<|endoftext|>
+name:Cocum|| REVIEW  The Phoenix is a moderately priced coffee shop located in the riverside area near The Portland Arms, serving Italian food.   It is child friendly and has a customer rating of 3 out of 5.   
+<|endoftext|>
+name:Cocum|| REVIEW  The Golden Curry is an Italian restaurant that serves Indian food near the river. It has an average rating, however it is not family - friendly. 
+<|endoftext|>
+name:Cocum|| REVIEW  The Phoenix is a moderately priced restaurant with a moderate price range. 
+<|endoftext|>
+name:Cocum|| REVIEW  The Golden Curry is a coffee shop near the Crowne Plaza Hotel. It has a low price point and is kid friendly. 
+<|endoftext|>
+name:Cocum|| REVIEW  is a high priced coffee shop in the riverside area. It is family friendly, has a moderate price range and is located near the Rainbow Vegetarian Café. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+ The Phoenix is a coffee shop located near The Portland Arms that serves Italian food. It is child friendly and located near the riverside. 
+<|endoftext|>
+name:Cocum|| REVIEW  Located on the riverside, The Rice Boat is an Italian restaurant with a low customer rating that has been serving Japanese food for more than 30 years. It's not family - friendly. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+<|endoftext|>
+name:Cocum|| REVIEW  Came to a restaurant near Rainbow Vegetarian Café called The Golden Palace, it was called The Golden Palace   and it was a kid friendly restaurant. 
+<|endoftext|>
+name:Cocum|| REVIEW  The Golden Curry is a family friendly coffee shop located near the riverside. It serves Indian food and has low customer ratings. 
+<|endoftext|>
+name:Cocum|| REVIEW  
+ The Waterman is a family - friendly coffee shop that serves Indian food. It is located in the city centre. 
+<|endoftext|>
+name:Cocum|| REVIEW  A French place is near Café Rouge. It serves Indian food and is family - friendly. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+ The Waterman serves Chinese food in a high price range. They are located in the riverside area. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+ The Golden Curry is a cheap Indian restaurant located near Café Rouge. 
+<|endoftext|>
+name:Cocum|| REVIEW  The Golden Curry is an Italian restaurant near The Rice Boat in the city centre. It is kid friendly and is located near The Portland Arms. 
+<|endoftext|>
+name:Cocum|| REVIEW  A French pub named The Golden Curry is located in the riverside area, it serves fast food and is not kid friendly, it is near The Rice Boat. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+<|endoftext|>
+name:Cocum|| REVIEW 
+ 
+ 
+ There is a cheap coffee shop in the city centre named The Rice Boat. It is near Café Rouge. 
+<|endoftext|>
+name:Cocum|| REVIEW  A coffee shop called The Twenty Two is located near Café Sicilia. It has a customer rating of 1 out of 5 and is child friendly. 
+<|endoftext|>
+name:Cocum|| REVIEW  The Green Man serves Indian food near the Express by Holiday Inn. 
+<|endoftext|>
+name:Cocum|| REVIEW  is a cheap, family friendly pub in the city centre called The Rice Boat.   It is a kid friendly, family - friendly coffee shop located near All Bar One. 
+<|endoftext|>
+name:Cocum|| REVIEW  A coffee shop named Wildwood serves Japanese food. It has a moderate price range but is located near the Rainbow Vegetarian Café. 
+<|endoftext|>
+name:Cocum|| REVIEW  A French pub that has a low customer rating is located at riverside  . 
+<|endoftext|>
+name:Cocum|| REVIEW 
+
+Located near Café Rouge, Alimentum is a family - friendly coffee shop providing Italian food, serving Indian food and has a low customer rating. 
+<|endoftext|>
+name:Cocum|| REVIEW  Aromi is a coffee shop that serves Indian food in Riverside. It has a low customer rating. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+
+The Golden Palace is one of the best coffee shops in Cambridge. It serves Japanese cuisine. 
+<|endoftext|>
+name:Cocum|| REVIEW Â The Golden Curry provides French food and is family - friendly. 
+<|endoftext|>
+name:Cocum|| REVIEW  Located near Crowne Plaza Hotel in the city centre is the Indian restaurant The Golden Palace. 
+<|endoftext|>
+name:Cocum|| REVIEW  Located next to the riverside Café Rouge, The Waterman is a pub serving French food in a low price range. 
+<|endoftext|>
+name:Cocum|| REVIEW  is a coffee shop that serves Chinese food. The prices are moderate. 
+<|endoftext|>
+name:Cocum|| REVIEW  is a high - priced pub in the city centre that is family - friendly. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+ 
+ Located on the riverside is a family friendly coffee shop called The Phoenix. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+
+ The Punter offers a family friendly Italian coffee shop. Its price range is low. 
+<|endoftext|>
+name:Cocum|| REVIEW  Located near Café Rouge in the riverside, this Japanese restaurant serves Japanese food and is child friendly. 
+<|endoftext|>
+name:Cocum|| REVIEW  Cafe Strada is a coffee shop with a price range less than 20. It has a high customer rating and serves Indian food. 
+<|endoftext|>
+name:Cocum|| REVIEW  Coffee Shop provides Indian food in the city centre area. 
+<|endoftext|>
+name:Cocum|| REVIEW 
+<|endoftext|>
+{'name': 'The Dumpling Tree'}
+name:The Dumpling Tree|| REVIEW  The Golden Palace is a pub that serves French food and is located in Riverside, near the Express by Holiday Inn.  They are not family - friendly. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+Near the Café Rouge is a family-run restaurant called The Golden Curry. They have a 5 out of 5 customer ratings, and have a high price range. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  A coffee shop is located in city centre near Café Rouge. It has a moderate price range. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Aromi is a coffee shop near the river. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  The Waterman is a coffee shop in the city center with a low customer rating. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  A family - friendly restaurant located in Riverside near The Rice Boat  near the Express by Holiday Inn is The Waterman, located in the city centre near the Café Brazil. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Near Rainbow Vegetarian Café is The Rice Boat. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Aromi is a coffee shop near Burger King that serves Chinese food and has a high customer rating. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+The Waterman is a family - friendly pub near the Rainbow Vegetarian Café located near Café Rouge. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+Located in the riverside area is the Blue Spice restaurant. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+Located on the riverside near Clare Hall is The Cricketers. This pub serves French food, is moderately priced, and is family friendly. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+Located in the riverside area near The Rice Boat, The Golden Curry serves French cuisine in a cheap environment. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+Near the Café Rouge is an Italian restaurant called The Rice Boat. It has an average customer rating, is kid friendly, has a price range of less than £ 20 and is family - friendly. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Near Clare Hall is a family - friendly pub called The Golden Curry   with a price range of less than £ 30. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+Located near The Rice Boat near the Rainbow Vegetarian Café, The Golden Curry is a family friendly, fast food, family friendly restaurant that serves Indian food. It is located near Café Rouge. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+ The Punter has a low rating, but serves Italian food. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+This is a family - friendly restaurant near Café Rouge. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+Located at the riverside is a family friendly pub named The Twenty Two. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+ The Golden Palace offers French food and is near Café Rouge. Its customer rating is 3 out of 5. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  The Rice Boat is a family friendly restaurant with a price range between £ 20 - 25. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  The Golden Palace is a moderately priced coffee shop located near the Rainbow Vegetarian Café located in riverside. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  The Mill is a pub near the Crowne Plaza Hotel. It has a low customer rating.   
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+Located near The Sorrento is a coffee shop called Café Rouge. It serves Indian food in the price range of £ 20 - 25. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Near Burger King is a pub called The Rice Boat. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Aromi is a pub that provides Japanese food and is child friendly near The Sorrento. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Located on the riverside near Clare Hall, The Golden Curry is a coffee shop that serves Japanese food and is not kid friendly   located in the city center.   
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+Located on the riverside in Riverside, The Eagle offers a cheap pub style, with a moderate price range. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+This is a coffee shop with average customer service. The price range is more than 20 euros and it is located in the city centre. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Near Café Sicilia is a cheap Italian restaurant The Rice Boat in the riverside. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+Near the Crowne Plaza Hotel, The Wrestlers is a family friendly pub that serves Indian food and has a customer rating of 5 - 5 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Near Clare Hall is a coffee shop called The Mill which provides Indian food for less than £ 20. It is located in Riverside and is not family - friendly. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Aromi is a coffee shop near Burger King. It has a moderate price range and has a high customer rating. They offer Indian food for a low price. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+The Rice Boat is a family - friendly coffee shop located near Café Rouge. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  The Waterman has an average customer rating  with a moderate price range. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+ 
+ Located near Café Rouge, The Rice Boat serves Japanese food and has a 5 out of 5 rating 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+ 
+ 
+   
+ <|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+Located near Rainbow Vegetarian Café is the Blue Spice, located in the city centre. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+ The Golden Palace is a family friendly restaurant located near The Portland Arms in riverside that is children friendly. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+The Eagle is a pub near the riverside. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+This coffee shop offers Indian cuisine in the high price range. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+This pub is located near Café Sicilia, serving Indian food, has a low customer rating and has a high price range. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Cafe The Punter has a low customer rating  which is located in the riverside area. It is located near Café Sicilia.    It has a price range of less than £ 20.   It has a low customer rating. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Near Café Rouge  is the highly rated, coffee shop that serves French food in the moderate price range. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW Â The Rice Boat is family friendly with a price range of £ 30 - £ 50. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+Located near The Rice Boat, The Rice Boat is an Italian restaurant that has been rated 5 out of 5 by customer reviews for its price range. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Cherry Grove is a coffee shop located in the riverside area with a low customer rating. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW 
+
+Near Burger King is a coffee shop named The Rice Boat, which sells Japanese food and a high customer rating. 
+<|endoftext|>
+name:The Dumpling Tree|| REVIEW  Cotto is a coffee shop that serves Indian food near Café Rouge in the city centre. 
+<|endoftext|>
+{'name': 'The Punter'}
+name:The Punter|| REVIEW 
+
+This is located near Rainbow Vegetarian Café. The coffee shop is family friendly. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+
+The Golden Curry is a moderately priced restaurant that serves Chinese food in the city centre. The price range is less than £ 30. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+ Located in Riverside, The Golden Curry is family friendly, and has a price range of £ 20 - 25. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+
+The Eagle is a coffee shop located in the city centre near the Crowne Plaza Hotel. It is a low - cost restaurant. 
+<|endoftext|>
+name:The Punter|| REVIEW  The Golden Palace, located near The Portland Arms and serving Chinese food, serves Indian food. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+
+The Golden Palace, a coffee shop serving Japanese food near the city centre, is rated as average. The price range is less than £ 20 and is located near Café Rouge. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+ 
+ 
+ 
+ 
+ The Rice Boat is an inexpensive pub near Clare Hall, providing Italian food in the cheap price range. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+
+Located near The Rice Boat, The Rice Boat serves Indian food. The price range is moderate. 
+<|endoftext|>
+name:The Punter|| REVIEW  Near Burger King is a pub called The Rice Boat. It has an average customer rating. 
+<|endoftext|>
+name:The Punter|| REVIEW  The Waterman is a coffee shop that is located near the riverside and serves Indian food. It is located near The Sorrento. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+
+The Eagle serves Chinese food, it is near The Portland Arms. It is family friendly and has a low customer rating. 
+<|endoftext|>
+name:The Punter|| REVIEW  Coffee Shop is a family friendly Japanese coffee shop located in the city centre.   They have a high customer rating with an average price range. The price range is less than £ 20.   They are not family - friendly.   
+<|endoftext|>
+name:The Punter|| REVIEW 
+<|endoftext|>
+name:The Punter|| REVIEW  Near the riverside is a coffee shop called the Golden Curry, located at the river side, with a low customer rating. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+
+The Eagle is an Indian restaurant in the riverside area. It serves fast food with a high customer rating. 
+<|endoftext|>
+name:The Punter|| REVIEW  Located on the river, Fitzbillies is a coffee shop serving French food. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+ The Eagle is a coffee shop with a low customer rating. It's located in the city centre. 
+<|endoftext|>
+name:The Punter|| REVIEW  A pub with a high price range is The Rice Boat, near Café Rouge. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+
+Near the Rainbow Vegetarian Café is Café Rouge. They offer French food, and are family friendly. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+ Located in riverside, The Wrestlers is a coffee shop with a customer rating of 5 out of 5. They serve Indian cuisine in moderate price range and are family friendly. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+ 
+ 
+  Located on the riverside, The Eagle offers a cheap coffee shop, The Olive Grove near Crowne Plaza Hotel. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+ Located in the riverside, The Rice Boat is a moderately priced, kid Friendly, family friendly, coffee shop with a high customer rating. <|endoftext|>
+name:The Punter|| REVIEW 
+
+ is located near Rainbow Vegetarian Café, and has a high customer rating. 
+<|endoftext|>
+name:The Punter|| REVIEW  A coffee shop named Green Man serves Chinese food in the city centre. It serves Indian food, it is not family - friendly, and the price range is high. 
+<|endoftext|>
+name:The Punter|| REVIEW  Near The Sorrento is a children - friendly restaurant called The Punter. It serves French cuisine and is not children friendly. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+ The Eagle is a coffee shop that serves Indian food near The Portland Arms. 
+<|endoftext|>
+name:The Punter|| REVIEW  Located near the Rainbow Vegetarian Café is a children friendly restaurant called The Rice Boat. The price range is £ 30 - £ 25. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+ The Waterman serves Italian food in a moderate price range near The Bakers near All Bar One. It is not family - friendly. 
+<|endoftext|>
+name:The Punter|| REVIEW  Coffee Shop is a family oriented, family friendly coffee shop in the City Centre. 
+<|endoftext|>
+name:The Punter|| REVIEW  A coffee shop near The Rice Boat, The Mill, serves Italian food with prices less than £ 30. 
+<|endoftext|>
+name:The Punter|| REVIEW  Located near Crowne Plaza Hotel is a family - friendly coffee shop called The Rice Boat. It is located in the riverside area. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+ 
+ 
+ The Rice Boat is a coffee shop serving French food in riverside near The Portland Arms. It has a low customer rating and is not family - friendly. 
+<|endoftext|>
+name:The Punter|| REVIEW  The Waterman is a family - friendly pub with a moderate price range located in Riverside. 
+<|endoftext|>
+name:The Punter|| REVIEW  The Eagle is a pub that provides Japanese food in the riverside area. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+<|endoftext|>
+name:The Punter|| REVIEW 
+
+Located on the river, The Wrestlers has a high price range. It has a low customer rating. 
+<|endoftext|>
+name:The Punter|| REVIEW  A family friendly Japanese restaurant called Burger King in the river. The food is not kid friendly, and the prices are low, and the prices are high. 
+<|endoftext|>
+name:The Punter|| REVIEW  Located in the riverside area of riverside and near Burger King, the Café Brazil offers Italian food.   It is located close to the Express by Holiday Inn.   It is not family - friendly. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+
+This coffee shop offers a high price range. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+ Located in the riverside area is The Wrestlers. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+
+ is a family friendly coffee shop that serves Japanese food in the riverside area. The price range is more than £ 20. 
+<|endoftext|>
+name:The Punter|| REVIEW  The Green Man is a family friendly restaurant in the riverside area near the Crown Plaza Hotel near the Crowne Plaza Hotel, and has low prices and a customer rating of 3 out of 5 
+<|endoftext|>
+name:The Punter|| REVIEW 
+
+ is a coffee shop in city centre that serves Japanese food and is family friendly. It has a price range less than £ 20 but it is not family - friendly. 
+<|endoftext|>
+name:The Punter|| REVIEW  The Eagle is an Italian pub with a price range of £ 30 - £ 25 that has high customer ratings. 
+<|endoftext|>
+name:The Punter|| REVIEW  Near the Crowne Plaza Hotel is a cheap Indian restaurant The Phoenix, serving Italian food in the price range of 30 to 50. The Phoenix is a Japanese restaurant in the area of the city centre. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+ 
+ Located near the Rainbow Vegetarian Café, Alimentum is a kid friendly coffee shop serving Indian food. It has a low customer rating, and is not child - friendly. 
+<|endoftext|>
+name:The Punter|| REVIEW  A French pub named Blue Spice serves French food. It has a customer rating of 5 out of 5. 
+<|endoftext|>
+name:The Punter|| REVIEW 
+
+Located near Clare Hall, The Rice Boat is a family friendly pub serving Japanese food. It's rated 5 out of 5. 
+<|endoftext|>
+name:The Punter|| REVIEW  The Waterman is a family friendly restaurant located near The Portland Arms. It serves Japanese food, and it has a low customer rating. 
+<|endoftext|>
+name:The Punter|| REVIEW  The Golden Palace is a children friendly, family friendly restaurant near Burger King. It is located at Crowne Plaza Hotel and has a moderate price range. It is located near The Six Bells and is not family - friendly. 
+<|endoftext|>
+{'name': 'The Golden Curry'}
+name:The Golden Curry|| REVIEW  The Golden Curry, near Burger King, serves Japanese food in a low cost, low customer rating. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Located on the riverside near Crowne Plaza Hotel, is a family friendly Japanese food venue, The Rice Boat, which serves Indian food for less than £ 30. It is near The Portland Arms. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+The Eagle is a family friendly Italian pub that is not kid friendly. It is located near Café Adriatic and has a low customer ratings. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Cafe Alimentum offers Japanese food at a low price, is located in the city centre near The Rice Boat, it is not kids friendly and has a rating of 3 out of 5, and is not family - friendly 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+The Rice Boat is a family friendly restaurant that offers Indian food in riverside. It is located in riverside. The customer rating is average, but they have a low price range. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  The Eagle pub in Riverside serves French food with a price range of £ 20 - 25 and a customer rating of 3 out of 5. Its price range is low. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  A family friendly coffee shop called Loch Fyne has been rated 5 out of 5 by the customer rating. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Located in the city centre near Burger King is The Olive Grove.  It serves Indian food and is family - friendly.   
+<|endoftext|>
+name:The Golden Curry|| REVIEW  A family - friendly Italian restaurant called The Waterman is located in the riverside and is family friendly. It serves French food and serves French food. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+Located next to Crowne Plaza Hotel is a French restaurant called Fitzbillies. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Located in Riverside area, The Rice Boat is a family friendly pub that serves Japanese food. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+Near Rainbow Vegetarian Café, The Rice Boat is a moderately priced restaurant serving Indian food. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+Located next to the Rainbow Vegetarian Café is The Golden Curry, which is kid friendly with a price range of £ 30 - £ 25. It's not kids friendly and is not family - friendly. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  The Golden Palace is a family friendly restaurant. It has a 5 out of 5 rating and is not family friendly. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  A French pub with a low customer rating is The Eagle, located on the river. It has a price range of more than 20 euros. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+The Eagle serves Indian food at a moderate price, with an average customer rating. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  A French pub near Café Rouge is The Twenty Two.  It has a price range of more than 20   and is not family - friendly.   The customer reviews are average. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Cafe Alimentum is near Burger Queen in the Riverside area near The Rice Boat. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+Near the Rainbow Vegetarian Café is The Rice Boat. It has a moderate price range and is family friendly. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Aromi is a coffee shop that has a high customer rating with a customer rating of 3 out of 5. They have an average customer rating, however, 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  A coffee shop named The Waterman is located near Burger King. It serves fast food and is family friendly. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+Near The Portland Arms, The Rice Boat serves Chinese food. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  The Eagle has a low customer rating and is a coffee shop with low prices. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+Near the riverside area is a coffee shop called Wildwood. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+ is a coffee shop that has a customer rating of average and is family friendly. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Cafe Zizzi offers Japanese food, is near the Rainbow Vegetarian Café and is family - friendly. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+ 
+ The Rice Boat serves French food in the city centre and serves Indian food. The restaurant is kids friendly. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  The Golden Palace  provides French food and is located in riverside.  It is not family friendly and has a price point of 20 - 25 pounds. It is not family friendly and the price range is less than £ 20. It is located near the river  and is not kids friendly. It is near Express by Holiday Inn.  It offers cheap Japanese meals.   
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+ Located in city centre, The Rice Boat is a coffee shop with moderate prices. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Cafe Zizzi is a family friendly Japanese coffee shop that offers fast food. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Cinema is located at the riverfront in the city centre.  There is a moderately priced coffee shop called Wildwood.   It is located near Café Adriatic and is family friendly.   
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+Located in the riverside area, the Yippee Noodle Bar has a high price range and a low customer rating. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Located in Riverside, the Fitzbillies is a family - friendly, family - friendly coffee shop. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+ is located near The Rice Boat. It serves Indian food with an average customer rating. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Aromi is a coffee shop in the riverside area. It has a low customer rating. It is family - friendly and serves French food. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Aromi is a family friendly Japanese pub with a price range between £ 20 - 25. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Cafe Cotto is near Café Rouge. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  A French restaurant called Alimentum has a high rating and is located in the city centre. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  A family friendly Japanese coffee shop near the Rainbow Vegetarian Café is located at Café Rouge, near Café Sicilia. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+Near Rainbow Vegetarian Café, the Waterman is a kid friendly pub with a low customer rating. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+Located in the city centre, The Rice Boat is a family friendly Italian coffee shop serving fast food. It is located near Café Rouge. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+Near Café Rouge is a cheap Japanese restaurant called The Punter. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Near the Café Sicilia there is an Italian restaurant called The Golden Palace that serves Italian food. It has average customer ratings and is located in the city centre. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW 
+
+Near Burger King is a coffee shop called The Golden Curry, serving French food in the city centre and is family friendly. Its customer rating is average and it is not family - friendly. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Coffee shop Fitzbillies is a moderately priced coffee shop near Café Rouge that serves Japanese food. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Cinema is an Italian pub that is not family friendly, and has a low customer rating. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  A coffee shop in the city centre is called The Rice Boat. 
+<|endoftext|>
+name:The Golden Curry|| REVIEW  Cafe Zizzi is a family friendly Italian restaurant near The Sorrento. It is not kids friendly and has high customer ratings. 
+<|endoftext|>
+{'name': 'Alimentum'}
+name:Alimentum|| REVIEW  The Golden Palace offers Indian food. It is a children friendly pub located near Café Sicilia. 
+<|endoftext|>
+name:Alimentum|| REVIEW  A pub called The Waterman is located in city centre. It is cheap and has a customer rating of 3 out of 5 and it is family friendly. 
+<|endoftext|>
+name:Alimentum|| REVIEW  The Golden Curry is an Italian pub serving fast food and is family-friendly located in the city centre. It is located near the Crowne Plaza Hotel in riverside. 
+<|endoftext|>
+name:Alimentum|| REVIEW  is a coffee shop located near the Rainbow Vegetarian Café. It has a moderate price range. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+ 
+ 
+ Located near The Bakers is a coffee shop that serves Indian food called The Rice Boat. It is family friendly. 
+<|endoftext|>
+name:Alimentum|| REVIEW  The Rice Boat provides fast food at an affordable price, is located near Burger King. 
+<|endoftext|>
+name:Alimentum|| REVIEW  The Phoenix is a family - friendly, family - friendly pub serving Japanese cuisine in the moderate price range. 
+<|endoftext|>
+name:Alimentum|| REVIEW  The Waterman is a moderately priced coffee shop in Riverside. It serves Italian cuisine. 
+<|endoftext|>
+name:Alimentum|| REVIEW  The Waterman is a family friendly pub in the riverside area, with a customer rating 1 out of 5. 
+<|endoftext|>
+name:Alimentum|| REVIEW  The Eagle is a cheap coffee shop that is located in the riverside area near Café Sicilia. It has a customer rating of 1 out of 5 with a price range of less than 20. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+The Rice Boat is a family friendly coffee shop that provides Italian cuisine in the city centre. The price range is moderate. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+Located near The Rice Boat, The Rice Boat provides Indian food and is child friendly. It also sells Japanese food. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+ 
+ is a coffee shop in the Riverside near The Sorrento. It is a children friendly place and is rated 3 out of 5. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+This pub is located near the Yippee Noodle Bar. It has an average customer rating and has an average price range. 
+<|endoftext|>
+name:Alimentum|| REVIEW  The Golden Curry is located near Burger King in riverside near Café Sicilia. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+Located near Rainbow Vegetarian Café, The Eagle is a family friendly coffee shop serving French food with high prices. 
+<|endoftext|>
+name:Alimentum|| REVIEW  A French coffee shop located near Crowne Plaza Hotel in the riverside area, it has a low customer rating. 
+<|endoftext|>
+name:Alimentum|| REVIEW  Located next to Café Sicilia, The Golden Palace is a coffee shop with moderate prices that serves Chinese food. 
+<|endoftext|>
+name:Alimentum|| REVIEW  Located in the riverside area near the Crowne Plaza Hotel  is a family friendly coffee shop with a customer rating of 3 out of 5  . It has a high price range. 
+<|endoftext|>
+name:Alimentum|| REVIEW  Cinemark is a coffee shop near Burger King that serves Italian food. 
+<|endoftext|>
+name:Alimentum|| REVIEW  Aromi is a family friendly pub near Café Rouge with a low customer rating. 
+<|endoftext|>
+name:Alimentum|| REVIEW  Aromi is located near Burger King and provides Indian food. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+Located at Café Sicilia in the river near Café Rouge, Alimentum offers Italian food. It is family - friendly. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+ 
+ 
+ The Eagle is a cheap Japanese restaurant with a moderate price range and a customer rating of 5 out of 5. 
+<|endoftext|>
+name:Alimentum|| REVIEW  Aromi is a cheap Japanese restaurant located next to the riverside. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+Located next to the riverside coffee shop is The Rice Boat, an Italian restaurant serving Indian food and a high price range, it is located in the riverside area. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+Located near The Rice Boat, the Rainbow Vegetarian Café is family friendly and has an average customer rating. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+Located near The Bakers, Blue Spice offers Japanese food and is not child friendly. 
+<|endoftext|>
+name:Alimentum|| REVIEW  Cafe Zizzi has a customer rating of 1 out of 5   and is located near Burger King. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+ The Phoenix is a family restaurant located in the city centre near The Rice Boat. It is not family - friendly and has average ratings. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+ Located on the riverside near Avalon, The Rice Boat is a pub that serves Japanese food. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+The Waterman is a family friendly coffee shop serving Japanese food in the riverside area. It serves Indian food and is located next to The Rice Boat. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+<|endoftext|>
+name:Alimentum|| REVIEW  The Phoenix is an inexpensive, fast, family - friendly restaurant located near the Rainbow Vegetarian Café. It is located next to Café Brazil. It has a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Alimentum|| REVIEW  Cafe Alimentum is located in the riverside near Café Rouge. It is family friendly and has high customer ratings. 
+<|endoftext|>
+name:Alimentum|| REVIEW  The Golden Curry provides a high - priced Italian meal in the city centre. It is located near The Sorrento. 
+<|endoftext|>
+name:Alimentum|| REVIEW  The Waterman is a coffee shop in the city centre. It serves Japanese food in moderate price range. It is located in the city centre. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+<|endoftext|>
+name:Alimentum|| REVIEW  The Phoenix is a cheap coffee shop in the city centre. It has a moderate price range and is not family - friendly. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+Located near The Portland Arms in riverside, the Rice Boat is a family friendly restaurant with a high customer rating. 
+<|endoftext|>
+name:Alimentum|| REVIEW  Coffee Shop provides Japanese food in the moderate price range. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+Located in the riverside area, The Waterman is a coffee shop that is family friendly and is not child - friendly. The Waterman is a coffee place located near Café Sicilia and is family - friendly and serves Italian food. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+Near The Bakers is a coffee shop called The Rice Boat. The price range is more than £ 30 and is family friendly. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+This is an Indian coffee shop that serves Italian food. It is located in the riverside area near Café Sicilia. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+The Golden Curry is an Indian restaurant near the river near Crowne Plaza Hotel. It is family friendly. It is located on the outskirts of the city. It is near Café Adriatic. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+Located near The Portland Arms, The Rice Boat is a coffee shop with a high customer rating. 
+<|endoftext|>
+name:Alimentum|| REVIEW Â The Golden Curry is a cheap restaurant located by the river near the Express by Holiday Inn. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+Located near Café Sicilia, The Rice Boat serves Indian food in a moderate price range. 
+<|endoftext|>
+name:Alimentum|| REVIEW 
+
+Near the riverside, The Eagle serves French food with a moderate price range and is family - friendly. It has an average rating of 2 out of 5. 
+<|endoftext|>
+name:Alimentum|| REVIEW  The Golden Palace is a family friendly pub with low pricing and a customer rating of 1 out of 5, with a price range of less than £ 20. It is near the Express by Holiday Inn.   
+<|endoftext|>
+{'name': 'Midsummer House'}
+name:Midsummer House|| REVIEW 
+
+This pub is located in the riverside area near Express by Holiday Inn. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+Located next to the riverside, The Rice Boat offers Indian food. It has a low customer rating and is not family - friendly. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  In the city centre there is a family friendly coffee shop called The Twenty Two.  It is located near Clare Hall.  It sells cheap Japanese food, is kid friendly and has an average customer rating.    It is located in the city centre and is family friendly.    If you want cheap Indian food, then check out The Rice Boat.   It is a family friendly coffee shop located in the city centre.  '<|endoftext|>
+name:Midsummer House|| REVIEW  The Green Man is located on the riverside near Café Adriatic. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+This is an Italian pub located on Riverside near the Rainbow Vegetarian Café. The price range is moderate. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+The Eagle is a family friendly coffee shop located in the city center. It has a customer rating of 5 out of 5. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+This pub serves French food in the riverside area. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  is an expensive coffee shop in the riverside area. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  In the riverside area there is a pub called The Rice Boat that serves Indian food. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+ The Waterman is a cheap restaurant that serves Japanese food. It is located in the riverside area. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+Near The Rice Boat is a pub called Fitzbillies which has a low price range. It is located near Clare Hall. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  Aromi is an English restaurant near Clare Hall. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+ The Punter offers French food. They are in the riverside. Prices are low. They offer cheap French food. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+ 
+  The Golden Palace is an Italian pub with an average customer rating. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+Located near The Portland Arms, The Rice Boat is a coffee shop providing Japanese food. It is located near Café Rouge. The prices are moderate and they have a customer rating of 5 out of 5. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+ 
+ Located near the river in the city centre, Fitzbillies is family friendly coffee shop that is located near All Bar One. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  is a pub that serves Italian food in riverside. It has a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+ Located in the riverside area, the Blue Spice serves French cuisine. Prices range from $20 - $25. It is located close to Clare Hall, but is family owned. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+ 
+ 
+ 
+ is a coffee shop located at the Riverside Expressway. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+ The Mill is an average pub with average customer ratings. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  The Green Man is a family friendly coffee shop near the Crowne Plaza Hotel. It is near The Sorrento in the city center. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  The Mill is a family friendly coffee shop in the city centre with a customer rating of 3 out of 5. They are near Express by Holiday Inn, but have an average customer rating. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+VIEW Near Burger King is The Rice Boat, a coffee shop with a low customer rating. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  Coffee Shop serves Indian food at a high price range. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+Near the river, there is a coffee shop called Wildwood, that offers Japanese food in the moderate price range. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+Near Burger King, there is a coffee shop called The Waterman that serves French cuisine. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  A French restaurant called The Golden Palace  is situated near the Rainbow Vegetarian Café. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  The Rice Boat is a cheap coffee shop that serves Indian food near Café Rouge  and has low customer rating. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+ The Waterman is a restaurant with a price range of more than £ 30. Located in riverside. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+The Eagle is a coffee shop that provides Indian food in the low price range, it is located in the city centre, and is family friendly. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+Near the Rainbow Vegetarian Café, there is a pub called The Wrestlers with high prices, and it has a high customer rating. It's located in the city center and has a low customer rating. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+This coffee shop is located near The Sorrento and serves Japanese food. It is near the Rainbow Vegetarian Café. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+Near Burger King near Café Rouge is a family - friendly coffee shop called The Rice Boat. It is located near The Portland Arms, with a 5 out of 5 rating. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  The Rice Boat is situated near Clare Hall and has a price range from £ 20 - 25, but has a customer rating of 5 out of five, and is not family - friendly. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  Cherry Grove is a coffee shop with a price range of less than £ 20. It is near Express by Holiday Inn. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  Cafe The Rice Boat provides Indian food in the moderate price range. It is located near Café Rouge. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  A French restaurant called The Golden Palace is located in riverside near Café Sicilia. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+Located near Rainbow Vegetarian Café, The Eagle is an Indian eatery serving French food. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  A family friendly coffee shop located in Riverside is The Golden Palace, located near All Bar One. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+The Golden Palace has French food. 
+
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+Located in Riverside near the Express by Holiday Inn in the riverside area, Blue Spice is family friendly, with high customer rating. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+Near The Rice Boat is a pub called Fitzbillies that sells Japanese food. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+ 
+ The Eagle is a coffee shop near Crowne Plaza Hotel with a price range of less than £ 20. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  In the city centre there is a coffee shop called The Rice Boat. It is children friendly and is kid friendly. 
+<|endoftext|>
+name:Midsummer House|| REVIEW 
+
+Located in Riverside, The Eagle is a pub with a low price range that is family - friendly. It is in the city centre near Express by Holiday Inn. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  A cheap coffee shop near Café Sicilia is called The Wrestlers  where customers rate it 5 out of 5   and it has a 5 out of 5 customer rating. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  A French restaurant called Wildwood is near Clare Hall near Express by Holiday Inn. It is a family - friendly place. <|endoftext|>
+name:Midsummer House|| REVIEW  is a cheap coffee shop near Clare Hall in the city centre. 
+<|endoftext|>
+name:Midsummer House|| REVIEW  is a coffee shop located near The Portland Arms in the city centre, serving Italian food with an average customer rating, located in the city centre area. 
+<|endoftext|>
+{'name': 'Blue Spice'}
+name:Blue Spice|| REVIEW 
+ 
+ 
+ The Rice Boat serves Italian food and is located near Café Rouge in the riverside area. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  The Waterman is a cheap coffee shop in the riverside area near Express by Holiday Inn. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  A coffee shop in the city centre near Express by Holiday Inn is called The Rice Boat and it serves Japanese food. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+ Located near Café Sicilia, Fitzbillies offers French cuisine and coffee at an average price range of more than £ 30. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  Cherry Hill is a family friendly coffee shop in riverside. It's a family friendly restaurant. Its prices are moderate and its customers are average. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+Near Clare Hall, The Golden Curry is family friendly. It is located in riverside area. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+ The Waterman serves French food in the city centre, is family friendly and is located near Express by Holiday Inn. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+This pub is located near the Rainbow Vegetarian Café in the riverside area near the Café Rouge. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  A coffee shop named The Rice Boat is located near Burger King. It is kid friendly and is near Café Rouge. It is near The Portland Arms and is rated average for its cheap price range. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+Located near Clare Hall, The Golden Curry serves French food. The price range for French food near Café Rouge is £ 20 - 25. They are family friendly and have a customer rating of 1 out of 5. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+ 
+ A family friendly Italian coffee shop near The Bakers, The Eagle serves Japanese food in the low price range. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+ 
+ The Eagle is located on the riverside near Café Sicilia. It is family friendly, with a high price range. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+ Located near The Portland Arms is The Golden Curry, a restaurant with a low customer rating and is located near The Rice Boat. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+ The Eagle is a coffee shop near the Express by Holiday Inn that serves Italian food, it is not children friendly and costs more than £ 30. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+Near Clare Hall, The Punter serves Italian food and is family friendly. Its customer rating is 5 out of 5. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+Near Café Rouge, the Blue Spice serves Indian food in the moderate price range. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  Coffee Shop is a family friendly coffee shop located near Burger King that has a 5 out of 5 rating, located in riverside. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+ The Rice Boat is a coffee shop in Riverside that has high prices, has a customer rating of 5 out of 5, has a family atmosphere, and has a customer rating of 1 out of 5. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+The Golden Curry restaurant offers Indian cuisine at a cheap price and is family friendly. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  A French restaurant called The Rice Boat is located near Rainbow Vegetarian Café 
+<|endoftext|>
+name:Blue Spice|| REVIEW  Aromi is an Indian coffee shop that sells Japanese food and is not family - friendly. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+ 
+ Located near The Portland Arms, The Cambridge Blue is a pub that serves Indian food. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+ 
+ A pub that has a 5 star rating, The Rice Boat has an average customer rating and is located near Rainbow Vegetarian Café. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  The Waterman is a coffee shop near the Crowne Plaza Hotel in Riverside with a price range of £ 20 - 25. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+The Waterman, a coffee shop near Café Sicilia is child friendly and has Italian food. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  A family friendly Japanese restaurant is The Twenty Two. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+Near the Café Sicilia, there is a coffee shop that serves French food called The Rice Boat, with a customer rating of 1 out of 5. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+The Rice Boat is a family friendly coffee shop located near Café Rouge. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+Located in the city centre, Alimentum serves Japanese food in moderate prices and is children - friendly. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+Located near The Rice Boat, The Golden Palace is a cheap coffee shop with a high customer rating and an average rating. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+ The Eagle is an expensive pub located in riverside near The Rice Boat. They serve Indian food. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  is a cheap coffee shop near Burger King near Burger King. It is located in the city centre. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+The Rice Boat is a coffee shop located near Rainbow Vegetarian Café. It has average customer ratings, and a price range of £ 20 - 25. It is located near Café Sicilia. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  Cherry is a family friendly coffee shop located in riverside near Crowne Plaza Hotel. It offers Indian food and is child friendly. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  The Waterman is a family friendly, coffee shop in Riverside. It has a price range of less than £ 20 and is child friendly. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  The Waterman, located in the riverside, serves Chinese food. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  Cafe Strada is a family friendly Italian restaurant with a customer rating of 3 out of 5. The food and atmosphere is average. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+The Eagle is a coffee shop that serves Indian food in the city centre near Express by Holiday Inn. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  The Rice Boat serves Indian food near Clare Hall. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+ is a coffee shop located next to Café Sicilia in city centre. It is not family - friendly, but it serves Italian food. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  A coffee shop near Café Sicilia is The Punter, located in the city centre and serves Indian food.  
+<|endoftext|>
+name:Blue Spice|| REVIEW  Cherry is a coffee shop in Riverside, near the Crowne Plaza Hotel. It is not child - friendly. It sells Indian cuisine with a high customer rating and a price range of £ 20 - 25. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  A family friendly coffee shop named The Eagle is near the Express by Holiday Inn, near Café Rouge. It is located near Café Rouge and offers a moderate price range and a low customer rating. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  Cherry is a family - friendly coffee shop near Café Rouge. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+ 
+ Located on the riverside near The Rice Boat, The Rice Boat is a moderately priced restaurant serving Indian food with an average customer rating. 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+<|endoftext|>
+name:Blue Spice|| REVIEW 
+
+This coffee shop in riverside serves Japanese food. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  Cafe Zizzi is a family - friendly coffee shop with a customer rating of 3 out 5, near the river. 
+<|endoftext|>
+name:Blue Spice|| REVIEW  Aromi is a coffee shop near the riverside. It has a low customer ratings and is located near Express by Holiday Inn. 
+<|endoftext|>
+{'name': 'Strada'}
+name:Strada|| REVIEW 
+
+The Rice Boat is an Italian restaurant with an average customer rating in Riverside. 
+<|endoftext|>
+name:Strada|| REVIEW  Casa near The Bakers serves Indian food, it is family - friendly, and has a customer rating average of 3 out of 5. 
+<|endoftext|>
+name:Strada|| REVIEW  The Golden Curry  is a moderately priced coffee shop near Café Rouge. 
+<|endoftext|>
+name:Strada|| REVIEW 
+ The Punter is located in Riverside near Café Rouge. The price range is moderate but it is child friendly. 
+<|endoftext|>
+name:Strada|| REVIEW  Located near Café Rouge, The Rice Boat provides fast food in a moderate price range. It's located near The Sorrento. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+This French restaurant, located near Clare Hall, has a low customer rating but is family friendly. 
+<|endoftext|>
+name:Strada|| REVIEW  Aromi is a coffee shop near the riverside. 
+<|endoftext|>
+name:Strada|| REVIEW  Aromi is a cheap restaurant in the city centre with high prices.  They are family friendly. 
+<|endoftext|>
+name:Strada|| REVIEW  A coffee shop named Green Man is located in the riverside area near The Rice Boat and it's family friendly  and is not kid friendly. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+Located in the city centre near Burger King and The Rice Boat, The Rice Boat is an English food pub serving Italian food. It is near Express by Holiday Inn and is rated as average. 
+<|endoftext|>
+name:Strada|| REVIEW 
+ 
+ The Phoenix has a high price range and is not family - friendly. 
+<|endoftext|>
+name:Strada|| REVIEW  A French coffee shop near the Crowne Plaza Hotel is called The Rice Boat  with a customer rating of 1 out of 5.   It is not family - friendly, has a low price range, and has a customer rating of 3   
+<|endoftext|>
+name:Strada|| REVIEW  The Waterman is a coffee shop with a price range of less than £ 20. 
+<|endoftext|>
+name:Strada|| REVIEW  is a pub serving Chinese food in the riverside area near The Portland Arms. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+The Waterman is a cheap restaurant that serves Indian food in the low price range. 
+<|endoftext|>
+name:Strada|| REVIEW  Aromi is an Indian restaurant that provides French food in the city centre. It has an average rating and is near Café Rouge. 
+<|endoftext|>
+name:Strada|| REVIEW  A French restaurant called The Golden Palace, near The Portland Arms, is a family friendly coffee shop called The Wrestlers that has a customer rating of 5 out of 5. 
+<|endoftext|>
+name:Strada|| REVIEW  is a cheap, family friendly, family friendly coffee shop that has been providing Indian food for more than 30 years. 
+<|endoftext|>
+name:Strada|| REVIEW  Coffee Shop is a coffee shop that serves Japanese food at a cheap price range.   They are near the riverside.   
+<|endoftext|>
+name:Strada|| REVIEW  Located near The Rice Boat is a restaurant called The Rice Boat that is kid friendly with a price range of less than £ 20. 
+<|endoftext|>
+name:Strada|| REVIEW  Cafe Zizzi has a customer rating of 1 out of 5. 
+<|endoftext|>
+name:Strada|| REVIEW  is a family friendly pub with a price range of over £ 30. It is located in the city centre and is located in the city centre. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+Located in the riverside area near Café Sicilia there is a children friendly coffee shop called The Vaults. It has a high customer rating. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+The Waterman pub in city centre is family friendly, has a moderate price range, and is located in the city centre near Express by Holiday Inn, is kid friendly. 
+<|endoftext|>
+name:Strada|| REVIEW 
+ 
+ The Rice Boat, located in the riverside, serves Indian food. Its customer rating is average. 
+<|endoftext|>
+name:Strada|| REVIEW 
+ 
+ The Eagle is a family friendly pub that serves Italian food and is family friendly. 
+<|endoftext|>
+name:Strada|| REVIEW 
+ The Waterman is a pub that is kid friendly and is located near The Six Bells. 
+<|endoftext|>
+name:Strada|| REVIEW  A pub with a high price range in riverside called Wildwood is The Eagle. It serves Indian food and is located next to Burger King, and is kid friendly. 
+<|endoftext|>
+name:Strada|| REVIEW 
+ The Phoenix is a family friendly coffee shop in the high cost area. 
+<|endoftext|>
+name:Strada|| REVIEW  The Waterman, a fast food restaurant near Burger King, offers a moderate price range and is not family - friendly. 
+<|endoftext|>
+name:Strada|| REVIEW  Cafe Cotto serves Italian food in the moderate price range. 
+<|endoftext|>
+name:Strada|| REVIEW  Cafe Zizzi is a cheap Italian coffee shop near The Rice Boat in the city centre near Café Rouge. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+ is situated in riverside near the Express by Holiday Inn. It is not family - friendly. 
+<|endoftext|>
+name:Strada|| REVIEW  A family friendly coffee shop located near Café Rouge, The Rice Boat provides Japanese food. It is located near The Portland Arms, and has a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+Near the river, The Cricketers is a coffee shop serving Indian food and a kid friendly atmosphere. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+Located near The Rice Boat is a coffee shop serving French food called The Rice Boat. It is located in the city centre near Express by Holiday Inn. 
+<|endoftext|>
+name:Strada|| REVIEW  The Rice Boat is an average priced Indian restaurant that is near The Portland Arms. It serves French food, it is located near The Sorrento, and is not kids friendly. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+Near the Rainbow Vegetarian Café is a pub called Wildwood. 
+<|endoftext|>
+name:Strada|| REVIEW  A French pub called Zizzi serves French food. It is located in the city center near the river. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+Located near Café Rouge, The Eagle serves Italian food at the moderate price range. 
+<|endoftext|>
+name:Strada|| REVIEW  The Rice Boat is near the Café Sicilia. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+The Rice Boat is a moderately priced restaurant that serves Chinese food. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+Located at the river, The Waterman has a moderate price range, but a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+Located in the riverside area, The Rice Boat offers Italian food at a low price range. It is not family - friendly. 
+<|endoftext|>
+name:Strada|| REVIEW 
+
+Located in the city centre near The Rice Boat, Blue Spice serves Indian food at a moderate price. 
+<|endoftext|>
+name:Strada|| REVIEW  The Golden Palace has a low customer rating  and has a price range less than £ 20. 
+<|endoftext|>
+name:Strada|| REVIEW  is an Italian restaurant located at the river side near The Portland Arms. 
+<|endoftext|>
+name:Strada|| REVIEW 
+<|endoftext|>
+name:Strada|| REVIEW  The Waterman is a family friendly pub serving Indian food and is located in the city centre. 
+<|endoftext|>
+name:Strada|| REVIEW  The Waterman is a pub in the city centre that is not kid friendly. The prices are high and there is a child friendly restaurant. 
+<|endoftext|>
+{'name': 'The Waterman'}
+name:The Waterman|| REVIEW  A coffee shop called The Golden Palace offers French food at an inexpensive price range. It is located in the city centre. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+
+ is an affordable coffee shop located near Clare Hall, it is family - friendly with a low customer rating. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+ 
+ The Eagle is a family - friendly Italian restaurant near Café Adriatic. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+
+This is a coffee shop with a high customer rating and an average customer rating located in the city centre. It is not family friendly but is kid friendly. 
+<|endoftext|>
+name:The Waterman|| REVIEW  Located near Crowne Plaza Hotel is a family friendly coffee shop named The Rice Boat. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+
+Near The Sorrento coffee shop is The Punter, a Japanese restaurant. 
+<|endoftext|>
+name:The Waterman|| REVIEW  The Golden Curry, near Yippee Noodle Bar, has a moderate price range and has a high customer ratings. They serve Indian cuisine in an average atmosphere. 
+<|endoftext|>
+name:The Waterman|| REVIEW  The Waterman offers Japanese food at a moderate price range. 
+<|endoftext|>
+name:The Waterman|| REVIEW  A coffee shop called The Waterman serves Japanese food near Café Rouge and is located near Café Rouge. It has a customer rating of 3 out of 5 and is located in riverside. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+ 
+ 
+ 
+ 
+ The Rice Boat is a coffee shop located near the Express by Holiday Inn in the river area near The Rice Boat. It is a child - friendly establishment with a price range of £ 20 - 25. 
+<|endoftext|>
+name:The Waterman|| REVIEW  Cafe The Waterman is a coffee shop located in riverside. Its customer rating is average and is located near Café Rouge. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+ 
+ 
+ 
+ Located in the riverside area is a coffee shop called Café Rouge. Its customer rating is average and it is near The Portland Arms. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+ 
+ 
+ The Rice Boat serves Japanese food near Rainbow Vegetarian Café. It is located in the city centre. 
+<|endoftext|>
+name:The Waterman|| REVIEW  is a cheap coffee shop near Café Adriatic that serves Indian food. It is located next to the Café Rouge. 
+<|endoftext|>
+name:The Waterman|| REVIEW  The Rice Boat is a cheap family friendly restaurant located near The Bakers in the riverside. Its customer ratings are average and it serves Chinese food. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+ 
+ is a cheap coffee shop with high customer satisfaction located in the city centre. It is not child friendly. 
+<|endoftext|>
+name:The Waterman|| REVIEW  Located near Café Rouge, The Eagle is a moderately priced pub. The price range ranges from 25 - 25. 
+<|endoftext|>
+name:The Waterman|| REVIEW  A family friendly coffee shop called Wildwood, located near Café Rouge  is The Portland Arms. It is kid friendly, and is located near The Portland Arms   and serves Indian food. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+
+Located in Riverside, The Waterman is an Indian restaurant serving Indian food. The prices are low, but they offer Indian food. 
+<|endoftext|>
+name:The Waterman|| REVIEW  Came for a meal at the Rainbow Vegetarian Café, it is a cheap, family friendly venue. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+
+Located near The Bakers is the Fitzbillies. The Fitzbillies is kid friendly. It has a high customer rating and serves French food. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+
+The Blue Spice, a coffee shop near Clare Hall, has an average price range and is not family - friendly. They serve French food, but are not family - friendly. 
+<|endoftext|>
+name:The Waterman|| REVIEW  The Waterman is located in the city center near Express by Holiday Inn.  The price range is £ 30 - 25 and it has a moderate customer rating.    It is located near The Rice Boat.    You can find it on the river and it has a price of more than £ 30. 
+<|endoftext|>
+name:The Waterman|| REVIEW  Came with a 3 out of 5 rating and is a coffee shop with low prices and is not family - friendly. It is located near The Portland Arms   located near Café Adriatic and is not child friendly. 
+<|endoftext|>
+name:The Waterman|| REVIEW  Located in the riverside area is the Blue Spice coffee shop, which serves Italian food. 
+<|endoftext|>
+name:The Waterman|| REVIEW  is a pub near Yippee Noodle Bar, which offers Indian food for less than £ 20. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+ Located in Riverside, The Eagle is an Indian restaurant that serves French food and is not child friendly. 
+<|endoftext|>
+name:The Waterman|| REVIEW  The Rice Boat is an Indian pub serving Indian food near the riverside near The Portland Arms. It has an average customer rating and is not child friendly. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+ 
+ Located near Café Sicilia, the Rice Boat provides French cuisine in the low cost of £ 20. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+
+Located near the Rainbow Vegetarian Café, The Rice Boat has a low customer rating. Its price range is moderate, and is child friendly. 
+<|endoftext|>
+name:The Waterman|| REVIEW  is a cheap pub that is located in the riverside area near Café Sicilia. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+
+Located near Café Rouge and in the city centre, Alimentum is moderately priced and child friendly. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+
+Located on the riverside, The Golden Palace is an average priced Japanese restaurant with a high customer rating. It's not child - friendly and is not family - friendly. 
+<|endoftext|>
+name:The Waterman|| REVIEW  Located near The Rice Boat in the riverside area is a pub named Wildwood. 
+<|endoftext|>
+name:The Waterman|| REVIEW  The Rice Boat is a moderately priced family - friendly pub located near The Portland Arms. It is family owned. 
+<|endoftext|>
+name:The Waterman|| REVIEW  Came across this coffee shop in the city center and it was called Wildwood. 
+<|endoftext|>
+name:The Waterman|| REVIEW  is the pub called The Waterman that serves Japanese food. 
+<|endoftext|>
+name:The Waterman|| REVIEW  The Golden Curry is a coffee shop serving Indian food near All Bar One. 
+<|endoftext|>
+name:The Waterman|| REVIEW  The Green Man offers cheap food and is located on the riverside. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+
+Located next to Rainbow Vegetarian Café is The Waterman, a coffee shop providing Indian food. It serves fast food. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+
+The Blue Spice is a cheap Italian restaurant near the river, located in the city centre near The Rice Boat. 
+<|endoftext|>
+name:The Waterman|| REVIEW  The Golden Curry is a fast food restaurant in the city centre with a customer rating of 3 - 5 
+<|endoftext|>
+name:The Waterman|| REVIEW  The Waterman is a pub near Café Brazil, serving French food and has an average customer rating. 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<|endoftext|>
+name:The Waterman|| REVIEW 
+
+Located near The Portland Arms and Café Rouge, the Rainbow Vegetarian Café is child - friendly, has a low rating and is located near The Rice Boat. 
+<|endoftext|>
+name:The Waterman|| REVIEW  A French coffee shop near the Café Rouge, The Waterman serves Japanese cuisine. It is family - friendly and has an average customer rating. 
+<|endoftext|>
+name:The Waterman|| REVIEW  A French restaurant called The Golden Curry is a child friendly coffee shop. 
+<|endoftext|>
+name:The Waterman|| REVIEW  The Waterman has a high customer rating and is located near The Portland Arms, near the Crowne Plaza Hotel.  It is kid friendly with prices ranging from £ 30 - £ 40. 
+<|endoftext|>
+name:The Waterman|| REVIEW  is a cheap Japanese coffee shop near the riverside that has high customer ratings. 
+<|endoftext|>
+{'name': 'Zizzi'}
+name:Zizzi|| REVIEW 
+
+This restaurant is near the river. The food is good and is family - friendly. The price range is moderate. 
+<|endoftext|>
+name:Zizzi|| REVIEW  A French restaurant in the riverside area near Burger King is The Rice Boat. It offers Japanese food, with a customer rating of 1 out of 5. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+ The Golden Palace is an expensive restaurant located near Café Brazil. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+ is a coffee shop in the riverside area. It offers Indian food, has an average customer rating and has a low customer rating. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+Located next to Café Rouge, The Golden Curry serves Indian food. 
+<|endoftext|>
+name:Zizzi|| REVIEW  is an Italian restaurant near The Bakers. 
+<|endoftext|>
+name:Zizzi|| REVIEW  A pub called Green Man serves French food in the city centre near The Six Bells. They have a moderate price range. 
+<|endoftext|>
+name:Zizzi|| REVIEW  is a family friendly coffee shop located at the city centre. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+This coffee shop is in the riverside area near the Crowne Plaza Hotel. They offer Indian food and a high rating. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+ The Phoenix is a family friendly coffee shop serving Japanese food, located at the riverside. 
+<|endoftext|>
+name:Zizzi|| REVIEW  Casa near The Portland Arms is a family friendly, coffee shop serving Indian food in the high price range. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+<|endoftext|>
+name:Zizzi|| REVIEW  Cinema, near The Rice Boat, provides French food.  It is located in the river and costs more than £ 30. 
+<|endoftext|>
+name:Zizzi|| REVIEW  is a coffee shop that serves Chinese food in the city centre. It is kid friendly. 
+<|endoftext|>
+name:Zizzi|| REVIEW  Casa has a low customer rating and a price range of less than £ 20, but has a high customer rating. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+This is a moderately priced Italian restaurant with a moderate price range. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+ is a coffee shop in the city centre. It is located in the riverside. It is a family friendly place. It is located in the city centre. 
+<|endoftext|>
+name:Zizzi|| REVIEW  The Golden Curry is a moderately priced restaurant near The Portland Arms, with a customer rating of 5 out of 5. The customer rating is high and they are located in the city centre. 
+<|endoftext|>
+name:Zizzi|| REVIEW  is a family friendly coffee shop located near Café Sicilia. 
+<|endoftext|>
+name:Zizzi|| REVIEW  A French pub near Burger King is The Rice Boat with a customer rating of 3 out of 5 and is not children - friendly. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+Located near Café Rouge, the Blue Spice is a family - friendly coffee shop with high customer ratings. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+ 
+ The Eagle is a coffee shop that serves Chinese food in Riverside, it is located near Café Adriatic and is not child friendly. 
+<|endoftext|>
+name:Zizzi|| REVIEW  The Waterman, a coffee shop in the city centre near The Sorrento, is family - friendly and is family - friendly. It has a high price range of £ 30 - £ 35. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+This is a cheap coffee shop with a customer rating of 5 out of 5 and has a customer rating of 1 out of 5. 
+<|endoftext|>
+name:Zizzi|| REVIEW  A French food restaurant named The Golden Curry is located near The Rice Boat. It is family friendly and serves French food. 
+<|endoftext|>
+name:Zizzi|| REVIEW  Located near the Café Sicilia, the Fitzbillies is a children - friendly coffee shop that offers Japanese food. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+Located in the riverside area near The Rice Boat, The Mill is a family friendly restaurant that has a low customer rating and low prices. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+Located in riverside and serving Indian food, The Rice Boat offers Indian food and has an average customer rating. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+The Rice Boat is a coffee shop near Clare Hall in riverside near The Portland Arms with high prices and a moderate customer rating. 
+<|endoftext|>
+name:Zizzi|| REVIEW  
+ The Waterman is a coffee shop near the Express by Holiday Inn located near The Portland Arms. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+ 
+ The Eagle is a pub serving Indian food. It is not kid - friendly, but it serves Indian food in the high price range. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+This restaurant serves Chinese food in the city centre and it's near The Sorrento. It has a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+The Rice Boat offers Japanese food and is near The Portland Arms. It is family friendly. 
+<|endoftext|>
+name:Zizzi|| REVIEW  A coffee shop named Wildwood serves Italian food. It is located near The Portland Arms  and is not family friendly, and has a low customer Rating. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+This restaurant is located near Café Sicilia. It is not children friendly and is near Café Rouge, which is family - friendly with prices ranging from £ 20 - 25. 
+<|endoftext|>
+name:Zizzi|| REVIEW  A French coffee shop named Café Sicilia serves Indian food. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+Located near the Café Sicilia, The Eagle serves French food in the riverside area. 
+<|endoftext|>
+name:Zizzi|| REVIEW  Coffee Shop serves Indian food and is near Burger King. 
+<|endoftext|>
+name:Zizzi|| REVIEW  The Wildwood is a coffee shop that serves Indian food in the high price range.   The price range is £ 20 - 25. 
+<|endoftext|>
+name:Zizzi|| REVIEW  A coffee shop is called The Golden Curry. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+The Rice Boat serves French food. It is in the city centre near The Bakers. 
+<|endoftext|>
+name:Zizzi|| REVIEW  Casa has a moderate price range, and is a family friendly place. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+Located in the city center, The Rice Boat serves Italian food. It is family - friendly. 
+<|endoftext|>
+name:Zizzi|| REVIEW  The Green Man is an expensive coffee shop that provides Indian food in the high price range. 
+<|endoftext|>
+name:Zizzi|| REVIEW  The Golden Curry serves Japanese food in the moderate price range. It is located in the city centre. 
+<|endoftext|>
+name:Zizzi|| REVIEW  A family friendly Japanese restaurant near The Rice Boat is the Rice Boat. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+ 
+ The Golden Palace is a coffee shop located near the Café Brazil. 
+<|endoftext|>
+name:Zizzi|| REVIEW  Located in the riverside area is The Waterman. It serves Chinese food and has a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+ The Phoenix is a family friendly restaurant located near the Crowne Plaza Hotel. It is located near the river. 
+<|endoftext|>
+name:Zizzi|| REVIEW 
+
+Located near the Crowne Plaza Hotel, Café Sicilia, the Rice Boat provides Italian cuisine. Its customer rating is average and its price range is £ 20 - 25. 
+<|endoftext|>
+{'name': 'Green Man'}
+name:Green Man|| REVIEW 
+
+The Waterman is a cheap pub located in riverside that is family friendly with a low rating. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+This is a cheap Italian restaurant with a moderate price range. 
+<|endoftext|>
+name:Green Man|| REVIEW  Located near the Crowne Plaza Hotel, the Alimentum is a family - friendly restaurant, serving Chinese food. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+The Phoenix has a high customer rating and is located in the riverside area. Its prices range from £ 30 - £ 50. 
+<|endoftext|>
+name:Green Man|| REVIEW  Located near the Crowne Plaza Hotel is an Italian restaurant called Café Sicilia. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+The Golden Curry is a pub located in the city centre with a customer rating 3 out of 5. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+The Phoenix is a family friendly restaurant with high price range. It is located in the riverside and has been rated average in customer ratings. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+This is a moderately priced Italian pub located near Café Rouge. It offers Indian food with a customer rating of 3 out of 5 and a moderate price. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+The Rice Boat serves Italian food in the riverside area. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+ is a pub that serves Chinese food and has a customer rating of 1 out of 5, it is located in the city centre. 
+<|endoftext|>
+name:Green Man|| REVIEW  The Golden Curry  is a moderately priced Japanese restaurant near the Crowne Plaza Hotel in the city centre, serving fast food and is family friendly.   It serves Indian food in a cheap price range.   It is located in the city centre near the riverside and is child friendly.   
+<|endoftext|>
+name:Green Man|| REVIEW  A pub called The Waterman serves Japanese foods. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+Located in riverside, The Rice Boat is an Italian restaurant with a low customer rating. The price range is less than £ 20. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+Located near The Rice Boat, The Golden Curry is a fast food restaurant that serves French food in moderate price range. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <|endoftext|>
+name:Green Man|| REVIEW  is a family friendly, family friendly restaurant called The Rice Boat, located in the City Centre. 
+<|endoftext|>
+name:Green Man|| REVIEW  Located next to Café Brazil, The Rice Boat serves Japanese food in the moderate price range. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Waterman is an average coffee shop located near the river, near Café Rouge, serving Indian food. 
+<|endoftext|>
+name:Green Man|| REVIEW  Cinema is a moderately priced coffee shop in the city center. 
+<|endoftext|>
+name:Green Man|| REVIEW  Aromi is a family friendly pub in the Riverside area. It serves Japanese food and is rated 3 out of 5 by its customers. 
+<|endoftext|>
+name:Green Man|| REVIEW  is a cheap, family friendly coffee shop in the riverside area near The Portland Arms. It is family - friendly. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+Located near the river, The Eagle is a family friendly coffee shop serving French food in the riverside area. It is not child - friendly and has a price tag of £ 20 - 25. 
+<|endoftext|>
+name:Green Man|| REVIEW  Aromi is a cheap coffee shop near Burger King in the riverside area near The Rice Boat.  They serve Italian and have a customer rating of 3 out of 5.    They are children friendly.     
+<|endoftext|>
+name:Green Man|| REVIEW  A coffee shop named Wildwood has a low customer rating. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+Located near The Sorrento, The Waterman is a pub serving French food in the low price range. 
+<|endoftext|>
+name:Green Man|| REVIEW  is a cheap coffee shop that serves Japanese food at low prices. 
+<|endoftext|>
+name:Green Man|| REVIEW  A French pub called The Twenty Two is kid friendly with a low price range. 
+<|endoftext|>
+name:Green Man|| REVIEW  Located near the Rainbow Vegetarian Café, the Yippee Noodle Bar serves Japanese food with a high price range. 
+<|endoftext|>
+name:Green Man|| REVIEW  is an expensive coffee shop located in the city center with a low customer rating. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+Near The Rice Boat is a coffee shop called Café Rouge. It has a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+This coffee shop is family friendly and has a high customer rating. 
+<|endoftext|>
+name:Green Man|| REVIEW  A family owned Italian coffee shop in city centre called The Waterman is a kid friendly pub with a price range of more than £ 30. 
+<|endoftext|>
+name:Green Man|| REVIEW  The Golden Palace is a high - priced pub in the riverside area with average customer rating. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+Located near the Rainbow Vegetarian Café, The Golden Curry is an expensive, kid friendly restaurant with a low customer rating. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+ The Waterman is a restaurant that has a low customer rating. 
+<|endoftext|>
+name:Green Man|| REVIEW  Cafe Alimentum is a moderately priced Italian food establishment. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+Located near Rainbow Vegetables, The Rice Boat is a family friendly coffee shop with low customer rating. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+The Phoenix pub is near The Rice Boat in the riverside area. It is family friendly, has a price range of £ 20 - 25. 
+<|endoftext|>
+name:Green Man|| REVIEW  Aromi serves French cuisine at a low price, and is near The Sorrento. It has a low rating. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+Located near Rainbow Vegetarian Café is a children friendly restaurant named The Rice Boat with a customer Rating of 1 out of 5. 
+<|endoftext|>
+name:Green Man|| REVIEW  The Green Man is a moderately priced pub that serves Japanese food. 
+<|endoftext|>
+name:Green Man|| REVIEW  The Green Man  is a coffee shop in the city centre that serves fast food. 
+<|endoftext|>
+name:Green Man|| REVIEW  Cinema, located near Café Sicilia, has a price range of £ 20 - 25. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+Located in the city centre near the Crowne Plaza Hotel is The Rice Boat. It is not kids - friendly and has an average customer rating. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+Located near the city centre, the Café Brazil is an Italian restaurant that offers French food and serves fast food in the moderate price range. 
+<|endoftext|>
+name:Green Man|| REVIEW  The Golden Curry is a coffee shop located near the Rainbow Vegetarian Cafe. It has a low customer rating. 
+<|endoftext|>
+name:Green Man|| REVIEW  Cotto is a French restaurant with a customer rating of 5 out of 5  . They are located in the city centre near The Rice Boat. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+
+Located near the Rainbow Vegetarian Café is a coffee shop called The Golden Curry, with a price range of less than £ 20 and serving Japanese cuisine. It is a family friendly restaurant. 
+<|endoftext|>
+name:Green Man|| REVIEW 
+ 
+ 
+ The Rice Boat is a coffee shop located in the riverside. 
+<|endoftext|>
+{'name': 'Clowns'}
+name:Clowns|| REVIEW  Cafe Zizzi has a low price range and is family friendly. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+<|endoftext|>
+name:Clowns|| REVIEW 
+<|endoftext|>
+name:Clowns|| REVIEW  A French coffee shop located near the Crowne Plaza Hotel in the city centre, The Twenty Two is an Indian food place with low customer ratings   and has an average customer rating.     
+<|endoftext|>
+name:Clowns|| REVIEW  The Phoenix is a cheap restaurant that serves Chinese food in the city centre area. 
+<|endoftext|>
+name:Clowns|| REVIEW  Cherry Express is a coffee shop that serves Indian food. It is located in City centre and has a customer rating of 1 out of 5. 
+<|endoftext|>
+name:Clowns|| REVIEW  Cafe Strada is a coffee shop located in riverside near Yippee Noodle Bar. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+<|endoftext|>
+name:Clowns|| REVIEW  The Wildwood Café is a coffee shop located in the city centre near The Portland Arms. It serves Indian food. They are not kids friendly. They have average ratings. 
+<|endoftext|>
+name:Clowns|| REVIEW  The Rice Boat is a pub located near Clare Hall that serves Chinese food. 
+<|endoftext|>
+name:Clowns|| REVIEW  A coffee shop is called Wildwood. 
+<|endoftext|>
+name:Clowns|| REVIEW  Cafe Zizzi offers Japanese food at a reasonable price. 
+<|endoftext|>
+name:Clowns|| REVIEW  Cotto is located in the city centre and has a high customer rating. It is family friendly. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+
+The Rice Boat is a family friendly coffee shop that offers Italian food. They have a customer rating of 1 out of 5. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+
+Located near Clare Hall, The Eagle offers a moderately priced, family - friendly, coffee shop. 
+<|endoftext|>
+name:Clowns|| REVIEW  is a family friendly coffee shop near The Sorrento located in riverside. It serves Italian food and has an average customer rating. 
+<|endoftext|>
+name:Clowns|| REVIEW  is a pub that serves French food near The Sorrento. It is kid - friendly and offers a low price range. 
+<|endoftext|>
+name:Clowns|| REVIEW  In Riverside the riverside restaurant serves Chinese food and is located near Burger King. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+ 
+ 
+ The Rice Boat is a coffee shop in the riverside area, with a low customer rating and a price range of £ 20 - 25. 
+<|endoftext|>
+name:Clowns|| REVIEW  Cotto is a French coffee shop that serves Japanese food. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+
+Located at the riverside in a family friendly environment, The Rice Boat serves Japanese food at an average price range. 
+<|endoftext|>
+name:Clowns|| REVIEW  is the coffee shop named Café Rouge, located near the Express by Holiday Inn. It has a customer rating of 1 out of 5 and has a price range less than £ 20. 
+<|endoftext|>
+name:Clowns|| REVIEW  A French restaurant called The Rice Boat has a low customer rating and a low price point. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+
+Located near Rainbow Vegetarian Café near the river, The Waterman is a coffee shop with low price range, but is not family - friendly. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+
+Located near the riverside, The Twenty Two serves Italian cuisine with a high customer rating. 
+<|endoftext|>
+name:Clowns|| REVIEW  Cotto is a cheap Italian food restaurant located near the city centre in the riverside area. 
+<|endoftext|>
+name:Clowns|| REVIEW  Aromi is a coffee shop near Café Sicilia, serving French food. 
+<|endoftext|>
+name:Clowns|| REVIEW  A cheap coffee shop called The Olive Grove near Burger King is a children friendly restaurant with a customer rating of 1 out of 5. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+
+This French restaurant has a customer rating that exceeds 5 out of 5 and a high price range, is located near The Portland Arms in the riverside area. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+
+Located at the city centre, Café Rouge is the French style pub that serves Japanese food for less than £ 20. 
+<|endoftext|>
+name:Clowns|| REVIEW  The Golden Palace provides Japanese food for the whole family. The prices range between £ 30 - £ 40. <|endoftext|>
+name:Clowns|| REVIEW  Casa Alimentum is a moderately priced Indian coffee shop with moderate prices and low customer ratings. 
+<|endoftext|>
+name:Clowns|| REVIEW  The Phoenix is a coffee shop serving Indian food in the riverside near Café Rouge  and it is located in the city centre near The Portland Arms.  It is a child - friendly restaurant and has received an average customer rating.  It has an average customer rating.   It is in the price range of £ 20 - 25. 
+<|endoftext|>
+name:Clowns|| REVIEW  A family friendly fast food restaurant, The Punter is near The Bakers. 
+<|endoftext|>
+name:Clowns|| REVIEW  is a coffee shop near Burger King.  It has a low customer rating, and is near The Portland Arms  , which is located near the riverside.   It is kid friendly with a high customer rating.   
+<|endoftext|>
+name:Clowns|| REVIEW 
+
+This is an expensive restaurant with a customer rating of 1 out of 5, located near the Rainbow Vegetarian Café, located near the Rainbow Vegetarian Café. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+
+This pub serves Japanese food in the city centre. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+
+The Mill near Express by Holiday Inn is a cheap pub that offers Indian food and a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Clowns|| REVIEW  A cheap Chinese restaurant near Burger King is Zizzi. It has a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Clowns|| REVIEW  A coffee shop called The Twenty Two is located in the city centre near Clare Hall. 
+<|endoftext|>
+name:Clowns|| REVIEW  The Golden Curry is a moderately priced restaurant near Burger King. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+<|endoftext|>
+name:Clowns|| REVIEW  Cotto is a family friendly pub that provides Italian food in the city centre area near The Portland Arms. 
+<|endoftext|>
+name:Clowns|| REVIEW  Cotto is a Japanese coffee shop located in the riverside area near the Yippee Noodle Bar. 
+ VIEW 
+<|endoftext|>
+name:Clowns|| REVIEW 
+
+This coffee shop has a moderate price range and is located near The Portland Arms near Café Rouge. 
+<|endoftext|>
+name:Clowns|| REVIEW  The Golden Curry  is a moderately priced, moderately priced pub that serves Indian food near the riverside. 
+<|endoftext|>
+name:Clowns|| REVIEW 
+<|endoftext|>
+name:Clowns|| REVIEW 
+
+Near the Rainbow Vegetarian Café is the Café Alimentum. This Japanese pub serves fast food. 
+<|endoftext|>
+name:Clowns|| REVIEW  In the city centre, there is a coffee shop called Wildwood. It is located near the riverside.  They have a low rating and are child friendly.  They have a low customer rating and a price range of over 20   pounds.
+<|endoftext|>
+name:Clowns|| REVIEW  The Rice Boat is a cheap pub serving Indian food in a moderate price range. It has a customer rating of 1 out of 5. 
+<|endoftext|>
+{'name': 'Giraffe'}
+name:Giraffe|| REVIEW  Casa coffee shop near The Portland Arms serves Chinese food. It has a low customer rating and is located near the Express by Holiday Inn. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+Located near Café Brazil, Alimentum is an Italian eatery with a low customer rating, and a high price range. 
+<|endoftext|>
+name:Giraffe|| REVIEW  Cherry Tree is a coffee shop that serves Japanese food. 
+<|endoftext|>
+name:Giraffe|| REVIEW  A coffee shop near Burger King is called The Golden Curry which is family - Friendly and provides Japanese meals. 
+<|endoftext|>
+name:Giraffe|| REVIEW  The Waterman, near The Sorrento, is an expensive coffee shop serving Indian food with moderate customer reviews. They are located near Café Sicilia in the city centre. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+Located near Café Rouge, Alimentum is a coffee shop serving Italian food. It has a low customer rating. 
+<|endoftext|>
+name:Giraffe|| REVIEW  Cafe Cotto is near Burger King. It offers a cheap Indian food and serves fast food. 
+<|endoftext|>
+name:Giraffe|| REVIEW  Cinema Café is an average rated restaurant located in the city centre with a high customer rating. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+Located near Café Brazil, Alimentum is a Japanese coffee shop that has a customer rating of 5 out of 5. 
+<|endoftext|>
+name:Giraffe|| REVIEW  Located in the city centre, The Rice Boat is an adult friendly Italian restaurant, with a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Giraffe|| REVIEW  The Waterman is an expensive coffee shop in the city centre. It is near Café Sicilia. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+Located in the city centre, the Rainbow Vegetarian Café provides French style food at affordable prices. 
+<|endoftext|>
+name:Giraffe|| REVIEW  Aromi has a high price range and is located near Café Sicilia.  The coffee shop serves Japanese food.   It is located near Café Sicilia  and serves Italian food.     
+<|endoftext|>
+name:Giraffe|| REVIEW 
+ The Punter serves Japanese foods at a low price range and is located near Café Sicilia. The restaurant is not child - friendly but is family - friendly. Its customers rating is average. 
+<|endoftext|>
+name:Giraffe|| REVIEW  A family friendly pub that serves Japanese food is The Rice Boat. Located on riverside, it is family - friendly and is near The Portland Arms. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+Near The Rice Boat is a pub named The Punter. It serves Indian food and is child friendly. It is near Café Brazil. It is located near Café Rouge. 
+<|endoftext|>
+name:Giraffe|| REVIEW  The Wildwood coffee shop is a family friendly coffee shop near The Bakers. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+ The Phoenix is an Italian restaurant in the riverside area near the Express by Holiday Inn. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+ 
+ Located near Café Sicilia, The Golden Curry is an expensive, family - friendly restaurant serving Indian food. 
+<|endoftext|>
+name:Giraffe|| REVIEW  A coffee shop called Alimentum is a kid friendly establishment located in riverside. It has an average customer rating, however its prices range from £ 20 - 25 with a customer rating of 1 out of 5   
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+This is a family oriented coffee shop located on the riverside near The Portland Arms. It has a price range of less than £ 20, has moderate customer rating and is not family - friendly. It's not child friendly and is not family friendly. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+The Waterman is a cheap restaurant located in riverside near Café Sicilia. 
+<|endoftext|>
+name:Giraffe|| REVIEW  Cherry is a coffee shop near the riverside near The Rice Boat.   It is not kids friendly and has a low customer rating.   It has a price range of £ 30 - 25, has an average rating, has a family - Friendly atmosphere and is located in the city centre.   
+<|endoftext|>
+name:Giraffe|| REVIEW 
+ The Waterman is a moderately priced coffee shop near Café Sicilia. It's not child friendly and it serves French cuisine. 
+<|endoftext|>
+name:Giraffe|| REVIEW  Located near Burger King is the family friendly Burger King near the Rainbow Vegetarian Café. The restaurant serves Japanese food. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+ is a pub with low prices, near the Rainbow Vegetarian Café located near the Café Rouge. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+The Waterman serves Chinese food and is family friendly. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+This coffee shop is located near Café Sicilia and has a price range of more than £ 30. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+ 
+ 
+ 
+ <|endoftext|>
+name:Giraffe|| REVIEW 
+ 
+ 
+ 
+ The Waterman, a coffee shop serving Japanese food is located in the city centre near the riverside. 
+<|endoftext|>
+name:Giraffe|| REVIEW  The Golden Palace has an average rating   and has a low customer rating. 
+<|endoftext|>
+name:Giraffe|| REVIEW  Located near Café Rouge, The Rice Boat offers a moderate price range and a customer rating of 5 out of 5. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+This restaurant is located in riverside and has a low customer rating. 
+<|endoftext|>
+name:Giraffe|| REVIEW  is a pub that serves Chinese food and has a 5 out of 5 customer rating, located next to Café Sicilia. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+Located near the Crowne Plaza Hotel is a coffee shop that is family friendly. 
+<|endoftext|>
+name:Giraffe|| REVIEW  Located near the Rainbow Vegetarian Café is a family friendly restaurant named Alimentum   that serves Japanese food. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+Located at the riverside near Avalon is the highly rated, family friendly, coffee shop The Eagle. Located near The Rice Boat is an Italian restaurant with a high customer rating and an average priced price range. 
+<|endoftext|>
+name:Giraffe|| REVIEW  A family friendly coffee shop near Burger King in riverside called Zizzi  is called The Eagle  ', which is located in the riverside area near The Bakers. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+This coffee shop serves French coffee in the city centre. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+Near The Rice Boat, the Rainbow Vegetarian Café is a family friendly, non - child friendly, coffee shop. 
+<|endoftext|>
+name:Giraffe|| REVIEW  A family - friendly coffee shop located on the river, The Rice Boat is located near The Portland Arms. It offers Indian food. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+Located near Café Sicilia, Alimentum is a coffee shop providing Italian food. Its price range is moderate and is family - friendly. 
+<|endoftext|>
+name:Giraffe|| REVIEW  Casa is a coffee shop near Café Sicilia that serves Indian food in the riverside area. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+
+Located near Café Sicilia, this is a coffee shop serving French food with a price range of less than £ 20. It is located in the city centre near All Bar One. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+ The Waterman is a family friendly pub with a price range of more than £ 30. 
+<|endoftext|>
+name:Giraffe|| REVIEW  A coffee shop called The Waterman is located in the riverside area near Café Rouge. 
+<|endoftext|>
+name:Giraffe|| REVIEW  A family - friendly coffee shop is located near The Portland Arms. It is not kids friendly and it is not children friendly. 
+<|endoftext|>
+name:Giraffe|| REVIEW 
+ 
+ 
+ 
+ A family friendly pub named The Golden Curry is near Café Rouge. It has a moderate price range and a customer rating of 3 out of 5. 
+<|endoftext|>
+name:Giraffe|| REVIEW  A French restaurant in the riverside area is The Rice Boat. It has a moderate price range, and a customer rating of 5 out of 5. 
+<|endoftext|>
+{'name': 'The Olive Grove'}
+name:The Olive Grove|| REVIEW  is a coffee shop with a customer rating of 1 out of 5 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  The Golden Curry is a family - friendly coffee shop serving Japanese food. It is near Café Rouge. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  A coffee shop near The Rice Boat is called Alimentum. It has a low customer rating and is not child - friendly. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  Coffee Shop is located in riverside with a customer rating of 1 out of 5   located in the city centre. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW 
+ The Golden Curry is a family friendly coffee shop serving Indian food in the city centre. It sells Indian food at a low price. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  The Waterman is a coffee shop located in the riverside area near Café Rouge. The price range is £ 20 - 25. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  A coffee shop is located near Burger King. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  Cafe The Eagle is family friendly, with a price range of £ 20 - 25. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  Casa coffee shop near The Portland Arms has low prices and is child friendly. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  Cinemas near The Rice Boat is The Eagle. It serves Chinese food and is family friendly. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  The Mill is a coffee shop near Burger King. The price range is average. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  Cinema is an expensive coffee shop located near the riverside.   It serves Italian food and is located in the high price range.   
+<|endoftext|>
+name:The Olive Grove|| REVIEW 
+
+ is a high - priced pub in the riverside that offers French food. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  A French restaurant called The Rice Boat is a coffee shop near Café Sicilia in the riverside area. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  The Mill is an Italian eatery near the Café Sicilia. It has a low customer rating 
+<|endoftext|>
+name:The Olive Grove|| REVIEW 
+ The Waterman is an expensive pub that serves Italian food near Café Rouge. It serves Chinese food and has average customer ratings. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  is a coffee shop that serves Italian food in the riverside area near Burger King. It is not children friendly but it has a high customer rating. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW 
+
+This restaurant serves Chinese food at the moderate price range. It is located near the Crowne Plaza Hotel. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  Cafe Cotto is an Italian coffee shop located near The Portland Arms, with an adult customer rating of 5 out of 5. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW 
+
+Near Burger King near The Portland Arms is the Indian coffee shop The Rice Boat which serves French food for less than £ 20. It is not family - friendly. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  Located in the Riverside area, The Waterman is moderately priced and has an average customer rating. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW 
+ The Golden Curry is a coffee shop located in riverside with a customer rating of 5 out of 5. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW 
+
+Near The Portland Arms, near Rainbow Vegetarian Café, is The Golden Palace with an average price range of £ 20 - 25. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  is a coffee shop located near Café Rouge. They are family friendly and offer Japanese food, and they serve Japanese food at a low price range, and have a customer rating of 4 out of 5. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW 
+ The Mill is a coffee shop with a low customer rating. Located next to Rainbow Vegetarian Café, it is not child friendly and has average customer rating. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW 
+
+Located near Burger King in city centre, the Rainbow Vegetarian Café has a high price range, but has an average customer rating. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW 
+ A coffee shop called The Waterman is located near Burger King. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW  Casa is a coffee shop with a price range of less than £ 20. It is located in Riverside near Yippee Noodle Bar. 
+<|endoftext|>
+name:The Olive Grove|| REVIEW 
+
+Near the Rainbow Vegetarian Café in the Riverside area, you can find Indian Cuisine in the riverside area. It is not kids friendly and has a customer rating 3 out of 5. 
+<|endoftext|>
