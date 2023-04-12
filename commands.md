@@ -12,6 +12,8 @@ Command for running the SLURM files
 
 ```sbatch -J control_gen -o control_gen.o%j -e control_gen.e%j -p gpu-a100 -N 1 -n 32 -t 24:00:00 --mail-user=devyani.maladkar@utexas.edu --mail-type=all -A CCR23005 ../SLURM_FILES/controlled_text_generation.slurm```
 
+```sbatch -J control_gen -o perplex.o%j -e perplex.e%j -p gpu-a100 -N 1 -n 32 -t 24:00:00 --mail-user=devyani.maladkar@utexas.edu --mail-type=all -A CCR23005 ../SLURM_FILES/perplexity_training.slurm```
+
 Command for obtaining the idev for testing
 
 ```idev -p gpu-a100 -N 1 -n 10 -t 0:10:00```
