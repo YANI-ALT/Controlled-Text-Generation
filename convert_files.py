@@ -48,17 +48,18 @@ if __name__ == '__main__':
             entry = json.loads(json_str)
             for key in entry.keys():
                 for sent in entry[key]:
-                    print(sent.split())
-                    new_sent=""
+                    # print(sent.split())
+                    sent=sent.strip()
                     for i in sent.split():
                         if i=='END':
-                            output_data.append(sent.strip()+" "+eos_tag)
-                            sent=""
+                            print(new_sent)
+                            output_data.append(new_sent.strip()+" "+eos_tag)
+                            new_sent=""
                             continue
                         elif i=='START':
-                            sent=""
+                            new_sent=""
                             continue
-                        sent=sent+" "+i
+                        new_sent=new_sent+" "+i
         # print(output_data)
         output_file=os.path.join(args.output_dir,"perplexity_input_"+os.path.split(args.input_file)[-1].split(".jsonl")[0]+".txt")
 
