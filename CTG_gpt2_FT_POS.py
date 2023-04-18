@@ -7,8 +7,10 @@ from torch.utils.data import Dataset, DataLoader
 import os
 
 from transformers import AdamW,get_linear_schedule_with_warmup
+import spacy
 
 
+# python -m spacy download en_core_web_sm
 # import logging
 # logging.getLogger().setLevel(logging.CRITICAL)
 
@@ -32,14 +34,23 @@ class e2eDataset(Dataset):
           e2e_path = os.path.join(dataset_path, 'src1_test.txt')
         elif data_portion=='valid':
           e2e_path = os.path.join(dataset_path, 'src1_valid.txt')
-
+        self.nlp = spacy.load("en_core_web_sm")
+        # doc = nlp('Alimentum at high prices for a family atmosphere at the Riverside Inn that can suit the entire Family,')
+        # output_sent_pos=[]
+        # for token in doc:
+        #     output_sent_pos.append(token.pos_)
         self.data_list = []
         self.end_of_text_token = "<|endoftext|>"
 
         with open(e2e_path, 'r') as ff:
             for row in ff:
-                word_lst = row.split('||')[1]
-                self.data_list.append(row+self.end_of_text_token)
+                # word_lst = row.split('||')[1]
+                parsed_sent=self.nl(row)
+                output_sent_pos=[]
+                for token in parsed_sent:
+                    output_sent_pos.append(token.pos_)
+                ctrl=" ".join(output_sent_pos)
+                self.data_list.append(ctrl+"||"+row+self.end_of_text_token)
         
     def __len__(self):
         return len(self.data_list)
@@ -77,7 +88,7 @@ if __name__ == '__main__':
     WARMUP_STEPS = 5000
     MAX_SEQ_LEN = 400
     
-    models_folder='CTG_semantic_control_models'
+    models_folder='CTG_POS_control_models'
 
     dataset = e2eDataset(data_portion='train')
     e2e_loader = DataLoader(dataset, batch_size=1, shuffle=True)
