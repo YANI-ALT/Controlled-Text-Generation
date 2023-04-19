@@ -8,8 +8,6 @@ from transformers import GPT2Tokenizer, GPT2LMHeadModel
 import numpy as np
 import os
 import json
-import time
-import random
 
 def get_parsed_input_data_json(file_path):
     POS_tags=[]
@@ -41,23 +39,35 @@ def choose_from_top(probs, n=5):
     token_id = ind[choice][0]
     return int(token_id)
 
-def get_classifier_logits(tagger,text,pos_tag,debug):
+def get_classifier_logits(classif_model,classif_token,text,isSentEnd,debug):
     # make a sentence
-    sentence = Sentence(text)
+    encoding = classif_token(text, return_tensors="pt")
+    encoding = {k: v.to(classif_model.device) for k,v in encoding.items()}
 
-    # predict POS tags
-    tagger.predict(sentence,return_probabilities_for_all_classes=True)
-    if debug:
-        print(sentence)
-    last_token_prob=sentence[-1].tags_proba_dist['upos']
-    new_prob_dist={}
-    for i in last_token_prob:
-        new_prob_dist[i.value]=i.score
+    outputs = classif_model(**encoding) 
     
-    return torch.log(torch.tensor(new_prob_dist[pos_tag]))
+    logits = outputs.logits.detach()[0]
+    #   print("classifier logits: ",logits)
+    # apply sigmoid + threshold
+    #   sigmoid = torch.nn.Sigmoid()
+    #   probs = sigmoid(logits.squeeze().cpu())
+    #   predictions = np.zeros(probs.shape)
+    #   predictions[np.where(probs >= 0.5)] = 1
+    # turn predicted id's into actual label names
+    #predicted_labels = [id2label[idx] for idx, label in enumerate(predictions) if label == 1.0]
+    # print(predicted_labels)
+    preds=torch.softmax(logits,dim=0)
+    #   print("classifier preds: ",preds)
+    logits=torch.log(preds)
+    #   print(logits)
+    label_index=0
+    if isSentEnd:
+        label_index=1
+    
+    return logits[label_index]
     
 
-def choose_from_top_controlled(tagger,gen_tokenizer,cur_ids,logits,pos_tag,debug,sample,n,lambda_condition):
+def choose_from_top_controlled(classif_model,classif_token,gen_tokenizer,cur_ids,logits,isSentEnd,debug,sample,n,lambda_condition):
     softmax_logits = torch.softmax(logits, dim=0)
     ind = np.argpartition(softmax_logits, -n)[-n:] # get the top n indices\
 
@@ -67,13 +77,14 @@ def choose_from_top_controlled(tagger,gen_tokenizer,cur_ids,logits,pos_tag,debug
         print("Sentences after top n={} Predicted nextword ".format(n))
     
     classif_logits=[]
+    
     for i,txt in enumerate(text_preds):
         txt=txt.strip()
     #   classif_logit=get_all_classifier_logits(txt.split('REVIEW:')[1],id2label,label2id).detach().numpy()[0][label2id[value]]
         if len(txt.split('REVIEW '))==1:
             classif_logits.append(torch.inf)
             continue
-        classif_logit=get_classifier_logits(tagger,txt.split('REVIEW ')[1],pos_tag,debug)
+        classif_logit=get_classifier_logits(classif_model,classif_token,txt.split('REVIEW ')[1],isSentEnd,debug)
         classif_logits.append(classif_logit)
 
     classif_logits_tensor=torch.tensor(classif_logits)
@@ -95,49 +106,82 @@ def choose_from_top_controlled(tagger,gen_tokenizer,cur_ids,logits,pos_tag,debug
         argmax_ind=choose_from_top(conditioned_probs.detach().numpy(),n=5)
 
     if debug==True:
-        print("CONTROL : ",pos_tag)
+        print("CONTROL : ",control_len)
         print("SAMPLING RESULT : ",text_preds[argmax_ind])
 
     return ind[argmax_ind]
 
+def get_classifier_bert(model_path,n_labels,device):
+    print("-------------------------------")
+    print('Accessing model from ',model_path)
+    print('Loading configuraiton..')
+    model_config = AutoConfig.from_pretrained(pretrained_model_name_or_path=model_path, num_labels=n_labels)
+
+    # Get model's tokenizer.
+    print('Loading tokenizer...')
+    # tokenizer = GPT2Tokenizer.from_pretrained(pretrained_model_name_or_path=model_path)
+    tokenizer = AutoTokenizer.from_pretrained(pretrained_model_name_or_path=model_path)
+    # # default to left padding
+    # tokenizer.padding_side = "left"
+    # # Define PAD Token = EOS Token = 50256
+    # tokenizer.pad_token = tokenizer.eos_token
+
+
+    # Get the actual model.
+    print('Loading model...')
+    # model = GPT2ForSequenceClassification.from_pretrained(pretrained_model_name_or_path=model_path, config=model_config)
+    model = AutoModelForSequenceClassification.from_pretrained(pretrained_model_name_or_path=model_path, config=model_config)
+    # resize model embedding to match new tokenizer
+    # model.resize_token_embeddings(len(tokenizer))
+
+    # fix model padding token id
+    # model.config.pad_token_id = model.config.eos_token_id
+
+    # Load model to defined device.
+    model.to(device)
+    print('Model loaded to `%s`'%device)
+    print("-------------------------------")
+    return model,tokenizer
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='controlled text generation args.')
-    parser.add_argument('--input_file', type=str, default='dataset/control_target/target_pos.json', help='')
+    # parser.add_argument('--input_file', type=str, default='dataset/control_task/test.txt', help='')
     parser.add_argument('--gen_model_path', type=str, default='', help='')
+    parser.add_argument('--classif_model', type=str, default='', help='')
     parser.add_argument('--per_control',type=int,default=3,help='')
     parser.add_argument('--lambda_condition',type=int,default=1,help='')
     parser.add_argument('--sample_stratergy',type=str,default='max',help='')
     # parser.add_argument('--use_bert',type=bool,default=False,help='')
     parser.add_argument('--debug',type=bool,default=False,help='')
     parser.add_argument('--n_lm',type=int,default=20,help='the top-n samples from the LM')
-    parser.add_argument('--random_subsample',type=int,default=100,help='')
     # COMMAND : python3 controlled_text_generation_v2.py --input_file dataset/e2e_data/src1_valid.txt --gen_model_path trained_models_text_generation/gpt2_e2e_5.pt --per_control 1
 
     args = parser.parse_args()
     
     TG_MODEL_PATH=args.gen_model_path
     PER_CONTROL=args.per_control
-    INPUT_PATH=args.input_file
+    # INPUT_PATH=args.input_file
     lambda_condition=args.lambda_condition
     sample_strat=args.sample_stratergy
     # use_bert=args.use_bert
     debug_flag=args.debug
     n_lm=args.n_lm
 
-    # get the generator model tokenizer and model
-    gen_tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
-    gen_model = GPT2LMHeadModel.from_pretrained('gpt2')
-    # tagger = Classifier.load('upos-fast')
-    tagger=SequenceTagger.load("flair/upos-multi")
-
     device = 'cpu'
     if torch.cuda.is_available():
         device = 'cuda'
 
+    # get the generator model tokenizer and model
+    gen_tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
+    gen_model = GPT2LMHeadModel.from_pretrained('gpt2')
+    
+    len_classifier,len_tokenizer=get_classifier_bert(args.classif_model,2,device)
+
+    
+
     gen_model.load_state_dict(torch.load(TG_MODEL_PATH,map_location=device))
     
-    output_file_path = f'generated_output/controlled_POS_generation_n_lm_{n_lm}_lambda_{lambda_condition}_sample_strat_{sample_strat}_random_sample_{args.random_subsample}.txt'
+    output_file_path = f'generated_output/controlled_len_generation_n_lm_{n_lm}_sample_strat_{sample_strat}.txt'
 
     gen_model.eval()
     
@@ -145,42 +189,36 @@ if __name__ == '__main__':
         os.remove(output_file_path)
     
 
-    if INPUT_PATH.endswith('.txt'):
-        print("Not handling .txt yet")
-    elif INPUT_PATH.endswith('.json'):
-        input_data=get_parsed_input_data_json(INPUT_PATH)
+    # if INPUT_PATH.endswith('.txt'):
+    #     print("Not handling .txt yet")
+    # elif INPUT_PATH.endswith('.json'):
+    #     input_data=get_parsed_input_data_json(INPUT_PATH)
 
     output_data=[]
-    total_samples=len(input_data)
-    print("Taking {} points from input of {}".format(int(args.random_subsample*total_samples/100),total_samples))
-    input_data=random.sample(input_data,int(args.random_subsample*total_samples/100))
     with torch.no_grad():
-        for i,control_pos in enumerate(input_data):
-            start_time=time.time()
+        for control_len in [10,15,20,25,30,35,40]:
             if debug_flag :
-                print("CONTROL POS :",control_pos)
+                print("CONTROL Len :",control_len)
             
             
             sent_finished = False
 
             cur_ids = torch.tensor(gen_tokenizer.encode("REVIEW ")).unsqueeze(0).to(device)
-
-            for pos_tag in control_pos[1:]:
-                if pos_tag=='END':
-                    pos_tag='<STOP>'
+            gen_len=0
+            for i in range(100):
                 outputs = gen_model(cur_ids, labels=cur_ids)
                 loss, logits = outputs[:2]
                 softmax_logits = torch.softmax(logits[0,-1], dim=0) #Take the first(from only one in this case) batch and the last predicted embedding
                 # next_token_id = choose_from_top_controlled(logits.to('cpu').numpy(), n=n) #Randomly(from the topN probability distribution) select the next word
-                before=time.time()
-                next_token_id=choose_from_top_controlled(tagger,gen_tokenizer,cur_ids,logits[0,-1],pos_tag,debug=debug_flag,sample=sample_strat,n=n_lm,lambda_condition=lambda_condition)
-                # print("Call to classifier machinery: {} ".format((time.time()-before)/60))
+                isSentEnd=i==control_len
+                next_token_id=choose_from_top_controlled(len_classifier,len_tokenizer,gen_tokenizer,cur_ids,logits[0,-1],isSentEnd,debug=debug_flag,sample=sample_strat,n=n_lm,lambda_condition=lambda_condition)
+                
                 cur_ids = torch.cat([cur_ids, torch.ones((1,1)).long().to(device) * next_token_id], dim = 1) # Add the last word to the running sequence
-
+                gen_len+=1
                 if next_token_id in gen_tokenizer.encode('<|endoftext|>'):
                     sent_finished = True
                     break
-                
+
             sent_finished=True
             if sent_finished:
                 output_list = list(cur_ids.squeeze().to('cpu').numpy())
@@ -188,37 +226,18 @@ if __name__ == '__main__':
                 if len(output_text.split("REVIEW "))>1:
                     output_text=output_text.split("REVIEW ")[1]
                 output_text=output_text.strip()
-                output_dict={"pos":control_pos,"sentence":output_text}
+                output_dict={"len":control_len,"sentence":output_text}
                 output_data.append(output_dict)
-                if debug_flag:
-                    print(output_text)
-                    print("EXPECTED POS : ",control_pos)
-                    sent=Sentence(output_text)
-                    obtained_sent_pos=[]
-                    tagger.predict(sent)
-                    for token in sent:
-                        # print(token.tag)
-                        obtained_sent_pos.append(token.tag)
-                        
-                    print("OBTAINED : ",obtained_sent_pos)
+                
+                print(output_text)
+                print("EXPECTED Len : ",control_len)
+                sent=Sentence(output_text)
+                print("OBTAINED : ",gen_len)
                     
-                endtime=time.time()
-                print("Example took {}/{} : {}".format(i,total_samples,(endtime-start_time)/60))
-                est_compl=(total_samples-i)*(endtime-start_time)
-                print("ETC : {} ({})".format(est_compl,est_compl/60))
 
     with open(output_file_path, 'a') as f:
         for entry in output_data:
             json.dump(entry, f)
             f.write('\n')
     print("Succesfully written to ",output_file_path)
-    print("--------------------------------------")
-    print("TO GENERATE SCORES USE THE BELOW : ")
-    print("PREPLEXITY SCORE : ")
-    print("python3 convert_files.py --input_file {} --handleUNK True ".format(output_file_path))
-    print("python3 convert_files.py --input_file {} ".format(output_file_path))
-    print("run ppl_for_ar.py on TACC")
-    print()
-    print("ACCURACY SCORE : ")
-    print('python3 get_accuracy_score.py --input_file {}'.format(output_file_path))
             

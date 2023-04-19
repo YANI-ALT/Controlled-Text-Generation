@@ -9,6 +9,9 @@ import pickle
 import json
 from transformers import GPT2Config,GPT2Tokenizer,GPT2ForSequenceClassification,AutoModelForSequenceClassification,AutoTokenizer,AutoConfig
 
+# Command to run file :
+# python3 controlled_text_generation_v2.py --input_file dataset/e2e_data/target_attribute.json --gen_model_path trained_models_text_generation/gpt2_e2e_5.pt --per_control 1 --use_bert True --lambda_condition 7
+
 
 def get_label_map(type_):
   with open('label_maps/label2id_{}.pickle'.format(type_), 'rb') as handle:
