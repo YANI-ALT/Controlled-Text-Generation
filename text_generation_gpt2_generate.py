@@ -10,6 +10,7 @@ import os
 parser = argparse.ArgumentParser(description='generation args.')
 parser.add_argument('--num_gen', type=int, default=10, help='')
 parser.add_argument('--model_path',type=str,default='gpt2',help='')
+parser.add_argument('--output_file',type=str,default='generated_output/generated.txt',help='')
 
 # COMMAND : python text_generation_gpt2_generate.py --num_gen 100 --model_path trained_models_text_generation/
 args = parser.parse_args()
@@ -37,7 +38,7 @@ model = model.to(device)
 
 model.load_state_dict(torch.load(MODEL_PATH,map_location=device))
 
-output_file_path = f'generated_output/generated.txt'
+output_file_path = args.output_file
 
 model.eval()
 if os.path.exists(output_file_path):

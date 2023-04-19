@@ -1,0 +1,5 @@
+python3 controlled_POS_generation.py --input_file dataset/e2e_data/target_attribute.json --gen_model_path trained_models_text_generation/gpt2_e2e_5.pt --per_control 1 --lambda_condition 4
+python3 controlled_POS_generation.py --input_file dataset/e2e_data/target_attribute.json --gen_model_path trained_models_text_generation/gpt2_e2e_5.pt --per_control 1 --lambda_condition 6
+python3 controlled_POS_generation.py --input_file dataset/e2e_data/target_attribute.json --gen_model_path trained_models_text_generation/gpt2_e2e_5.pt --per_control 1 --lambda_condition 8
+python3 controlled_POS_generation.py --input_file dataset/e2e_data/target_attribute.json --gen_model_path trained_models_text_generation/gpt2_e2e_5.pt --per_control 1 --lambda_condition 10
+python3 controlled_POS_generation.py --input_file dataset/e2e_data/target_attribute.json --gen_model_path trained_models_text_generation/gpt2_e2e_5.pt --per_control 1 --lambda_condition 12

@@ -23,7 +23,7 @@ MODEL_PATH=args.model_path
 SAMPLE_STRAT=args.sample_strat
 SAMPLE_N=args.sample_strat_n
 
-def get_parsed_input_data_json(file_path):
+def get_parsed_input_data_json_pos(file_path):
     POS_tags=[]
     with open(file_path, 'r') as json_file:
         json_list = list(json_file)
@@ -91,7 +91,7 @@ if os.path.exists(output_file_path):
     
 sent_num = 0
 input_data=get_parsed_input_data_json(args.input_file)
-
+print(input_data)
 if len(output_file_path)==0:    
     if SAMPLE_STRAT=='greedy':
         output_file_path='generated_output/CTG_FT_semantic_control_generated_greedy.txt'
