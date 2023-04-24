@@ -63,8 +63,22 @@ def get_sentences(curr_ids,ind,tokenizer,device):
 #   print(output_sent)
   return output_sent
 
-def get_all_classifier_logits(classifer_data,sentence,values,id2label_dict,label2id_dict):
+def get_all_classifier_logits(classifer_data,sentence,values,id2label_dict,label2id_dict,lambda_condition=1):
     all_classif_logit=0
+    control_list=['area', 'name', 'price', 'food', 'customer_rating', 'family_friendly', 'near', 'Type']
+    lambda_controls={}
+    for ctrl in control_list:
+        lambda_controls[ctrl]=lambda_condition
+    # area 8
+    # food 8
+    # Type 6,3
+    # near 8,9
+    # customer_rating 8
+    # lambda_controls['area']=8
+    lambda_controls['Type']=6
+    lambda_controls['name']=7
+    # lambda_controls['food']=8
+
     for context in values:
         value=values[context] # (context,value) pair
         model_data=classifer_data[context]
@@ -75,7 +89,7 @@ def get_all_classifier_logits(classifer_data,sentence,values,id2label_dict,label
         classif_logits=get_classifier_logits(classifier_model,classifier_tokenizer,sentence,id2label,label2id)
         classif_logits_for_value=classif_logits.numpy()[label2id[value]]
 
-        all_classif_logit=all_classif_logit+classif_logits_for_value
+        all_classif_logit=all_classif_logit+classif_logits_for_value*lambda_controls[context]
 
     # print("ALL CLASSIF combined: ",all_classif_logit)
     return all_classif_logit
@@ -95,14 +109,14 @@ def choose_from_top_controlled(classifer_data,gen_tokenizer,cur_ids,logits,label
         if len(txt.split('REVIEW '))==1:
             classif_logits.append(0)
             continue
-        classif_logit=get_all_classifier_logits(classifer_data,txt.split('REVIEW ')[1],values,id2label_dict,label2id_dict)
+        classif_logit=get_all_classifier_logits(classifer_data,txt.split('REVIEW ')[1],values,id2label_dict,label2id_dict,lambda_condition)
         classif_logits.append(classif_logit)
 
     classif_logits_tensor=torch.tensor(classif_logits)
 
     classif_preds=torch.softmax(classif_logits_tensor,dim=0)
     # logits=torch.log(softmax_logits)
-    conditioned_logits=logits[ind]+lambda_condition*classif_logits_tensor
+    conditioned_logits=logits[ind]+classif_logits_tensor
     # print(torch.softmax(logits[ind]+classif_logits_tensor,dim=0))
     # print(torch.softmax(logits[ind]+lambda_condition*classif_logits_tensor,dim=0))
     conditioned_probs=torch.softmax(conditioned_logits, dim=0)
@@ -163,8 +177,12 @@ def get_parsed_input_data(input_path):
     input_data=[]
     with open(input_path, 'r') as ff:
             for row in ff:
-                word_lst = row.split('||')[1]
-                label_mapping=split_label(row.split('||')[0])
+                contrl=row.split('||')[0]
+                if(len(contrl.strip())==0):
+                    continue
+                print(contrl)
+                label_mapping=split_label(contrl)
+                # word_lst = row.split('||')[1]
                 input_data.append(label_mapping)
 
     return input_data
@@ -288,8 +306,9 @@ if __name__ == '__main__':
 
     # load the model weights
     gen_model.load_state_dict(torch.load(TG_MODEL_PATH,map_location=device))
+    print("Loaded the gpt2 LM for text generation.")
     if use_bert:
-        output_file_path = f'generated_output/bert_controlled_generation_n_lm_{n_lm}_lambda_{lambda_condition}_sample_strat_{sample_strat}.txt'
+        output_file_path = f'generated_output/special_bert_controlled_generation_n_lm_{n_lm}_lambda_{lambda_condition}_sample_strat_{sample_strat}.txt'
     else:
         output_file_path = f'generated_output/controlled_generation_v2_n_lm_{n_lm}_lambda_{lambda_condition}_sample_strat_{sample_strat}.txt'
 
@@ -317,7 +336,7 @@ if __name__ == '__main__':
 
     classifier_data=collect_classifiers(control_list,n_labels_dict,device=device,use_bert=use_bert)
 
-
+    print("Now starting generation...")
     sent_num = 0
     control_val_flag=False
     with torch.no_grad():
@@ -372,8 +391,8 @@ if __name__ == '__main__':
                         output_text = gen_tokenizer.decode(output_list)
                         prefix=""
                         for vals in control_val_pairs:
-                            prefix+=vals+":"+control_val_pairs[vals]
-                        prefix=prefix+"|| "
+                            prefix+=vals+":"+control_val_pairs[vals]+"|"
+                        prefix=prefix+"| "
                         output_text=output_text.split("REVIEW")[1]
                         output_text=output_text.strip()
                         print(prefix+output_text)

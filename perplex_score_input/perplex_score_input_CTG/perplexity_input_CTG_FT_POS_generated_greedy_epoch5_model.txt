@@ -1,0 +1,400 @@
+The<|endoftext|> <|endoftext|>
+Cotto is a fast food restaurant located in the riverside area near The Portland<|endoftext|> <|endoftext|>
+Cotto is a coffee shop providing Indian food. It is family friendly.<|endoftext|> <|endoftext|>
+The Vaults<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Brown<|endoftext|> <|endoftext|>
+Str<|endoftext|> <|endoftext|>
+1 1 1 NOUN NOUN VERB DET PROPN PROPN PUNCT <|endoftext|>
+The Eagle is a 5 star coffee shop located near The Portland Arms.<|endoftext|> <|endoftext|>
+C<|endoftext|> <|endoftext|>
+The coffee shop near Caf<|endoftext|> <|endoftext|>
+Strada is a cheap Italian restaurant<|endoftext|> <|endoftext|>
+Browns Cambridge is rated average by customers. Low price range.<|endoftext|> <|endoftext|>
+In<|endoftext|> <|endoftext|>
+A cheap coffee shop named Fitzbillies has high customer<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+A low rated restaurant near The Portland Arms is The Dumpling Tree.<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The Punter is in the riverside and has<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+In<|endoftext|> <|endoftext|>
+With a price range of 20 - 25 you can find The Eagle, a<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+A cheap coffee<|endoftext|> <|endoftext|>
+If you're looking for a kid friendly, family friendly pub named<|endoftext|> <|endoftext|>
+In<|endoftext|> <|endoftext|>
+C<|endoftext|> <|endoftext|>
+Near The Portland Arms you will find a cheap pub called Wildwood.<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+With<|endoftext|> <|endoftext|>
+Located in the riverside, The Rice Boat is<|endoftext|> <|endoftext|>
+Strada, a kid<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Near<|endoftext|> <|endoftext|>
+The Twenty Two has a high price range. The customer rating is low.<|endoftext|> <|endoftext|>
+Family friendly Italian restaurant The Golden Curry is near CafÃ© Rouge<|endoftext|> <|endoftext|>
+Rated 5 out of 5, Strada is a fast<|endoftext|> <|endoftext|>
+Strada is a fast<|endoftext|> <|endoftext|>
+Strada is a moderately priced fast food restaurant serving up cheap food.<|endoftext|> <|endoftext|>
+Browns Cambridge is a<|endoftext|> <|endoftext|>
+Near<|endoftext|> <|endoftext|>
+The Punter serves English food and has a low customer rating with a high price range<|endoftext|> <|endoftext|>
+The Rice Boat is a Fast<|endoftext|> <|endoftext|>
+C<|endoftext|> <|endoftext|>
+Mod<|endoftext|> <|endoftext|>
+The Eagle is a cheap Italian restaurant<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+In the riverside<|endoftext|> <|endoftext|>
+Check out the<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The Mill is a pub that<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+If<|endoftext|> <|endoftext|>
+In<|endoftext|> <|endoftext|>
+With<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The Mill is a cheap, family friendly pub.<|endoftext|> <|endoftext|>
+Near<|endoftext|> <|endoftext|>
+High<|endoftext|> <|endoftext|>
+With a price range of Â£ 20<|endoftext|> <|endoftext|>
+C<|endoftext|> <|endoftext|>
+The Vaults, located near The Sor<|endoftext|> <|endoftext|>
+Cotto is a cheap French coffee shop in<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+If<|endoftext|> <|endoftext|>
+The Rice Boat<|endoftext|> <|endoftext|>
+A<|endoftext|> <|endoftext|>
+C<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Fast food<|endoftext|> <|endoftext|>
+In<|endoftext|> <|endoftext|>
+Cotto is a family friendly coffee shop in the riverside area<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Strada is a French restaurant with a high customer<|endoftext|> <|endoftext|>
+The Vaults is a French pub that is not kid - friendly<|endoftext|> <|endoftext|>
+A<|endoftext|> <|endoftext|>
+Near CafÃ<|endoftext|> <|endoftext|>
+English<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Str<|endoftext|> <|endoftext|>
+The Punter Japanese, a cheap, 5 - star, family friendly,<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Browns Cambridge is located near All Bar One.<|endoftext|> <|endoftext|>
+The Waterman offers<|endoftext|> <|endoftext|>
+Located<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The Rice Boat is rated 5 out of<|endoftext|> <|endoftext|>
+If<|endoftext|> <|endoftext|>
+The Punter is a cheap restaurant with average ratings.<|endoftext|> <|endoftext|>
+The Eagle in riverside with low customer ratings. low prices.<|endoftext|> <|endoftext|>
+The Vaults is a restaurant providing Chinese food.<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Next to the river is a coffee shop<|endoftext|> <|endoftext|>
+Near the CafÃ© Rouge there is a moderately priced restaurant<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Near<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The Eagle is a French coffee shop that has a low customer<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+If<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+If<|endoftext|> <|endoftext|>
+The Waterman, family - friendly, with 5 out of 5 stars.<|endoftext|> <|endoftext|>
+A<|endoftext|> <|endoftext|>
+A<|endoftext|> <|endoftext|>
+If<|endoftext|> <|endoftext|>
+Near riverside coffee shop Fitzbillies serves fast food for cheap<|endoftext|> <|endoftext|>
+The Waterman is a<|endoftext|> <|endoftext|>
+The Eagle is a restaurant located in the riverside that serves moderately<|endoftext|> <|endoftext|>
+In the riverside area near<|endoftext|> <|endoftext|>
+Near<|endoftext|> <|endoftext|>
+Moderately priced,<|endoftext|> <|endoftext|>
+C<|endoftext|> <|endoftext|>
+Str<|endoftext|> <|endoftext|>
+Near<|endoftext|> <|endoftext|>
+Near CafÃ© Sicilia Italian food is a family friendly<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Browns Cambridge is a French restaurant that is family friendly.<|endoftext|> <|endoftext|>
+Next<|endoftext|> <|endoftext|>
+Cotto, a fast food coffee shop is rated 5 out of<|endoftext|> <|endoftext|>
+A moderately priced fast food restaurant called The Rice Boat located near the Rainbow Vegetarian CafÃ©<|endoftext|> <|endoftext|>
+Str<|endoftext|> <|endoftext|>
+The Wrestlers offers Indian<|endoftext|> <|endoftext|>
+The Punter serves high priced English food. Not family friendly.<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Strada is a fast food family friendly pub<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The Eagle is a high priced coffee shop that is kid friendly.<|endoftext|> <|endoftext|>
+If you are looking for a<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+If you're looking<|endoftext|> <|endoftext|>
+If you are looking for a restaurant<|endoftext|> <|endoftext|>
+Cotto is a pub called The Waterman<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Brown<|endoftext|> <|endoftext|>
+Mod<|endoftext|> <|endoftext|>
+The Eagle is a high priced family friendly coffee shop<|endoftext|> <|endoftext|>
+Near<|endoftext|> <|endoftext|>
+Browns Cambridge French food<|endoftext|> <|endoftext|>
+If<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+A cheap restaurant called The Golden Palace has a customer rating<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Near<|endoftext|> <|endoftext|>
+The Eagle is a low - priced, kid friendly<|endoftext|> <|endoftext|>
+With<|endoftext|> <|endoftext|>
+Strada is a low - priced, family friendly restaurant located near The Six Bell<|endoftext|> <|endoftext|>
+The Eagle serves<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Brown<|endoftext|> <|endoftext|>
+Browns Cambridge is kid friendly<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+With<|endoftext|> <|endoftext|>
+Strada, located near Ranch<|endoftext|> <|endoftext|>
+Near CafÃ© Rouge there is a kid<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+If<|endoftext|> <|endoftext|>
+If you're looking for a<|endoftext|> <|endoftext|>
+Located near CafÃ© Sicilia,<|endoftext|> <|endoftext|>
+English<|endoftext|> <|endoftext|>
+In Riverside there is a pub called The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Cotto is a moderately priced restaurant located near The Six Bells.<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+Located<|endoftext|> <|endoftext|>
+Strada is a moderately priced fast food restaurant with a price<|endoftext|> <|endoftext|>
+The Rice Boat has a high customer rating, a family<|endoftext|> <|endoftext|>
+Next<|endoftext|> <|endoftext|>
+The Rice Boat is a Japanese restaurant in riverside near Express by<|endoftext|> <|endoftext|>
+The Waterman pub serves cheap Italian food.<|endoftext|> <|endoftext|>
+The Fast food restaurant The Golden Curry has a low customer rating.<|endoftext|> <|endoftext|>
+High<|endoftext|> <|endoftext|>
+Located<|endoftext|> <|endoftext|>
+If you are looking for a family friendly<|endoftext|> <|endoftext|>
+The 3 star rated French restaurant The Waterman is a family friendly restaurant.<|endoftext|> <|endoftext|>
+Cotto is a pub providing Chinese food It is rated 3<|endoftext|> <|endoftext|>
+Near CafÃ© Rouge serves Japanese food located in the riverside<|endoftext|> <|endoftext|>
+Cotto is a moderately priced coffee shop in the city centre and<|endoftext|> <|endoftext|>
+Browns Cambridge is a family friendly Italian restaurant with low customer ratings.<|endoftext|> <|endoftext|>
+Browns Cambridge is cheap and kid friendly and near<|endoftext|> <|endoftext|>
+The Wrest<|endoftext|> <|endoftext|>
+If you are looking for a pub<|endoftext|> <|endoftext|>
+If<|endoftext|> <|endoftext|>
+The Eagle is a family friendly coffee shop with a price range of<|endoftext|> <|endoftext|>
+The<|endoftext|> <|endoftext|>
+The Vaults is<|endoftext|> <|endoftext|>
+Loch Fyne serves Chinese food and is rated 5 stars.<|endoftext|> <|endoftext|>
+The Fast food restaurant near CafÃ© Rouge, The Eagle coffee shop serves Italian food and is not family - friendly.<|endoftext|> <|endoftext|>
+Cotto is a fast food restaurant located in the riverside area near The Portland Arms.<|endoftext|> <|endoftext|>
+Cotto is a coffee shop providing Indian food. It is family friendly.<|endoftext|> <|endoftext|>
+The Vaults, serves Italian food and is kid friendly and located near The Bakers.<|endoftext|> <|endoftext|>
+The Rice Boat serves Japanese food in<|endoftext|> <|endoftext|>
+Browns Cambridge is a fast food restaurant in the riverside area near The Sorrento. It is family - friendly.<|endoftext|> <|endoftext|>
+Strada has a high customer rating. It is cheap and serves French food. It is rated average.<|endoftext|> <|endoftext|>
+1 1 1 NOUN NOUN VERB DET PROPN PROPN PUNCT <|endoftext|>
+The Eagle is a 5 star coffee shop located near The Portland Arms.<|endoftext|> <|endoftext|>
+Cotto is a coffee shop serving Indian food. It is located near Ranch. It is located in riverside, family friendly,<|endoftext|> <|endoftext|>
+The coffee shop near CafÃ© Sicilia has a customer rating of 3 out of 5 and a low price range.<|endoftext|> <|endoftext|>
+Strada is a cheap Italian restaurant near Rainbow Vegetarian CafÃ© with a price range of 20 - 25.<|endoftext|> <|endoftext|>
+Browns Cambridge is rated average by customers. Low price range.<|endoftext|> <|endoftext|>
+In the riverside area, there is a pub called The Rice Boat. It is cheap and has a customer rating of 5 out of 5.<|endoftext|> <|endoftext|>
+A cheap coffee shop named Fitzbillies has high customer ratings and is family friendly.<|endoftext|> <|endoftext|>
+The Eagle is a coffee shop that serves Japanese food with a price range of 20 - 25 and<|endoftext|> <|endoftext|>
+A low rated restaurant near The Portland Arms is The Dumpling Tree.<|endoftext|> <|endoftext|>
+The Eagle is a coffee shop that is family - friendly and serves Italian food. It is located near The Bakers and has received a customer rating<|endoftext|> <|endoftext|>
+The Punter is in the riverside and has average customer ratings with a high price range.<|endoftext|> <|endoftext|>
+The Vaults pub that serves Japanese food in the high price range with a high customer rating and a price range of Â£ 20 - 25.<|endoftext|> <|endoftext|>
+In the riverside area near the Yippee Noodle Bar, a 5 out of 5 star rated and family friendly restaurant is called The Waterman.<|endoftext|> <|endoftext|>
+With a price range of 20 - 25 you can find The Eagle, a French restaurant located near Burger King.<|endoftext|> <|endoftext|>
+The Eagle is a coffee shop with a price range of more than 30 and has average customer ratings.<|endoftext|> <|endoftext|>
+The Eagle coffee shop serves Indian food in riverside near Burger King with average customer ratings and a price range of 20 - 25.<|endoftext|> <|endoftext|>
+A cheap coffee shop called The Vaults is family friendly, and is less than 20.<|endoftext|> <|endoftext|>
+If you're looking for a kid friendly, family friendly pub named Loch Fyne.<|endoftext|> <|endoftext|>
+In the high price range, The Eagle serves 5 - star rated coffee shop called Wildwood that has a family atmosphere and coffee shop.<|endoftext|> <|endoftext|>
+Cotto is a French coffee shop with a customer rating of 3 out of 5. It is family friendly and is kids friendly.<|endoftext|> <|endoftext|>
+Near The Portland Arms you will find a cheap pub called Wildwood.<|endoftext|> <|endoftext|>
+The Vaults, a coffee shop and restaurant with a high customer rating in the riverside area, is located near CafÃ© Sic<|endoftext|> <|endoftext|>
+With moderate prices, moderately priced Italian food in the riverside area near the Yippee Noodle Bar, near CafÃ© Sicilia.<|endoftext|> <|endoftext|>
+Located in the riverside, The Rice Boat is a restaurant that serves Italian food.<|endoftext|> <|endoftext|>
+Strada, a kid - friendly, cheap Italian restaurant located near The Bakers.<|endoftext|> <|endoftext|>
+The Rice Boat serves cheap Indian food in the riverside area near Express by Holiday Inn. The customer rating is average and it has a low price range.<|endoftext|> <|endoftext|>
+Near CafÃ© Rouge there is a kid friendly, pub called The Golden Curry and has a customer rating of 3 out of 5<|endoftext|> <|endoftext|>
+The Twenty Two has a high price range. The customer rating is low.<|endoftext|> <|endoftext|>
+Family friendly Italian restaurant The Golden Curry is near CafÃ© Rouge.<|endoftext|> <|endoftext|>
+Rated 5 out of 5, Strada is a fast food restaurant that is family friendly.<|endoftext|> <|endoftext|>
+Strada is a fast food restaurant with low customer ratings. It is not family - friendly.<|endoftext|> <|endoftext|>
+Strada is a moderately priced fast food restaurant serving up cheap food.<|endoftext|> <|endoftext|>
+Browns Cambridge is a 5 star coffee shop located in the city centre near Crowne Plaza Hotel.<|endoftext|> <|endoftext|>
+Near CafÃ© Sicilia, The Punter is a French restaurant with high ratings and is in the Riverside area.<|endoftext|> <|endoftext|>
+The Punter serves English food and has a low customer rating with a high price range<|endoftext|> <|endoftext|>
+The Rice Boat is a Fast food restaurant in riverside that is not kid friendly.<|endoftext|> <|endoftext|>
+Cotto is a coffee shop serving Indian food in the riverside area. It has a customer rating of 3 out of 5.<|endoftext|> <|endoftext|>
+Moderately priced in the riverside area near The Sorrento, is a coffee shop near The Portland Arms. It has a high<|endoftext|> <|endoftext|>
+The Eagle is a cheap Italian restaurant in the riverside area. It is family friendly.<|endoftext|> <|endoftext|>
+The Rice Boat restaurant serves fast food and has average customer ratings. Located in riverside, family friendly.<|endoftext|> <|endoftext|>
+The Eagle is coffee shop with low customer ratings and high prices. Located near Burger King in Riverside, close to Burger King.<|endoftext|> <|endoftext|>
+In the riverside area near CafÃ© Rouge there is a children friendly restaurant called The Golden Curry that serves Japanese food.<|endoftext|> <|endoftext|>
+Check out the restaurant in the riverside area with a customer rating of 3 out of 5. The Eagle, a French restaurant is a family friendly restaurant<|endoftext|> <|endoftext|>
+The Punter is a high priced coffee shop that serves Japanese food. The rating is 5 out of 5 and is located in the city centre.<|endoftext|> <|endoftext|>
+The Mill is a pub that is family friendly and has a high customer rating.<|endoftext|> <|endoftext|>
+The Waterman is a pub serving Japanese food. The price range is 5 out of 5, and has a customer rating of 1 out of 5.<|endoftext|> <|endoftext|>
+If you are looking for a fast food restaurant located near CafÃ© Sicilia that serves Italian food then try The Waterman which has average customer ratings and average prices.<|endoftext|> <|endoftext|>
+In the riverside area near All Bar One and with a price range of Â£ 20 - 25, there is a kid friendly pub called The Vaults.<|endoftext|> <|endoftext|>
+With high customer ratings and low prices, Strada is a kid friendly coffee shop near Rainbow Vegetarian CafÃ©.<|endoftext|> <|endoftext|>
+The Wrestlers is a French restaurant in the city centre. It has a low customer rating and a 5 out of 5 customer rating.<|endoftext|> <|endoftext|>
+The Vaults serves a French food near CafÃ© Rouge, with a price range of more than 30.<|endoftext|> <|endoftext|>
+The Mill is a cheap, family friendly pub.<|endoftext|> <|endoftext|>
+Near CafÃ© Rouge in riverside serves French food with a low customer rating. It is a cheap restaurant.<|endoftext|> <|endoftext|>
+Highly rated French food The Waterman, is located near Ranch. The price range is moderate and is not family friendly.<|endoftext|> <|endoftext|>
+With a price range of Â£ 20 - 25 you can eat Italian food at The Eagle.<|endoftext|> <|endoftext|>
+Cotto is children friendly with a 5 out of 5 customer rating. It is near The Portland Arms and is near Express by Holiday Inn.<|endoftext|> <|endoftext|>
+The Vaults, located near The Sorrento, is located in the city centre near The Portland Arms.<|endoftext|> <|endoftext|>
+Cotto is a cheap French coffee shop in riverside that is located in the city centre.<|endoftext|> <|endoftext|>
+The family friendly coffee shop is The Eagle in the riverside area, near Burger King. It<|endoftext|> <|endoftext|>
+The Punter, a family - friendly, fast food, coffee shop, that is family - friendly, and it is family - friendly.<|endoftext|> <|endoftext|>
+If you are looking for a family friendly coffee shop located near The Portland Arms, try The Dumpling Tree. It is located near CafÃ© Rouge.<|endoftext|> <|endoftext|>
+The Rice Boat is a restaurant near Express by Holiday Inn that serves Italian food in the high price range.<|endoftext|> <|endoftext|>
+A cheap and highly rated Italian restaurant and coffee shop is called Fitzbillies. It is located near Express by Holiday Inn.<|endoftext|> <|endoftext|>
+Cotto is a fast food restaurant near CafÃ© Sicilia. It is moderately priced and family friendly.<|endoftext|> <|endoftext|>
+The Eagle, located in the city centre near Burger King, is a moderately - priced coffee shop with a customer rating of 5 out of 5.<|endoftext|> <|endoftext|>
+The Rice Boat serves Japanese food in the moderate price range. It is located in the riverside<|endoftext|> <|endoftext|>
+Fast food, near CafÃ© Sicilia, is a moderate priced restaurant named Alimentum.<|endoftext|> <|endoftext|>
+In riverside near CafÃ© Rouge is a fast food restaurant called Strada. It has low customer ratings and a price range of Â£<|endoftext|> <|endoftext|>
+Cotto is a family friendly coffee shop in the riverside area that serves Italian food.<|endoftext|> <|endoftext|>
+The Wrestlers is a restaurant that serves Chinese food. It is located near Raja Indian Cuisine. It has a low customer rating and is<|endoftext|> <|endoftext|>
+The Wrestlers is a fast food restaurant with average customer ratings. The price range is moderate, with average ratings and located in the city centre.<|endoftext|> <|endoftext|>
+Strada is a French restaurant with a high customer rating in the riverside area.<|endoftext|> <|endoftext|>
+The Vaults is a French pub that is not kid - friendly. The price range is moderate.<|endoftext|> <|endoftext|>
+A cheap, family - friendly restaurant, near All Bar One is the Italian restaurant, with high customer ratings.<|endoftext|> <|endoftext|>
+Near CafÃ© Sicilia, a high - priced, five star, coffee shop is located near CafÃ© Sicilia.<|endoftext|> <|endoftext|>
+English food is served at The Rice Boat in the city centre. It has a price range of 20 - 25 and a high customer<|endoftext|> <|endoftext|>
+The Rice Boat is a high priced Italian restaurant. It is located in the city centre and is not family friendly.<|endoftext|> <|endoftext|>
+The Eagle is a family friendly coffee shop serving Indian food in riverside. It is near The Portland Arms.<|endoftext|> <|endoftext|>
+Strada is a moderately - priced, kid friendly, Italian restaurant located in the city centre near the Yippee Noodle Bar.<|endoftext|> <|endoftext|>
+The Punter Japanese, a cheap, 5 - star, family friendly, pub.<|endoftext|> <|endoftext|>
+The Punter is a cheap Italian restaurant, located near The Bakers. Located near The Portland Arms.<|endoftext|> <|endoftext|>
+Browns Cambridge is located near All Bar One. It is kid friendly and has 5 stars.<|endoftext|> <|endoftext|>
+The Waterman offers a fast food restaurant, a price range of more than 30 and is family friendly.<|endoftext|> <|endoftext|>
+Located near the Express by Holiday Inn in the riverside area, is a coffee shop near The Bakers. Not family - friendly.<|endoftext|> <|endoftext|>
+The Rice Boat serves Japanese food in the moderate price range. It is located<|endoftext|> <|endoftext|>
+The Rice Boat is rated 5 out of 5 by customers. It is a Japanese restaurant.<|endoftext|> <|endoftext|>
+If you are looking for a family friendly Japanese restaurant called Loch Fyne, try The Waterman.<|endoftext|> <|endoftext|>
+The Punter is a cheap restaurant with average ratings.<|endoftext|> <|endoftext|>
+The Eagle in riverside with low customer ratings. low prices.<|endoftext|> <|endoftext|>
+The Vaults is a restaurant providing Chinese food.<|endoftext|> <|endoftext|>
+The Eagle is a coffee shop that serves Japanese food. It has a low customer rating and a customer rating of 3 out of 5.<|endoftext|> <|endoftext|>
+Next to the river is a coffee shop called The Eagle with a price range of less than Â£ 20 located near Burger King<|endoftext|> <|endoftext|>
+Near the CafÃ© Rouge there is a moderately priced restaurant called Browns Cambridge.<|endoftext|> <|endoftext|>
+The Eagle is a coffee shop that serves Japanese food. It has a low customer rating and it is near Burger King in the city centre and<|endoftext|> <|endoftext|>
+Near CafÃ© Sicilia has a high customer rating, it has a 5 out of 5 rating.<|endoftext|> <|endoftext|>
+The Eagle is rated low by customers. Low priced fast food rated 5 out of 5 near Burger King.<|endoftext|> <|endoftext|>
+The Eagle is a French coffee shop that has a low customer rating. Not family friendly.<|endoftext|> <|endoftext|>
+The Punter is a French restaurant that is rated 5 out of 5 by customers. It is located in<|endoftext|> <|endoftext|>
+The Eagle is a coffee shop located in the city centre that serves French food for less than Â£ 20. It<|endoftext|> <|endoftext|>
+If you are looking for a high priced fast food restaurant named Loch Fyne near the Express by Holiday Inn, try The Rice Boat.<|endoftext|> <|endoftext|>
+The Eagle serves Japanese food in the moderate price range. It is located in the city centre. Its customer rating is low.<|endoftext|> <|endoftext|>
+If you are looking for a fast food restaurant located in the city centre, try The Eagle. It is in the moderate price range and has a 3 out of 5 customer rating<|endoftext|> <|endoftext|>
+The Waterman, family - friendly, with 5 out of 5 stars.<|endoftext|> <|endoftext|>
+A cheap French coffee shop is located near the Rainbow Vegetarian CafÃ©. It is called The<|endoftext|> <|endoftext|>
+A cheap coffee shop with a customer rating of 3 out of 5 near CafÃ© Sicilia that serves Japanese food is The Eagle.<|endoftext|> <|endoftext|>
+If you're looking for a family - friendly coffee shop with a price range of 20 - 25 pounds, try The Golden Curry. It serves Italian food.<|endoftext|> <|endoftext|>
+Near riverside coffee shop Fitzbillies serves fast food for cheap prices in riverside child friendly<|endoftext|> <|endoftext|>
+The Waterman is a family - friendly coffee shop in the riverside area with a customer rating of 3 out of 5.<|endoftext|> <|endoftext|>
+The Eagle is a restaurant located in the riverside that serves moderately priced Italian food.<|endoftext|> <|endoftext|>
+In the riverside area near the Express by Holiday Inn there is a cheap restaurant called Loch Fyne located near CafÃ© Rouge<|endoftext|> <|endoftext|>
+Near CafÃ© Sicilia, there is a coffee shop called The Eagle. It is a Japanese restaurant with a customer rating of 3 out of 5<|endoftext|> <|endoftext|>
+Moderately priced, The Waterman is a family - friendly restaurant that serves Italian food.<|endoftext|> <|endoftext|>
+Cotto is a fast food coffee shop in the riverside area. It has 5 out of 5 stars and it is located near the Express by Holiday Inn<|endoftext|> <|endoftext|>
+Strada is a fast food restaurant with high customer ratings. It is family friendly and located near Rainbow Vegetarian CafÃ©.<|endoftext|> <|endoftext|>
+Near the CafÃ© Rouge you will find a family friendly restaurant, The Punter, which serves Italian food in the riverside area with a customer rating of<|endoftext|> <|endoftext|>
+Near CafÃ© Sicilia Italian food is a family friendly pub with a price range of more than 30.<|endoftext|> <|endoftext|>
+The Eagle, a coffee shop and fast food place, is near Burger King in the city centre. Fast food with a customer rating of 3<|endoftext|> <|endoftext|>
+Browns Cambridge is a French restaurant that is family friendly.<|endoftext|> <|endoftext|>
+Next to The Portland Arms and Loch Fyne, is Blue Spice. It has 5 out of 5 stars. It is a French coffee shop with a price range<|endoftext|> <|endoftext|>
+Cotto, a fast food coffee shop is rated 5 out of 5 by customers and located in riverside with average customer rating<|endoftext|> <|endoftext|>
+A moderately priced fast food restaurant called The Rice Boat located near the Rainbow Vegetarian CafÃ©<|endoftext|> <|endoftext|>
+Strada, is a moderately priced fast food restaurant near the Rainbow Vegetarian CafÃ©. It has a 3 out of 5 rating.<|endoftext|> <|endoftext|>
+The Wrestlers offers Indian food in moderate prices. It is not family - friendly.<|endoftext|> <|endoftext|>
+The Punter serves high priced English food. Not family friendly.<|endoftext|> <|endoftext|>
+The Eagle is a coffee shop serving Indian food in the moderate price range. It<|endoftext|> <|endoftext|>
+Strada is a fast food family friendly pub that serves fast food near Ranch.<|endoftext|> <|endoftext|>
+The Wrestlers serves Chinese food that is located in the riverside. It is near Raja Indian Cuisine. It is near Raja Indian Cuisine.<|endoftext|> <|endoftext|>
+The Eagle is a high priced coffee shop that is kid friendly.<|endoftext|> <|endoftext|>
+If you are looking for a kid friendly Italian restaurant try The Rice Boat near the Express by Holiday Inn.<|endoftext|> <|endoftext|>
+The Eagle is a fast food coffee shop near The Portland Arms in the riverside area. It has a low customer rating and a low price range.<|endoftext|> <|endoftext|>
+If you're looking for a 5 out of 5 Fast food place near CafÃ© Sicilia, then try The Waterman.<|endoftext|> <|endoftext|>
+If you are looking for a restaurant serving Japanese food, try The Waterman. It has a low customer rating.<|endoftext|> <|endoftext|>
+Cotto is a pub called The Waterman and it is in the high price range.<|endoftext|> <|endoftext|>
+The Eagle coffee shop located near Burger King. The Eagle has a low customer rating and a price range of less than Â£ 20.<|endoftext|> <|endoftext|>
+Browns Cambridge is a Japanese restaurant that serves French food near All Bar One. It has a low customer rating.<|endoftext|> <|endoftext|>
+Moderately priced Indian food in the moderate price range, and a one star rating. The Vaults is a family friendly restaurant.<|endoftext|> <|endoftext|>
+The Eagle is a high priced family friendly coffee shop. It is family friendly.<|endoftext|> <|endoftext|>
+Near The Six Bells, in the moderate price range and a one star rating, is a coffee shop. It is in the riverside near The Rice Boat.<|endoftext|> <|endoftext|>
+Browns Cambridge French food is cheap and rated average by customers. Located near Crowne Plaza Hotel.<|endoftext|> <|endoftext|>
+If you are looking for a restaurant near The Rice Boat, try The Golden Curry. It has French food for 20 - 25.<|endoftext|> <|endoftext|>
+The Eagle is a French restaurant near Burger King that is not family - friendly and has a price range of less than 20 pounds.<|endoftext|> <|endoftext|>
+A cheap restaurant called The Golden Palace has a customer rating of 3 out of 5.<|endoftext|> <|endoftext|>
+The Eagle is a family friendly coffee shop that has 5 stars and is kid friendly. It serves French food and is family friendly.<|endoftext|> <|endoftext|>
+Near the CafÃ© Rouge, there is a pub called Wildwood that serves French food. It is near CafÃ©<|endoftext|> <|endoftext|>
+The Eagle is a low - priced, kid friendly, Italian coffee shop in the riverside area.<|endoftext|> <|endoftext|>
+With a high rating, located near CafÃ© Rouge, The Phoenix has a low customer rating.<|endoftext|> <|endoftext|>
+Strada is a low - priced, family friendly restaurant located near The Six Bells.<|endoftext|> <|endoftext|>
+The Eagle serves Chinese food. It is family friendly and is located near the Burger King.<|endoftext|> <|endoftext|>
+The Vaults is located near CafÃ© Rouge. It is located in the riverside area near CafÃ© Rouge. It serves French food with average<|endoftext|> <|endoftext|>
+Browns Cambridge is a French restaurant. It is family friendly and serves fast food. The price range is more than Â£ 30.<|endoftext|> <|endoftext|>
+Browns Cambridge is kid friendly. It is located near The Sorrento. It is located near The Rice Boat.<|endoftext|> <|endoftext|>
+The Waterman is a coffee shop and fast food joint. It is in the low price range and is not a family friendly place.<|endoftext|> <|endoftext|>
+With a high customer rating, Fitzbillies is a coffee shop serving Italian food. The restaurant is family - friendly with prices ranging from Â£ 20 - 25.<|endoftext|> <|endoftext|>
+Strada, located near Ranch, is family - friendly, and 5 out of 5.<|endoftext|> <|endoftext|>
+Near CafÃ© Rouge there is a kid friendly coffee shop called Strada. Not family friendly.<|endoftext|> <|endoftext|>
+The Eagle is a coffee shop serving Indian food in the high price range. It has a family - friendly atmosphere, located in the city centre.<|endoftext|> <|endoftext|>
+The Eagle is not family - friendly. It is located in the city centre with average customer ratings and low prices.<|endoftext|> <|endoftext|>
+The Eagle is located in the city centre, near The Portland Arms, and<|endoftext|> <|endoftext|>
+The Waterman is a fast food coffee shop located in the city centre with a customer rating of 3 out of 5. It is not family - friendly.<|endoftext|> <|endoftext|>
+If you are looking for a high priced fast food restaurant located in the city centre called The Rice Boat, you will find it in<|endoftext|> <|endoftext|>
+If you're looking for a moderately priced fast food restaurant near The Rice Boat, try The Golden Curry near the Express by Holiday Inn.<|endoftext|> <|endoftext|>
+Located near CafÃ© Sicilia, The Punter is a French restaurant, with a low customer rating.<|endoftext|> <|endoftext|>
+English food is served at The Wrestlers. It is near The Six Bells. The price range is less than Â£ 20.<|endoftext|> <|endoftext|>
+In Riverside there is a pub called The Golden Curry that serves Japanese food for cheap.<|endoftext|> <|endoftext|>
+The Vaults serves Japanese food and has a low customer rating. It is near The Portland Arms in the riverside area and is not family friendly.<|endoftext|> <|endoftext|>
+Cotto is a moderately priced restaurant located near The Six Bells.<|endoftext|> <|endoftext|>
+The Punter is a cheap Italian restaurant near CafÃ© Sicilia. It is family friendly and serves fast food.<|endoftext|> <|endoftext|>
+The Punter serves Japanese food that is located in the riverside. It is near CafÃ© Sicilia. Its customer rating is 3 out of 5.<|endoftext|> <|endoftext|>
+The Rice Boat is a French restaurant in the riverside area. It is family - friendly and has a price range of more than Â£ 30.<|endoftext|> <|endoftext|>
+Located in riverside near the Yippee Noodle Bar, low priced, average rated Japanese food for kids at Browns Cambridge and not kid friendly<|endoftext|> <|endoftext|>
+Strada is a moderately priced fast food restaurant with a price range of Â£ 20 - 25 and a family friendly<|endoftext|> <|endoftext|>
+The Rice Boat has a high customer rating, a family - friendly restaurant. The Rice Boat<|endoftext|> <|endoftext|>
+Next to the river at the CafÃ© Rouge, The Waterman has a low customer rating. The Waterman is a family friendly restaurant located near riverside.<|endoftext|> <|endoftext|>
+The Rice Boat is a Japanese restaurant in riverside near Express by Holiday Inn. Not a family friendly.<|endoftext|> <|endoftext|>
+The Waterman pub serves cheap Italian food.<|endoftext|> <|endoftext|>
+The Fast food restaurant The Golden Curry has a low customer rating.<|endoftext|> <|endoftext|>
+Highly rated Italian restaurant in the riverside area, The Waterman has a 5 out of 5 customer rating and is family friendly.<|endoftext|> <|endoftext|>
+Located near the Express by Holiday Inn, The Rice Boat is family friendly and has a price range of 20 - 25.<|endoftext|> <|endoftext|>
+If you are looking for a family friendly French restaurant with cheap prices, try The Golden Curry.<|endoftext|> <|endoftext|>
+The 3 star rated French restaurant The Waterman is a family friendly restaurant.<|endoftext|> <|endoftext|>
+Cotto is a pub providing Chinese food It is rated 3 out of 5.<|endoftext|> <|endoftext|>
+Near CafÃ© Rouge serves Japanese food located in the riverside area near The Sorrento.<|endoftext|> <|endoftext|>
+Cotto is a moderately priced coffee shop in the city centre and low customer rating.<|endoftext|> <|endoftext|>
+Browns Cambridge is a family friendly Italian restaurant with low customer ratings.<|endoftext|> <|endoftext|>
+Browns Cambridge is cheap and kid friendly and near The Sorrento.<|endoftext|> <|endoftext|>
+The Wrestlers is a restaurant providing Indian food near Raja Indian Cuisine. Customers rate it average.<|endoftext|> <|endoftext|>
+If you are looking for a pub that serves fast food and is kid friendly, try The Golden Palace.<|endoftext|> <|endoftext|>
+If you want to try English food and have high prices then try The Wrestlers which serves Japanese food at less than Â£ 20 and has a low customer rating.<|endoftext|> <|endoftext|>
+The Eagle is a family friendly coffee shop with a price range of more than 30.<|endoftext|> <|endoftext|>
+The Rice Boat is a moderately - priced, family friendly, Italian restaurant in the city centre near the Express by Holiday Inn. It has a low customer<|endoftext|> <|endoftext|>
+The Vaults is a coffee shop in riverside. The Italian restaurant is a little too, low - priced, The Punter.<|endoftext|> <|endoftext|>
+Loch Fyne serves Chinese food and is rated 5 stars.<|endoftext|> <|endoftext|>

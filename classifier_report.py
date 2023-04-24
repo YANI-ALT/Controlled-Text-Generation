@@ -1,6 +1,6 @@
 import json
 import argparse
-from controlled_text_generation import *
+from controlled_text_generation_v2 import *
 import os
 
 def get_label_text(input_path):
@@ -111,7 +111,11 @@ if __name__ == '__main__':
         
         model_path=os.path.join(MODELS_FOLDER,checkpoint_path)
         print("Generating report for {}".format(model_path))
-        model,tokenizer=get_classifier(model_path,n_labels,device=device)
+        if 'bert' in model_path:
+            model,tokenizer=get_classifier_bert(model_path,n_labels,device=device)
+        else:
+            model,tokenizer=get_classifier(model_path,n_labels,device=device)
+
 
         print("Test report ")
         accuracy_score,predicitions,incorrect=get_classifier_report(CLASS_LABEL,label_data_test,text_data_test,model,tokenizer,id2label,label2id)
