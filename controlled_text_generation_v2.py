@@ -74,10 +74,10 @@ def get_all_classifier_logits(classifer_data,sentence,values,id2label_dict,label
     # Type 6,3
     # near 8,9
     # customer_rating 8
-    # lambda_controls['area']=8
+    lambda_controls['area']=8
     lambda_controls['Type']=6
     lambda_controls['name']=7
-    # lambda_controls['food']=8
+    lambda_controls['food']=8
 
     for context in values:
         value=values[context] # (context,value) pair
