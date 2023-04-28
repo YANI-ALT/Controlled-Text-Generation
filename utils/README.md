@@ -1,0 +1,21 @@
+## utils
+
+This folder contains all helper scripts used to process txt files and generate scores.
+
+- ```get_accuracy_score.py``` : This script calculates the accuracy score for the generated outputs.
+```bash
+python3 get_accuracy_score.py --input_file genertated_output/file_name.txt
+```
+- ```convert_files.py``` : The perplexity scores are obtained using the teacher LM from the ```diffusion-lm```. The input has to be in a particular format, with each sentence on a new line and with eos tag. To convert the ```generated_output/``` to ```perplex_score_input/``` use the command below.
+
+To retokenize with diffusion LM tokenizer: 
+```bash
+python3 convert_files.py --input_file generated_output/file_name.txt --handleUNK True
+```
+
+To convert as is :
+```bash
+python3 convert_files.py --input_file generated_output/file_name.txt 
+```
+
+- ```classifier_report.py```
