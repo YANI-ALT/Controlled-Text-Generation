@@ -22,4 +22,5 @@ bert_classifier_models/models_for_near/
 bert_classifier_models/models_for_price/
 trained_models_text_generation/
 archive/
+*.ipynb
 
