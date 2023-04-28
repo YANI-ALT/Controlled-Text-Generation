@@ -8,6 +8,13 @@ from torch.utils.data import Dataset, DataLoader
 import os
 import json
 
+'''
+COMMAND : 
+
+CTG_gpt2_FT_Semantic_Control_generate.py --model_path CTG_semantic_control_models/gpt2_e2e_5.pt --num_gen 1 --sample_strat beam --sample_strat_n 5
+'''
+
+
 parser = argparse.ArgumentParser(description='generation args.')
 parser.add_argument('--num_gen', type=int, default=10, help='')
 parser.add_argument('--model_path',type=str,default='gpt2',help='')
@@ -15,7 +22,6 @@ parser.add_argument('--output_file',type=str,default='',help='')
 parser.add_argument('--input_file',type=str,default='dataset/control_target/target_attribute.json',help='')
 parser.add_argument('--sample_strat',type=str,default='Topk',help='') #topk beam greedy
 parser.add_argument('--sample_strat_n',type=int,default=3,help='')
-# COMMAND : python text_generation_gpt2_generate.py --num_gen 100 --model_path trained_models_text_generation/
 args = parser.parse_args()
 
 NUM_GEN=args.num_gen
