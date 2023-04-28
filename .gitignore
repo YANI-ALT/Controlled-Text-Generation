@@ -1,6 +1,7 @@
 *.pt
 *.tar
 *.zip
+SLURM_FILES/
 classifier_models/models_for_area/
 classifier_models/models_for_customer_rating
 classifier_models/models_for_family_friendly
