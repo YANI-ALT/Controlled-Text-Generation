@@ -1,0 +1,118 @@
+Type:pub|food:English|area:riverside|| is The Punter pub, located near the riverside. 
+<|endoftext|> 
+
+Type:pub|food:English|area:city centre|| A pub called The Rice Boat is a family - friendly, moderately priced, family - friendly place near the city centre. 
+<|endoftext|> 
+
+Type:pub|food:Japanese|area:riverside|| The Blue Spice pub, located near the riverside, is a family - friendly Japanese restaurant. 
+<|endoftext|> 
+
+Type:pub|food:Japanese|area:city centre|| A Japanese pub in the city centre is called The Rice Boat. It is family friendly and has a price range of more than £ 30. 
+<|endoftext|> 
+
+Type:pub|food:French|area:riverside|| is The Punter pub. 
+<|endoftext|> 
+
+Type:pub|food:French|area:city centre|| A French pub called The Rice Boat is located in city centre near Café Rouge. 
+<|endoftext|> 
+
+Type:pub|food:Fast food|area:riverside|| is The Golden Curry  where kids are given a meal with a high price and a high customer rating by their local pub. 
+<|endoftext|> 
+
+Type:pub|food:Fast food|area:city centre|| A pub called The Rice Boat is a family - friendly place that serves fast food and is located in the city centre. 
+<|endoftext|> 
+
+Type:pub|food:Italian|area:riverside|| is The Punter pub located near the riverside. 
+<|endoftext|> 
+
+Type:pub|food:Italian|area:city centre|| A pub called The Rice Boat is a family - friendly Italian restaurant near The Portland Arms   located in the city centre near The Rice Boat   and is a high - priced pub.   
+<|endoftext|> 
+
+Type:pub|food:Indian|area:riverside|| is The Golden Palace, a pub located near the riverside. It is not family - friendly. 
+<|endoftext|> 
+
+Type:pub|food:Indian|area:city centre|| A pub called The Rice Boat is a family friendly Indian restaurant located near Café Rouge. 
+<|endoftext|> 
+
+Type:pub|food:Chinese|area:riverside|| Located on riverside, Rainbow Vegetarian is a pub that is not for the whole family. 
+<|endoftext|> 
+
+Type:pub|food:Chinese|area:city centre|| Located in the city centre, Rainbow Vegetarian is a pub that is not for the faint of heart and serves food and drinks for less than £ 20. 
+<|endoftext|> 
+
+Type:coffee shop|food:English|area:riverside|| There is a coffee shop near Café Sicilia called The Rice Boat. 
+<|endoftext|> 
+
+Type:coffee shop|food:English|area:city centre|| This Chinese coffee shop is located in the city centre near the Café Sicilia. It is not family - friendly and has a high customer rating. 
+<|endoftext|> 
+
+Type:coffee shop|food:Japanese|area:riverside|| There is an expensive Japanese sushi restaurant called The Golden Palace. It is located near Café Rouge. 
+<|endoftext|> 
+
+Type:coffee shop|food:Japanese|area:city centre|| This Japanese coffee shop is located in the city center near the Express by Holiday Inn. It is family - friendly and has a price range of less than £ 20. 
+<|endoftext|> 
+
+Type:coffee shop|food:French|area:riverside|| The Punter is a French coffee shop near Café Sicilia. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:French|area:city centre|| This French restaurant is located in the city centre near Café Rouge. It is family friendly. 
+<|endoftext|> 
+
+Type:coffee shop|food:Fast food|area:riverside|| There is a coffee shop called The Punter that serves fast food. 
+<|endoftext|> 
+
+Type:coffee shop|food:Fast food|area:city centre|| This Indian restaurant is located in the city centre near Burger King. It is family friendly and has a price range of less than £ 20. 
+<|endoftext|> 
+
+Type:coffee shop|food:Italian|area:riverside|| There is a coffee shop called The Rice Boat that serves Italian food near Ranch. It is located near the riverside. 
+<|endoftext|> 
+
+Type:coffee shop|food:Italian|area:city centre|| This Italian restaurant is located in the city centre near Café Sicilia. It is family friendly and has a low customer rating. 
+<|endoftext|> 
+
+Type:coffee shop|food:Indian|area:riverside|| There is a coffee shop called The Golden Curry located near Café Rouge. It is family friendly and has Indian food. 
+<|endoftext|> 
+
+Type:coffee shop|food:Indian|area:city centre|| This Indian restaurant is located in the city centre. It is not family - friendly. It is near Burger King. 
+<|endoftext|> 
+
+Type:coffee shop|food:Chinese|area:riverside|| The Waterman is a coffee shop near Café Sicilia and serves Chinese food. It is not child - friendly. It is near Café Sicilia. It is near The Bakers. It is near The Bakers and is family - Friendly. It is near The Bakers. It is near Ranch and is near The Rice Boat. It is near The Bakers. 
+<|endoftext|> 
+
+Type:coffee shop|food:Chinese|area:city centre|| This Chinese coffee shop is in the city centre near the Café Sicilia. It is child - friendly and has a 5 out of 5 customer rating. It is near the Café Sicilia. It is near the Café Sicilia. It is near the Café Sicilia. It is not family - friendly. It is near the Café Sicilia. It is near the Café Rouge. 
+<|endoftext|> 
+
+Type:restaurant|food:English|area:riverside|| is a high priced family friendly, high priced sushi restaurant    located in the riverside   :   
+<|endoftext|> 
+
+Type:restaurant|food:English|area:city centre|| In the high priced city of Alimentsum, Alimentum serves a moderate to mid priced restaurant      
+<|endoftext|> 
+
+Type:restaurant|food:Japanese|area:riverside|| <|endoftext|> 
+
+Type:restaurant|food:Japanese|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:French|area:riverside|| <|endoftext|> 
+
+Type:restaurant|food:French|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:Fast food|area:riverside|| is a cheap fast food restaurant serving sushi and iced iced iced iced iced iced iced iced  iced  
+<|endoftext|> 
+
+Type:restaurant|food:Fast food|area:city centre|| is a cheap fast food restaurant serving Japanese food and serving Chinese and Japanese food, with moderate customer satisfaction and customer satisfaction of 1 
+  
+<|endoftext|> 
+
+Type:restaurant|food:Italian|area:riverside|| is a cheap Italian sushi bar located near Yippee Noodle Bar that serves high priced Japanese food and serves Japanese food  and  <|endoftext|> 
+
+Type:restaurant|food:Italian|area:city centre|| In the high priced city of Alimentsum, Alimentum serves Italian and serves Chinese in the mid to mid £ 20s    <|endoftext|> 
+
+Type:restaurant|food:Indian|area:riverside|| In the high priced restaurant Alimentum, you can get a good meal at the restaurant Girardeau.    <|endoftext|> 
+
+Type:restaurant|food:Indian|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:Chinese|area:riverside|| Near Clare Hall is Fitzbruyne restaurant   
+<|endoftext|> 
+
+Type:restaurant|food:Chinese|area:city centre|| Near Clare Hall is the Fitzbillies restaurant                                   30 price list and customer rating, the Fitzbillies restaurant 
+

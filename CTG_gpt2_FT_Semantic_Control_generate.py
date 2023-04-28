@@ -111,6 +111,7 @@ with torch.no_grad():
 
             cur_ids = torch.tensor(tokenizer.encode(condition_prefix)).unsqueeze(0).to(device)
             if SAMPLE_STRAT=='Topk':
+                # perform TOpk sampling decoding
                 for i in range(100):
                     outputs = model(cur_ids, labels=cur_ids)
                     loss, logits = outputs[:2]
@@ -138,6 +139,7 @@ with torch.no_grad():
                         f.write(f"{output_text} \n\n")
 
             elif SAMPLE_STRAT == 'beam':
+                # perform decoding by beam search with beam length as input argument
                 beam_output = model.generate(
                     cur_ids, 
                     max_length=100, 
@@ -150,6 +152,7 @@ with torch.no_grad():
                         f.write(f"{output_text} \n\n")
             
             elif SAMPLE_STRAT == 'greedy':
+                # perform decoding by greedy
                 greedy_output = model.generate(cur_ids, max_length=50)
                 output_text=tokenizer.decode(greedy_output[0], skip_special_tokens=True)+"<|endoftext|>"
                 print(output_text)

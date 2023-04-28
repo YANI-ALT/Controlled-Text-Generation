@@ -1,0 +1,54 @@
+name:The Golden PalaceType:coffee shopfood:Englishprice:higharea:city centrecustomer_rating:average|| There is an expensive coffee joint serving Italian food in the city centre called The Golden Palace. 
+<|endoftext|> 
+
+name:The WrestlersType:coffee shopfood:Chineseprice:moderatearea:riversidenear:Raja Indian Cuisinefamily_friendly:yes|| Cities and food at YMCA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ children 1 or under can enjoy coffee shop coffee shop near Café Raja coffee shop located near Raja Inn near Raja House on Riverside Road near Express by Holiday Shop. Located near Café Sicilian, it is moderately priced and family friendly. It is located in the riverside area. 
+<|endoftext|> 
+
+name:FitzbilliesType:coffee shopfood:Englishprice:moderatearea:riversidefamily_friendly:yescustomer_rating:3 out of 5|| This Italian coffee shop serves fast food with average pricing. They are family friendly and have a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+name:CottoType:coffee shopfood:Chineseprice:higharea:city centrenear:The Portland Armscustomer_rating:average|| This coffee joint offers English food near The Portland Arms in city centre. 
+<|endoftext|> 
+
+name:CottoType:coffee shopfood:Englishprice:cheaparea:city centrenear:The Portland Armscustomer_rating:average|| This coffee shop provides cheap English food and is located in city center near The Portland Arms. 
+<|endoftext|> 
+
+name:Browns CambridgeType:coffee shopfood:Chinesearea:riversidenear:Crowne Plaza Hotelfamily_friendly:nocustomer_rating:5 out of 5|| There're a Japanese coffee shop, located along the road near Crowne Plaza Hotel. 
+<|endoftext|> 
+
+name:The Golden PalaceType:coffee shopfood:Chineseprice:£ 20 - 25area:city centrecustomer_rating:high|| A coffee shop serving Chinese cuisine in an average price, The Golden Palace is a child - friendly, family - friendly place. It is near Café Sicilia. It is near the city centre. It is not family - friendly. It is near Café Rouge. It is not child - friendly. It is near The Rice Boat. It is not family - friendly. 
+<|endoftext|> 
+
+name:AromiType:coffee shopfood:Englisharea:riversidefamily_friendly:nocustomer_rating:average|| There isn  an average coffee shop located along the riverside. 
+<|endoftext|> 
+
+name:CocumType:coffee shopfood:Chineseprice:moderatefamily_friendly:yescustomer_rating:1 out of 5|| Cockers is a moderately priced coffee shop in riverside. It is family friendly. 
+<|endoftext|> 
+
+name:The Golden PalaceType:coffee shopfood:Chineseprice:cheaparea:city centrecustomer_rating:5 out of 5|| A cheap coffee shop serving Chinese in the city centre, The Golden Palace, serves high quality food. It is near Café Sicilia. It is not child - friendly. It is near Café Rouge. It is not family - friendly. It is near The Rice Boat. It is not family - friendly. It is near Café Rouge. It is not family - friendly. 
+<|endoftext|> 
+
+name:The Cambridge BlueType:coffee shoparea:city centrenear:Burger Kingfamily_friendly:yescustomer_rating:average|| A cheap Indian food, The Wrestly is a family friendly Japanese restaurant in the city centre. 
+<|endoftext|> 
+
+name:The CricketersType:coffee shopfood:Chinesenear:The Portland Armsfamily_friendly:yescustomer_rating:average|| The Punting Shop serves Chinese cuisine and is near The Portland Arms with a 3 - out of 5 average customer service. It is family - friendly. It is near Café Sicilian. It has a 5 out of 5 average customer service. It is near All Bar One. It is near All Bar One. It is near Burger King. 
+<|endoftext|> 
+
+name:AromiType:coffee shopfood:Chinesearea:city centrefamily_friendly:nocustomer_rating:5 out of 5|| Aromi'is a Chinese coffee shop in the city centre. It is not child - friendly and has a 5 out of 5 customer rating. It is near the Café Sicilia. It is not family - friendly and has a high price point. 
+<|endoftext|> 
+
+name:The CricketersType:coffee shopfood:Englishnear:The Portland Armsfamily_friendly:yescustomer_rating:1 out of 5|| The Punting Room is near The Portland Arms with low rated average rated food. 
+<|endoftext|> 
+

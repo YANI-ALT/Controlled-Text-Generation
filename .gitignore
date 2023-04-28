@@ -10,8 +10,14 @@ classifier_models/models_for_near
 classifier_models/models_for_price
 classifier_models/models_for_Type
 classifier_models_dummy/
-dataset/
-generated_output/
+dataset/e2e_data/multicontrol_200.txt
+dataset/e2e_data/multicontrol_filter.txt
+dataset/e2e_data/multicontrol.txt
+dataset/e2e_data/src1_test.txt
+dataset/e2e_data/src1_train.txt
+dataset/e2e_data/src1_valid.txt
+dataset/e2e_data/target_attribute.json
+dataset/e2e_data/test_perplexity.txt
 label_maps/
 label_maps_2/
 bert_classifier_models_2/

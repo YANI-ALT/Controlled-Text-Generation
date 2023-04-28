@@ -1,0 +1,122 @@
+Type:pub|food:English|area:riverside|| Located on the riverside, Rainbow Vegetarian Bar    is a pub serving French food near Burger King. 
+<|endoftext|> 
+
+Type:pub|food:English|area:city centre|| A pub called The Rice Boat serves English, it is not family - friendly and has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+Type:pub|food:Japanese|area:riverside|| is family - - - - and family atmosphere is by the river 
+
+ <|endoftext|> 
+
+Type:pub|food:Japanese|area:city centre|| The Olive Grove is a Japanese pub in the city centre. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+Type:pub|food:French|area:riverside|| <|endoftext|> 
+
+Type:pub|food:French|area:city centre|| A French pub in city centre near The Rice Boat is called The Eagle. It is cheap and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+Type:pub|food:Fast food|area:riverside|| Located along riverside  near Crown   near The Bakers, the pub is moderately priced and has a customer rating of 1 out of 5   and is not family friendly.   
+<|endoftext|> 
+
+Type:pub|food:Fast food|area:city centre|| A pub called The Rice Boat is a kid friendly establishment that serves Indian food in the city centre. 
+<|endoftext|> 
+
+Type:pub|food:Italian|area:riverside|| Located on the riverside, Rainbow Vegetarian is a pub that serves Italian food and is family friendly. 
+<|endoftext|> 
+
+Type:pub|food:Italian|area:city centre|| A pub called The Rice Boat is a kid friendly Italian place in city centre near The Portland Arms. 
+<|endoftext|> 
+
+Type:pub|food:Indian|area:riverside|| is family -friendly pub with low customer rating located north of Riverside near Rainbow Vegetarian Café. It has a low rating. 
+<|endoftext|> 
+
+Type:pub|food:Indian|area:city centre|| The Eagle pub is a children - friendly, moderate priced Japanese coffee shop located in the city centre. It is located near Express by Holiday Inn. 
+<|endoftext|> 
+
+Type:pub|food:Chinese|area:riverside|| Located on the riverside near Rainbow Vegetarian Cuisine   is Yippee Noodle Bar and serves a high customer rating  <|endoftext|> 
+
+Type:pub|food:Chinese|area:city centre|| A pub called The Rice Boat serves Chinese food in the city centre near the Express by Holiday Inn. 
+<|endoftext|> 
+
+Type:coffee shop|food:English|area:riverside|| Casa is a cheap coffee shop near The Bakers on the riverside. 
+<|endoftext|> 
+
+Type:coffee shop|food:English|area:city centre|| A Chinese food restaurant in the city centre is The Rice Boat. 
+<|endoftext|> 
+
+Type:coffee shop|food:Japanese|area:riverside|| is located near The Six Bells. The family friendly, Japanese coffee shop is located near Café Sicilia. 
+<|endoftext|> 
+
+Type:coffee shop|food:Japanese|area:city centre|| is a Japanese restaurant in the city centre near The Rice Boat. It is family friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:French|area:riverside|| The Golden Palace is a French coffee bar near Café Rouge. 
+<|endoftext|> 
+
+Type:coffee shop|food:French|area:city centre|| The Phoenix is an average coffee shop that serves French food in the city centre. It is located near Café Rouge. 
+<|endoftext|> 
+
+Type:coffee shop|food:Fast food|area:riverside|| <|endoftext|> 
+
+Type:coffee shop|food:Fast food|area:city centre|| This Indian restaurant has a high customer rating but is located near All Bar One. 
+
+<|endoftext|> 
+
+Type:coffee shop|food:Italian|area:riverside|| Cotto is a family friendly Italian coffee shop near The Portland Arms. 
+<|endoftext|> 
+
+Type:coffee shop|food:Italian|area:city centre|| A coffee shop in city centre is The Rice Boat. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:Indian|area:riverside|| VIEW Near the river is an Indian coffee shop, The Golden Palace. It is family friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:Indian|area:city centre|| Located in city centre, The Eagle offers Indian cuisine. It is family friendly. 
+<|endoftext|> 
+
+Type:coffee shop|food:Chinese|area:riverside|| There is an expensive Chinese place called Loch Fyne that serves sushi and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:Chinese|area:city centre|| A Chinese food restaurant in the city centre is The Rice Boat. It is located near Burger King. 
+<|endoftext|> 
+
+Type:restaurant|food:English|area:riverside|| is a cheap, moderately priced Italian eater that serves sushi and iced  iced   <|endoftext|> 
+
+Type:restaurant|food:English|area:city centre|| In the city centre near Yippee Noodle Shoppez we offer French restaurant Taste Of Cambridge  which is cheap 
+<|endoftext|> 
+
+Type:restaurant|food:Japanese|area:riverside|| Located near the river it is a high priced Japanese style restaurant The Punter. The restaurant provides French food and serves Japanese food, with the customer rating of 1 of 1 
+
+<|endoftext|> 
+
+Type:restaurant|food:Japanese|area:city centre|| Located in the city centre you can enjoy Japanese restaurant Yippee Noodle Bar 
+
+ <|endoftext|> 
+
+Type:restaurant|food:French|area:riverside|| <|endoftext|> 
+
+Type:restaurant|food:French|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:Fast food|area:riverside|| is a cheap fast food restaurant serving sushi and       
+<|endoftext|> 
+
+Type:restaurant|food:Fast food|area:city centre|| Near the city centre, Zizzi is a fast food restaurant and is child friendly   and is child friendly, serving Italian food,   and serving fast food in the mid to high priced,    <|endoftext|> 
+
+Type:restaurant|food:Italian|area:riverside|| is a moderately priced Italian sushi shop that serves Italian food and serves high priced Japanese <|endoftext|> 
+
+Type:restaurant|food:Italian|area:city centre|| In the city centre near Yippee Noodle Bar   you'll also be served Italian restaurant Yippu. 
+<|endoftext|> 
+
+Type:restaurant|food:Indian|area:riverside|| Located near the river is a family-run Indian restaurant The Punter. The restaurant is moderately priced and is not child friendly, it is in the mid- £ £ 20 to £ 25 range 
+
+<|endoftext|> 
+
+Type:restaurant|food:Indian|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:Chinese|area:riverside|| Near All Bar Midsummer House there is a restaurant serving Chinese food and they are in the mid- to low £ £ 20                                   
+<|endoftext|> 
+
+Type:restaurant|food:Chinese|area:city centre|| Near the city centre is a Chinese eatery with a moderate customer ratings  :  
+<|endoftext|> 
+

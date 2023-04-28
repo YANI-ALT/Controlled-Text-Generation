@@ -1,0 +1,400 @@
+START ADV NOUN ADV ADP PROPN PROPN PUNCT DET PROPN NOUN NOUN VERB ADJ NOUN NOUN CCONJ AUX PART VERB NOUN NOUN PUNCT PROPN END||Next to CafÃ© Sicilia, The Punter coffee shop serves Japanese style food and is not considered family friend.<|endoftext|> 
+
+START PROPN AUX DET ADJ NOUN NOUN VERB ADP DET NOUN ADP DET NOUN PUNCT PROPN END||Alimentum is a fast food restaurant located in the center of the city. Alimentum<|endoftext|> 
+
+START PROPN AUX DET NOUN VERB NOUN ADJ NOUN PUNCT PRON NOUN NOUN AUX ADJ ADP END||Zizzi is a pub providing family friendly food. Its customer rating is average<|endoftext|> 
+
+START DET NOUN PUNCT PROPN VERB ADJ CCONJ ADJ NOUN CCONJ AUX VERB ADP DET PROPN ADJ PROPN PUNCT PROPN END||The pub, Clowns serves fast and cheap food and is located near the CafÃ© Sicilia. Clowns<|endoftext|> 
+
+START DET PROPN PROPN VERB ADJ NOUN ADP NOUN ADP SYM NUM PUNCT NOUN NOUN AUX ADJ PUNCT DET PROPN PROPN AUX VERB ADP DET PROPN CCONJ PROPN ADP PROPN PROPN PUNCT ADJ PUNCT DET NOUN PART AUX VERB PUNCT PROPN END||The Rice Boat provides Indian food in<|endoftext|> 
+
+START PROPN PROPN AUX DET ADJ NOUN NOUN ADP DET NOUN NOUN ADP DET PROPN PUNCT PRON AUX NOUN PUNCT ADJ PUNCT PROPN END||Browns Cambridge is a fast food restaurant in the city centre near The Sorrento. It is family - friendly. Browns Cambridge<|endoftext|> 
+
+START PROPN VERB DET ADJ NOUN NOUN PROPN PUNCT PRON AUX ADJ VERB CCONJ VERB NOUN SCONJ VERB ADJ NOUN PUNCT PUNCT END||Browns Cambridge has an average customer rating Alimentum. It is high priced and serves sushi.<|endoftext|> 
+
+START DET NUM NUM VERB ADJ NOUN PUNCT END||The 3 star Italian restaurant, The Vaults<|endoftext|> 
+
+START DET PROPN AUX DET NUM NOUN NOUN NOUN VERB ADP DET PROPN PROPN PUNCT PROPN END||The Cricketers is a 5 star coffee shop located near The Portland Arms. Cotto<|endoftext|> 
+
+START PROPN AUX DET NOUN NOUN VERB ADJ NOUN PUNCT PRON AUX VERB ADP PROPN NOUN PUNCT ADJ NOUN CCONJ NOUN PUNCT ADJ PUNCT VERB NUM ADP ADP NUM NOUN NOUN PUNCT PUNCT END||Blue Spice is a coffee shop providing Indian food. It is located in City centre. High price and family - friendly environment. Rated<|endoftext|> 
+
+START DET NOUN NOUN ADP PROPN VERB DET NOUN NOUN ADP NUM ADP ADP NUM CCONJ DET ADJ NOUN NOUN PUNCT PROPN END||The coffee shop near Avalon has a customer rating of 5 out of 5 and a moderate price range. Fitzbillies<|endoftext|> 
+
+START ADJ PROPN AUX DET ADJ ADJ NOUN ADP PROPN VERB ADP DET NOUN NOUN ADP SYM NUM PUNCT PROPN END||Italian Fitzbillies is a kid friendly restaurant near Avalon located in the city centre with 20 - 25.<|endoftext|> 
+
+START PROPN PROPN AUX ADJ VERB NOUN ADP ADJ NOUN NOUN PUNCT PROPN END||Loch Fyne is high priced restaurant with average customer rating.<|endoftext|> 
+
+START ADP DET NOUN PUNCT PRON VERB DET NOUN VERB DET PROPN PROPN PUNCT PRON AUX ADJ ADP NOUN CCONJ VERB DET NOUN NOUN ADP SYM NUM SYM NUM PUNCT PUNCT END||On the riverside, there is a pub called The Olive Grove. It is suitable for families and has a price range of 20 - 25..<|endoftext|> 
+
+START DET ADJ NOUN NOUN PROPN PROPN VERB ADV VERB NOUN CCONJ AUX NOUN ADJ PUNCT PUNCT END||The fast food restaurant Loch Fyne has moderately priced food and is child friendly.<|endoftext|> 
+
+START DET PROPN AUX DET NOUN NOUN PRON VERB ADJ NOUN ADP DET SYM NUM CCONJ ADJ NOUN NOUN PRON AUX PART NOUN ADJ PRON VERB DET ADJ NOUN NOUN CCONJ PRON AUX VERB PRON ADP DET PROPN PROPN PUNCT END||The Cricketers is a coffee shop that provides Indian food in the 20 - 25 and high<|endoftext|> 
+
+START DET ADV VERB NOUN ADP DET PROPN PROPN AUX DET PROPN PROPN PUNCT PUNCT END||A moderately priced restaurant near The Portland Arms is The Dumpling Tree..<|endoftext|> 
+
+START DET PROPN AUX DET NOUN NOUN PRON AUX NOUN PUNCT ADJ CCONJ VERB ADP DET PROPN NOUN PUNCT PRON VERB ADJ NOUN CCONJ AUX VERB NUM ADP ADP NUM NOUN PUNCT PROPN END||The Mill is a coffee shop that is family - friendly and located near The Sorrento riverside. It serves Italian food and is rated 5<|endoftext|> 
+
+START DET ADJ PROPN AUX ADP DET NOUN CCONJ VERB ADJ NOUN ADP DET ADJ NOUN NOUN PUNCT VERB END||The Punter is near the riverside and serves Japanese food with a high price range. Rated average<|endoftext|> 
+
+START DET NOUN NOUN PRON VERB ADJ NOUN ADP NOUN ADP DET ADJ NOUN NOUN CCONJ DET NOUN NOUN PRON AUX ADP SYM NUM AUX DET ADJ PROPN PUNCT ADV END||The coffee shop that provides Indian food in riverside with a high customer rating and a price range that is between Â£ 20 - 25 is The Punter.<|endoftext|> 
+
+START ADP NOUN ADP DET PROPN PROPN PUNCT DET NUM NUM VERB DET ADJ NOUN NOUN CCONJ AUX NOUN ADJ PUNCT PRON VERB DET NOUN NOUN ADP ADJ ADP SYM NUM NUM END||In riverside near The Portland Arms, a 3 - star coffee shop and is child friendly, it has a price range of more than 30<|endoftext|> 
+
+START ADP SYM NUM SYM NUM PRON VERB DET ADJ NOUN NOUN VERB DET PROPN PUNCT PROPN END||With a price range of 20 - 25 we have a high customer rating called The Waterman.<|endoftext|> 
+
+START PROPN AUX DET NOUN NOUN ADP DET NOUN NOUN ADJ ADP NUM CCONJ VERB ADJ NOUN PUNCT PRON AUX ADP DET NOUN NOUN CCONJ AUX PART NOUN PUNCT ADJ PUNCT DET NOUN NOUN AUX ADJ PUNCT PROPN END||Giraffe is a coffee shop with a price range less than 20 and serves Italian food. It<|endoftext|> 
+
+START DET PROPN NOUN NOUN VERB ADJ NOUN ADP NOUN ADP PROPN PROPN ADP ADJ NOUN NOUN CCONJ DET NOUN ADP NUM ADP ADP NUM PUNCT PUNCT END||The Eagle coffee shop serves Indian food in riverside near Burger King with moderate price range and a rating of 1 out of 5.<|endoftext|> 
+
+START DET ADJ NOUN NOUN VERB DET PROPN AUX NOUN ADJ PUNCT ADJ PUNCT CCONJ ADJ ADP SYM NUM PUNCT PUNCT END||A fast food restaurant called The Wrestlers is family friendly, cheap, and less than 20.<|endoftext|> 
+
+START PRON VERB DET ADJ PUNCT NOUN ADJ ADJ NOUN VERB PROPN PROPN PUNCT PROPN END||There is a cheap, family friendly Japanese restaurant called Loch Fyne. Loch Fyne<|endoftext|> 
+
+START ADP DET ADJ NOUN PUNCT VERB NUM PUNCT NOUN VERB PROPN NOUN PRON VERB DET NOUN ADP NOUN CCONJ NOUN PUNCT PROPN END||Next to the river, has 5 - star rated Cocum coffee shop that serves a variety of wines and cheeses. Cocum<|endoftext|> 
+
+START PROPN AUX DET ADJ NOUN NOUN ADP DET NOUN NOUN ADP NUM ADP ADP NUM PUNCT PRON AUX NOUN ADJ CCONJ DET NOUN NOUN AUX ADV SYM NUM SYM NUM PUNCT PROPN END||Blue Spice is a fast food restaurant with a customer rating of 3 out of 5. It is child friendly and the price range is about 20 - 25.<|endoftext|> 
+
+START ADP DET PROPN PRON VERB DET ADJ NOUN NOUN VERB PROPN PUNCT PUNCT END||Next to The Bakers there is a fast food restaurant called Cocum.<|endoftext|> 
+
+START INTJ PUNCT DET NOUN CCONJ NOUN VERB ADP DET ADJ NOUN ADP DET NOUN NOUN PUNCT PRON AUX VERB DET ADJ PROPN ADP PROPN PROPN CCONJ PRON AUX ADJ PROPN PUNCT PROPN END||Yes, yes and coffee shop located in the middle of the city centre. It is called The Punter near CafÃ© Sic<|endoftext|> 
+
+START ADP ADJ PUNCT ADV VERB ADJ NOUN ADP DET NOUN NOUN PUNCT NOUN ADP DET PROPN PROPN ADP PROPN ADP PROPN PROPN PUNCT PUNCT END||For low - priced Italian food in the city centre, moderately priced in the riverside area, near the Express by Holiday Inn,.<|endoftext|> 
+
+START VERB ADP DET NOUN PUNCT DET PROPN PROPN AUX DET NOUN PRON VERB ADJ NOUN PUNCT PROPN END||Located on the riverside, The Olive Grove is a pub that serves English food. Olive Grove<|endoftext|> 
+
+START ADV PROPN PUNCT ADJ PUNCT DET ADJ PROPN AUX DET ADJ ADJ NOUN VERB ADP DET PROPN PUNCT PROPN END||Next to Ranch, kid friendly, The Cricketers is a kid friendly pub located near The Ranch. Ranch<|endoftext|> 
+
+START DET PROPN PROPN VERB ADJ ADJ NOUN ADP DET NOUN NOUN ADP PROPN ADP PROPN PROPN PUNCT NOUN AUX ADJ CCONJ PRON VERB DET ADJ NOUN NOUN PUNCT PROPN END||The Rice Boat serves cheap Chinese food in the city centre near Express by Holiday Inn. Customers have rated it average and it has an average customer rating. Express is<|endoftext|> 
+
+START PROPN PROPN VERB ADJ PUNCT PRON AUX VERB ADP PROPN PROPN CCONJ VERB DET NOUN ADP NUM ADP ADP NUM NOUN END||Midsummer House provides Chinese. It is located near CafÃ© Rouge and has a rating of 3 out of 5 stars<|endoftext|> 
+
+START DET PROPN ADJ NUM NOUN NOUN AUX DET ADJ NOUN PART VERB PUNCT DET END||The Twenty Two Japanese riverside restaurant is a cheap place to eat, The Vaults<|endoftext|> 
+
+START NOUN PUNCT ADJ ADJ NOUN VERB DET PROPN AUX ADP PROPN PROPN PROPN PUNCT END||Child - friendly Italian restaurant called The Plough is near CafÃ© Rouge.<|endoftext|> 
+
+START VERB NUM ADP ADP NUM PUNCT PROPN AUX DET ADJ NOUN PRON AUX NOUN ADJ PUNCT PROPN END||Rated 5 out of 5, Cocum is a Japanese restaurant that is child friendly. Cocum<|endoftext|> 
+
+START PROPN AUX DET ADJ NOUN NOUN ADP ADJ NOUN NOUN PUNCT PRON AUX PART NOUN PUNCT ADJ PUNCT PROPN END||Giraffe is a fast food pub with low customer ratings. It is not family - friendly.<|endoftext|> 
+
+START PROPN AUX DET ADV VERB NOUN ADJ NOUN VERB ADJ ADP NUM NOUN PUNCT PROPN END||Loch Fyne is a moderately priced family friendly restaurant costing less than 20 pounds.<|endoftext|> 
+
+START PROPN PROPN AUX DET NUM NOUN NOUN NOUN VERB ADP DET NOUN ADV ADP PROPN PROPN PROPN PUNCT PROPN END||Bibimbap House is a 5 star coffee shop located next to the river next to Clare Hall. Bibimbap House is a family friendly restaurant<|endoftext|> 
+
+START ADP PROPN PUNCT DET ADJ PROPN AUX DET NOUN ADP ADV VERB NOUN CCONJ AUX ADP DET PROPN ADJ PROPN PUNCT PUNCT END||Next to Ranch, The Punter is a French Pub with moderately priced food and is near the CafÃ© Sicilia.<|endoftext|> 
+
+START DET PROPN ADJ PROPN VERB ADJ NOUN CCONJ VERB DET ADJ NOUN NOUN ADP END||The CafÃ© Sicilia serves English food and has an average customer rating with a high price range<|endoftext|> 
+
+START DET PROPN PROPN PROPN AUX DET ADJ NOUN ADP NOUN PRON AUX ADJ PART VERB DET ADJ ADV PUNCT PROPN END||Near the Rainbow Vegetarian CafÃ© is a Japanese restaurant in riverside that is kid friendly. Strada<|endoftext|> 
+
+START PROPN AUX DET NOUN VERB ADJ NOUN ADP DET NOUN ADJ NOUN PUNCT PRON VERB DET NOUN NOUN ADP NUM ADP ADP NUM PUNCT PROPN END||Blue Spice is a restaurant providing Indian food in a family friendly environment. It has a customer rating of 5 out of 5.<|endoftext|> 
+
+START VERB ADP DET PROPN PUNCT AUX DET NOUN NOUN ADP DET NOUN ADP PROPN PUNCT PRON VERB ADP DET ADJ NOUN ADJ NOUN PUNCT NOUN ADV ADV ADP NOUN CCONJ NOUN PUNCT PROPN END||Moderately priced near The Sorrento, is a coffee shop by the name of Fitzbillies. It has an average customer rating<|endoftext|> 
+
+START DET PROPN AUX DET ADJ ADJ NOUN ADP DET NOUN NOUN PUNCT PRON NOUN NOUN AUX ADJ PUNCT PUNCT END||The Phoenix is a kid friendly restaurant in the city centre. Its customer rating is average.<|endoftext|> 
+
+START DET PROPN PROPN NOUN VERB ADP ADJ ADJ NOUN CCONJ NOUN ADP NOUN ADJ NOUN PUNCT VERB NOUN PUNCT PUNCT END||The Golden Palace coffee shop serves cheap Italian food and coffee with family friendly atmosphere, located riverside.<|endoftext|> 
+
+START DET PROPN AUX NOUN NOUN ADP ADJ ADJ NOUN CCONJ NOUN AUX ADJ ADV NUM NOUN PUNCT VERB ADP PROPN PROPN ADP ADP PROPN PROPN PUNCT PROPN END||The Eagle is coffee shop with cheap Italian food and prices are less then 20 euros, located near Burger King in Riverside near Express by Holiday Inn.<|endoftext|> 
+
+START DET NOUN ADP PROPN PROPN VERB DET PROPN PROPN VERB ADJ NOUN PRON VERB ADJ ADP SYM NUM PUNCT NOUN END||The pub near CafÃ© Sicilia called The Dumpling Tree serves English food that costs more than 30.<|endoftext|> 
+
+START VERB ADP DET NOUN ADP DET NOUN NOUN ADP NUM ADP ADP NUM AUX DET ADJ NOUN NOUN VERB DET PROPN PUNCT PUNCT END||Situated on the outskirts of the city with a customer rating of 3 out of 5 is a fast food restaurant called The Phoenix.<|endoftext|> 
+
+START DET ADJ PROPN AUX DET ADJ VERB NOUN NOUN PRON VERB ADJ NOUN PUNCT VERB DET NUM ADP ADP NUM NOUN NOUN CCONJ AUX VERB ADP DET NOUN NOUN PUNCT PUNCT END||The Italian Fitzbillies is a high priced coffee shop that serves fast food. Has a 5 out of 5 customer rating and is located in the city centre.<|endoftext|> 
+
+START DET PROPN AUX DET NOUN PRON AUX NOUN ADJ CCONJ VERB DET ADJ NOUN NOUN ADP PROPN PUNCT PUNCT END||The Cricketers is a pub that is family friendly and has a low customer rating near Ranch.<|endoftext|> 
+
+START DET PROPN AUX DET NOUN VERB ADJ NOUN PUNCT CCONJ DET NOUN NOUN AUX NUM ADP ADP NUM PUNCT VERB ADP DET NOUN NOUN PUNCT CCONJ END||The Waterman is a restaurant providing Indian food, but the customer rating is 1 out of 5, located in the city centre, and not family - friendly<|endoftext|> 
+
+START PRON VERB DET ADJ NOUN NOUN VERB PROPN VERB ADP PROPN ADJ PROPN PRON VERB ADJ NOUN ADP DET ADJ NOUN NOUN CCONJ ADV NOUN PUNCT ADJ CCONJ END||If you have a high customer rating called Strada located near Rainbow Vegetarian CafÃ© that serves French food with a moderate price range and also children - friendly and also family - friendly<|endoftext|> 
+
+START DET NOUN ADP DET NOUN NOUN ADP SYM NUM CCONJ ADJ PUNCT PRON VERB DET NOUN ADP PROPN ADP ADJ NOUN NOUN PUNCT NOUN END||The Vaults with a price range of 20 - 25 and cheap. It has a rating of Wildwood with average customer rating.<|endoftext|> 
+
+START ADP ADJ NOUN NOUN CCONJ AUX ADJ NOUN PUNCT ADJ PUNCT PROPN PROPN AUX DET ADJ NOUN NOUN ADP PROPN PROPN PROPN ADP DET NOUN NOUN PUNCT PUNCT END||With high customer ratings and is kid - friendly, Travellers Rest Beefeater is an Italian coffee shop near CafÃ© Adriatic in the city centre<|endoftext|> 
+
+START DET ADJ PROPN AUX DET ADJ NOUN NOUN ADP DET NOUN NOUN NOUN PUNCT PRON VERB DET ADJ NOUN NOUN CCONJ DET NUM ADP ADP NUM NOUN NOUN PUNCT PROPN END||The Italian Fitzbillies is a cheap coffee shop in the city centre area. It has an average customer rating and a 5 out of 5 customer rating. Blue Spice<|endoftext|> 
+
+START DET NOUN VERB DET ADJ PROPN ADP PROPN ADJ PROPN PUNCT ADP DET NOUN NOUN PUNCT VERB ADJ ADP SYM NUM PUNCT END||The pub called The Plough near CafÃ© Rouge, near the city centre, with a price range less than 20.<|endoftext|> 
+
+START DET PROPN AUX DET ADJ NOUN PUNCT PROPN END||The Punter is a cheap restaurant. Cocum<|endoftext|> 
+
+START PROPN PROPN VERB ADP NOUN NOUN ADJ ADP DET PROPN VERB ADJ NOUN PUNCT PRON AUX DET ADJ NOUN NOUN PUNCT DET END||Browns Cambridge located in city centre close to The Sorrento serves Japanese food. It is a low customer rating. The is a fast food restaurant.<|endoftext|> 
+
+START ADV VERB ADJ NOUN NOUN DET PROPN PUNCT AUX VERB ADP PROPN PUNCT DET NOUN AUX ADJ CCONJ AUX PART NOUN ADJ PUNCT INTJ END||Moderately priced fast food restaurant The Wrestlers, is located near Raja Indian Cuisine. The restaurant is cheap and is not family friendly.<|endoftext|> 
+
+START ADP SYM NUM SYM NUM PRON AUX VERB ADJ NOUN ADP DET NOUN ADJ NOUN DET PROPN PUNCT PROPN END||For around 20 - 25 you can get Japanese food in a family friendly environment The Waterman.<|endoftext|> 
+
+START PROPN AUX NOUN ADJ ADP DET NUM ADP ADP NUM NOUN NOUN PUNCT PRON AUX ADP DET ADJ NOUN NOUN CCONJ VERB ADP PROPN ADP PROPN PROPN PUNCT SCONJ END||Alimentum is child friendly with a 5 out of 5 customer rating. It is in the high price range and located in Riverside near Yippee Noodle Bar.<|endoftext|> 
+
+START DET NOUN VERB DET PROPN PUNCT AUX AUX VERB ADP DET NOUN ADV ADP DET PROPN PROPN PUNCT PROPN END||The pub called The Mill, is located by the riverside next to The Sorrento. Browns Cambridge<|endoftext|> 
+
+START PROPN AUX DET ADJ ADJ NOUN NOUN ADP NOUN PRON AUX VERB ADP DET NOUN NOUN PUNCT SCONJ END||Blue Spice is a kid friendly coffee shop in riverside that is located in the city centre.<|endoftext|> 
+
+START DET NOUN ADJ NOUN NOUN AUX DET PROPN PUNCT ADP PROPN PROPN ADP DET NOUN NOUN PUNCT VERB ADV SYM NUM SYM NUM PUNCT PRON VERB ADJ NOUN PUNCT CCONJ AUX VERB ADV ADP NOUN PUNCT PUNCT END||The family friendly coffee shop is The Eagle, near Burger King in the riverside area, offering<|endoftext|> 
+
+START DET ADJ NOUN PUNCT PROPN PUNCT VERB ADJ NOUN PUNCT NOUN PUNCT NOUN PUNCT DET ADJ NOUN NOUN PUNCT CCONJ PRON AUX NOUN ADJ PUNCT END||The Italian restaurant, Fitzbillies, has high prices, family - friendly atmosphere, riverside, and it is child friendly.<|endoftext|> 
+
+START PRON VERB DET NOUN ADJ NOUN NOUN VERB ADV ADP DET PROPN PROPN PROPN PUNCT PRON AUX VERB PROPN PROPN PUNCT PUNCT END||If you have a family friendly coffee shop located next to the Rainbow Vegetarian CafÃ©, you can try Travellers Rest Beefeater.<|endoftext|> 
+
+START DET PROPN PROPN AUX DET NOUN ADP PROPN PROPN PRON VERB ADJ NOUN ADP DET ADJ NOUN NOUN PUNCT PUNCT END||The Dumpling Tree is a pub near CafÃ© Sicilia that serves French food with a high customer rating.<|endoftext|> 
+
+START DET ADJ PROPN VERB ADJ NOUN CCONJ AUX VERB NUM ADP ADP NUM PUNCT PRON AUX VERB ADP NOUN ADP PROPN PROPN PUNCT PROPN END||The kid friendly Zizzi serves English food and is rated 5 out of 5. It is located in riverside near Clare Hall.<|endoftext|> 
+
+START PROPN AUX DET ADJ NOUN NOUN ADP PROPN ADJ PROPN PUNCT PRON AUX ADV VERB CCONJ NOUN ADJ PUNCT PUNCT END||Loch Fyne is a fast food restaurant near CafÃ© Rouge. It is moderately priced and family friendly.<|endoftext|> 
+
+START DET PROPN PUNCT VERB ADP DET NOUN NOUN ADP PROPN PROPN PUNCT AUX DET ADV NOUN PUNCT ADJ NOUN NOUN VERB ADJ NOUN ADP DET SYM NUM SYM NUM NOUN NOUN PUNCT PROPN END||The Eagle, located in the city centre near Burger King, is a very family - friendly coffee shop serving Japanese food with a 20 - 25 pound<|endoftext|> 
+
+START DET PROPN PROPN VERB ADJ NOUN ADP DET ADJ NOUN NOUN PUNCT PRON AUX VERB ADP DET NOUN PUNCT PRON AUX ADP PROPN ADP PROPN PROPN PUNCT PRON NOUN NOUN AUX NUM ADP ADP NUM PUNCT DET END||The Rice Boat provides Chinese food in the moderate price range. It is located in the riverside<|endoftext|> 
+
+START ADV ADJ PROPN NOUN PUNCT ADP PROPN PROPN PUNCT AUX DET ADJ VERB NOUN NOUN VERB PROPN PUNCT PROPN END||Next to CafÃ© Sicilia, near Ranch, is a high priced coffee shop called Wildwood. Wildwood is a low rated pub<|endoftext|> 
+
+START ADP NOUN NOUN ADP PROPN PROPN PROPN AUX DET ADJ NOUN NOUN VERB PROPN PUNCT PRON VERB ADJ NOUN NOUN CCONJ DET NOUN NOUN ADP SYM NUM SYM NUM PUNCT PROPN END||In city centre near Rainbow Vegetarian CafÃ© is a fast food restaurant called Strada. It has low customer ratings and a price range of 20<|endoftext|> 
+
+START PROPN AUX DET NOUN ADJ NOUN ADP DET NOUN NOUN PRON VERB ADJ NOUN PUNCT PROPN END||Clowns is a family friendly pub in the riverside area that serves French food. Clowns<|endoftext|> 
+
+START PROPN AUX DET NOUN PRON VERB ADJ NOUN PUNCT PRON AUX VERB ADP PROPN PROPN PROPN PUNCT PRON VERB DET ADJ NOUN VERB CCONJ AUX VERB ADJ NOUN PUNCT PUNCT END||The Plough is a pub that serves Chinese food. It is located near CafÃ© Rouge. It has a low customer rating and is rated<|endoftext|> 
+
+START DET ADJ PROPN AUX DET NOUN NOUN ADP ADJ NOUN PUNCT NOUN ADV ADV NUM PUNCT ADP DET NOUN CCONJ VERB ADJ NOUN PUNCT PROPN END||The Italian Fitzbillies is a coffee shop with Indian food. Prices more then 30, with a kids friendly environment, Fitzbillies<|endoftext|> 
+
+START ADJ PROPN AUX DET ADJ NOUN NOUN ADP DET NOUN NOUN ADP DET ADJ NOUN NOUN PUNCT PUNCT END||Fast Food is a fast food restaurant in the city centre with a low customer rating.<|endoftext|> 
+
+START DET NOUN ADP PROPN AUX DET ADV ADJ NOUN PRON AUX PUNCT NOUN ADV ADJ PUNCT PUNCT END||The pub near Ranch is a very expensive restaurant that is, children friendly,.<|endoftext|> 
+
+START DET ADJ NOUN PUNCT ADP DET PROPN NUM PUNCT VERB ADP NOUN NOUN AUX DET NOUN ADJ PUNCT ADJ NOUN NOUN ADP ADJ NOUN NOUN PUNCT PROPN END||The Italian restaurant, near All Bar One, located in city centre is a child friendly, high price range with average customer ratings. Green Man<|endoftext|> 
+
+START PROPN PROPN PUNCT DET ADJ PUNCT NOUN NOUN VERB NUM NOUN PUNCT AUX VERB ADP PROPN PROPN PUNCT DET END||Bibimbap House, a fast - food restaurant rated 5 stars, is located near Clare Hall. The<|endoftext|> 
+
+START ADJ NOUN AUX VERB ADP PROPN ADP DET NOUN NOUN PUNCT ADP PROPN PROPN PROPN PUNCT PRON VERB DET NOUN NOUN ADP SYM NUM SYM NUM CCONJ DET ADJ NOUN NOUN PUNCT PROPN END||English food is served at Alimentum in the city centre, near Yippee Noodle Bar. It has a price range<|endoftext|> 
+
+START DET PROPN PROPN AUX DET ADJ VERB ADJ NOUN PUNCT PRON AUX VERB ADP DET NOUN NOUN CCONJ AUX PART NOUN ADJ PUNCT PUNCT END||The Olive Grove is a high priced Italian pub. It is located in the city centre and is not child friendly.<|endoftext|> 
+
+START DET PROPN AUX DET NOUN ADJ NOUN VERB NOUN ADP ADJ NOUN NOUN PUNCT PRON AUX ADP DET PROPN PROPN PUNCT PROPN END||The Cricketers is a family friendly pub providing food in moderate price range. It is near The Portland Arms.<|endoftext|> 
+
+START PROPN AUX DET ADV VERB PUNCT ADJ PUNCT ADJ NOUN NOUN VERB ADP DET NOUN NOUN ADP DET PROPN PROPN PROPN PUNCT PUNCT END||Browns Cambridge is a moderately priced, kid - friendly coffee shop located in the city centre near the Crowne Plaza Hotel..<|endoftext|> 
+
+START DET PROPN ADJ ADJ NOUN PUNCT DET NUM NUM PUNCT AUX NOUN ADJ PUNCT PUNCT END||The Wrestlers cheap Italian restaurant, a 5 - star, is family friendly.<|endoftext|> 
+
+START DET ADJ PROPN AUX DET ADJ NOUN ADJ NOUN PUNCT VERB ADP DET PROPN PUNCT NOUN VERB ADP ADJ ADP SYM NUM PUNCT PROPN END||The Italian Strada is a cheap family friendly restaurant, located near The Bakers. Prices range from less than 20.<|endoftext|> 
+
+START PROPN PROPN AUX VERB ADP DET PROPN NUM PUNCT PRON AUX ADJ ADV ADV VERB NUM NOUN SCONJ END||Midsummer House is located near All Bar One. It is kid friendly moderately priced 5 star restaurant although<|endoftext|> 
+
+START PROPN VERB DET ADJ NOUN NOUN PUNCT DET NOUN NOUN ADP ADJ ADP SYM NUM CCONJ AUX NOUN ADJ PUNCT DET END||The Wrestlers has a high customer rating, a price range of more than 30 and is children friendly. The Wrestlers<|endoftext|> 
+
+START NOUN ADP PROPN AUX DET NOUN ADP DET PROPN ADP DET NOUN NOUN PUNCT PRON AUX PART NOUN PUNCT ADJ PUNCT PROPN END||Taste of Cambridge is a restaurant near The Sorrento in the riverside area. It is not family - friendly. Green Man<|endoftext|> 
+
+START DET PROPN PROPN VERB ADJ NOUN ADP DET ADJ NOUN NOUN PUNCT PRON AUX VERB ADP DET NOUN NOUN PUNCT PRON AUX ADP PROPN ADP PROPN PROPN PUNCT PRON NOUN NOUN AUX NUM ADP ADP NUM PUNCT PUNCT END||The Rice Boat provides Indian food in the moderate price range. It is located<|endoftext|> 
+
+START DET PROPN PROPN AUX VERB NUM ADP ADP NUM ADP NOUN NOUN PUNCT PRON AUX DET ADJ NOUN PUNCT END||The Golden Palace is rated 5 out of 5 by customers. It is a Japanese restaurant.<|endoftext|> 
+
+START PRON VERB DET NOUN ADJ ADJ NOUN NOUN VERB PROPN PROPN PUNCT DET NOUN NOUN AUX ADJ ADP SYM NUM PUNCT PROPN END||There is a children friendly fast food restaurant called Loch Fyne. The price range is more than 30. Loch Fyne is high with prices<|endoftext|> 
+
+START DET PROPN AUX DET ADJ NOUN ADP ADJ NOUN PUNCT VERB END||The Punter is a Japanese restaurant with low ratings, located riverside<|endoftext|> 
+
+START DET PROPN ADP ADJ NOUN ADP NOUN ADJ ADP ADJ NOUN PUNCT PUNCT END||The Waterman for English food with moderate prices with average ratings.<|endoftext|> 
+
+START DET PROPN AUX DET NOUN VERB ADJ NOUN PUNCT PUNCT END||The Punter is a restaurant providing Chinese food., End<|endoftext|> 
+
+START DET PROPN AUX DET NOUN PRON VERB ADJ NOUN PUNCT PRON VERB DET ADJ NOUN NOUN CCONJ DET NOUN NOUN ADP NUM ADP ADP NUM PUNCT PRON AUX VERB ADP DET NOUN NOUN PUNCT PROPN END||The Waterman is a restaurant that provides Indian food. It has a moderate price range and a customer rating of 1 out of 5.<|endoftext|> 
+
+START ADP DET NOUN ADP NOUN AUX VERB DET NOUN NOUN ADP PROPN ADP ADJ NOUN VERB DET PROPN PROPN END||Next to the river in riverside is located a coffee shop with Italian food called The Golden Palace<|endoftext|> 
+
+START ADV ADP DET PROPN PROPN PROPN PRON VERB DET ADV ADJ NOUN VERB PROPN PUNCT PUNCT END||Next to the Rainbow Vegetarian CafÃ© there is a moderately priced restaurant called Strada.<|endoftext|> 
+
+START DET PROPN AUX DET NOUN NOUN PRON VERB ADJ NOUN PUNCT PRON VERB DET ADJ NOUN NOUN CCONJ PRON ADP DET NOUN ADP PROPN PROPN CCONJ END||The Eagle is a coffee shop that serves Indian food. It has a low customer rating and it by the riverside near Burger King and no by name<|endoftext|> 
+
+START PROPN PROPN VERB ADJ NOUN ADP DET ADJ NOUN NOUN PUNCT PRON VERB DET NUM ADP ADP NUM NOUN NOUN PUNCT PUNCT END||Midsummer House provides Chinese food in the moderate price range. It has a 5 out of 5 customer rating..<|endoftext|> 
+
+START DET PROPN AUX ADJ VERB NOUN PUNCT ADJ ADJ NOUN NOUN NOUN VERB NUM ADP ADP NUM NOUN ADP PROPN PROPN PUNCT PUNCT END||The Punter is high priced family - friendly fast food coffee shop rated 3 out of 5 stars near CafÃ© Sicilia.<|endoftext|> 
+
+START DET PROPN AUX DET ADJ NOUN NOUN PRON VERB DET ADJ NOUN ADP ADJ NOUN PUNCT PUNCT END||The Waterman is a fast food restaurant that has an average rating for cheap food.<|endoftext|> 
+
+START DET ADJ PROPN AUX DET ADJ NOUN PRON AUX VERB NOUN PUNCT ADJ ADP DET NOUN NOUN ADP NUM ADP ADP NUM PUNCT PRON AUX AUX VERB ADP PROPN PROPN ADP DET NOUN NOUN NOUN PUNCT PROPN END||The Italian Fitzbillies is a French restaurant that is rated child - friendly with a customer rating of 3<|endoftext|> 
+
+START PROPN AUX DET NOUN NOUN VERB ADP DET NOUN NOUN ADP PRON NOUN AUX VERB PART VERB ADJ ADP SYM NUM PUNCT PRON VERB DET ADJ NOUN NOUN PUNCT CCONJ NOUN AUX PART VERB PUNCT PUNCT END||Blue Spice is a coffee shop located in the city centre with its prices ranging from 20 - 25. It has received a<|endoftext|> 
+
+START PRON VERB DET ADJ VERB ADJ NOUN VERB PROPN PROPN PROPN ADP PROPN PROPN ADP DET PROPN NOUN PUNCT PROPN END||If you have a high priced Italian restaurant called Travellers Rest Beefeater near CafÃ© Adriatic in the City centre, Browns Cambridge<|endoftext|> 
+
+START DET PROPN VERB ADJ NOUN ADP DET ADJ NOUN NOUN PUNCT PRON AUX VERB ADP DET NOUN NOUN PUNCT PRON NOUN NOUN AUX ADJ PUNCT PUNCT END||The Phoenix provides Chinese food in the high price range. It is located in the city centre. Its customer rating is average.<|endoftext|> 
+
+START PRON VERB DET ADJ NOUN NOUN VERB DET PROPN ADP DET ADJ NOUN NOUN PUNCT PRON AUX ADP DET NOUN NOUN CCONJ VERB DET NUM ADP ADP NUM NOUN NOUN PUNCT VERB END||If there is a fast food restaurant called The Phoenix with a moderate price range, it is in the city centre and has a 5 out of 5 customer rating. Come check it<|endoftext|> 
+
+START DET PROPN PUNCT ADJ NOUN PUNCT NOUN ADP SYM NUM PUNCT END||The Waterman, Italian restaurant, prices between 20 - 25.<|endoftext|> 
+
+START DET ADJ ADJ NOUN NOUN AUX VERB ADP DET NOUN PROPN ADP PROPN PROPN PUNCT PRON AUX VERB DET ADJ PROPN CCONJ VERB DET NOUN NOUN ADP NUM ADP ADP NUM PUNCT PRON AUX ADV NOUN ADJ ADP END||The kid friendly coffee shop is located in the city Centre near Raja Indian Cuisine. It is<|endoftext|> 
+
+START DET ADJ NOUN NOUN ADP NOUN ADP SYM NUM ADP DET NOUN NOUN ADP PROPN ADJ PROPN PRON VERB PUNCT NOUN NOUN ADJ AUX VERB DET PROPN PUNCT PUNCT END||A Japanese coffee shop with prices between 20 - 25 with a customer rating near CafÃ© Sicilia that isn 't family friendly is called The Punter.<|endoftext|> 
+
+START PRON VERB DET NOUN PUNCT ADJ NOUN ADP DET NOUN NOUN ADP SYM NUM ADP NUM VERB PROPN PROPN PUNCT PRON VERB ADJ NOUN PUNCT PROPN END||If there is a family - friendly restaurant with a price range of 20 - 25 named Blue Spice, it serves Japanese food. Blue Spice is kid friendly.<|endoftext|> 
+
+START PROPN ADP NOUN NOUN VERB ADJ NOUN ADP ADJ NOUN ADP NOUN ADJ PUNCT PROPN END||Taste of Cambridge in city centre serves French food at moderate prices with children friendly.<|endoftext|> 
+
+START PROPN AUX DET NOUN PUNCT NOUN PUNCT ADJ NOUN ADP DET NOUN NOUN ADP NUM ADP ADP NUM PUNCT PUNCT END||Blue Spice is a family - friendly restaurant with a customer rating of 3 out of 5..<|endoftext|> 
+
+START DET PROPN AUX DET NOUN VERB ADP DET NOUN PRON VERB ADV VERB ADJ NOUN PUNCT PUNCT END||The Mill is a pub located by the riverside that serves moderately priced English food.<|endoftext|> 
+
+START ADP DET NOUN ADP DET NOUN PRON VERB DET ADJ NOUN VERB PROPN PROPN VERB ADP PROPN PROPN PROPN END||Next to the center of the city there is a Japanese restaurant called Browns Cambridge located near Crowne Plaza Hotel<|endoftext|> 
+
+START ADP PROPN PROPN PUNCT PRON VERB DET NOUN NOUN VERB DET PROPN PUNCT PRON AUX DET ADJ NOUN NOUN ADP PROPN ADP DET NOUN NOUN ADP NUM ADP ADP NUM PUNCT PUNCT END||In City Centre, there is a coffee shop called The Eagle. It is a fast food place near Burger King with a customer rating of 3 out of<|endoftext|> 
+
+START VERB ADP DET NOUN NOUN PUNCT PROPN AUX DET NOUN PUNCT ADJ NOUN PRON VERB ADJ NOUN PUNCT PROPN END||Located in the city centre, Alimentum is a family - friendly restaurant that serves English food. Alimentum<|endoftext|> 
+
+START PROPN AUX DET ADJ NOUN NOUN NOUN ADP DET NOUN PUNCT PRON VERB NUM NOUN ADP NOUN CCONJ PRON AUX VERB ADV ADP DET NOUN PUNCT ADP PROPN PROPN PUNCT PROPN END||Clowns is a fast food coffee shop in the riverside. It has 5 stars out of 5 for food and it is located close to the river<|endoftext|> 
+
+START PROPN AUX DET ADJ NOUN NOUN ADP ADV VERB ADJ NOUN PUNCT PRON AUX NOUN ADJ CCONJ VERB ADP PROPN ADJ PROPN PUNCT PROPN END||Strada is a fast food restaurant with moderately priced fast food. It is child friendly and located near Rainbow Vegetarian CafÃ©. Strada<|endoftext|> 
+
+START ADP DET PROPN PROPN PRON AUX VERB DET NOUN ADJ NOUN PUNCT DET ADJ PROPN PUNCT VERB ADJ NOUN ADP DET NOUN NOUN ADP DET NOUN NOUN NUM ADP ADP NUM PUNCT DET END||Next to the Yippee Noodle Bar you will find a family friendly restaurant, The Alimentum, serving French food in the city centre with a customer<|endoftext|> 
+
+START PROPN PROPN ADJ NOUN VERB DET NOUN ADJ NOUN ADP ADJ ADP NUM NOUN PUNCT PUNCT END||Near CafÃ© Sicilia Italian restaurant has a child friendly atmosphere with more than 30 euros.<|endoftext|> 
+
+START DET PROPN PUNCT NOUN NOUN CCONJ ADJ NOUN AUX ADP PROPN PROPN ADP DET NOUN NOUN PUNCT NOUN ADJ PUNCT ADJ NOUN ADP DET NOUN ADP NUM ADP ADP NUM PUNCT PROPN END||The Eagle, coffee shop and Indian food is near Burger King in the city centre. Family friendly, moderate prices with a rating of 3 out<|endoftext|> 
+
+START PROPN PROPN AUX DET ADJ NOUN PRON AUX NOUN ADJ PUNCT PROPN END||Loch Fyne is a Japanese restaurant that is family friendly. Loch Fyne<|endoftext|> 
+
+START ADP DET PROPN CCONJ PROPN PROPN PUNCT AUX PROPN PRON VERB NUM ADP ADP NUM NOUN PUNCT PRON AUX DET ADJ NOUN NOUN ADP DET NOUN NOUN NOUN PUNCT PROPN END||Near The Bakers and Clare Hall, is Bibimbap House which serves 3 out of 5 stars. It is a fast food restaurant in the city centre area<|endoftext|> 
+
+START PROPN PUNCT DET ADJ NOUN NOUN NOUN AUX VERB NUM ADP ADP NUM ADP NOUN NOUN ADP END||Giraffe, a fast food coffee shop is rated 5 out of 5 by customers in city centre<|endoftext|> 
+
+START DET ADV VERB ADJ NOUN NOUN VERB DET PROPN PROPN PROPN END||A moderately priced fast food restaurant called The Cambridge Blue<|endoftext|> 
+
+START PROPN PUNCT AUX DET ADV VERB ADJ NOUN NOUN ADP DET PROPN PROPN PUNCT ADP PROPN PUNCT PRON VERB DET NUM ADP ADP NUM NOUN NOUN PUNCT PUNCT END||Midsummer House, is a moderately priced fast food restaurant near the CafÃ© Rouge, near Ranch. It has a 5 out of 5 customer rating.<|endoftext|> 
+
+START DET ADJ PROPN VERB ADJ NOUN ADP ADJ NOUN NOUN PUNCT PRON AUX PART NOUN PUNCT ADJ PUNCT PROPN END||The Italian called Zizzi has low customer ratings with high price range. It is not family - friendly.<|endoftext|> 
+
+START DET PROPN VERB ADJ VERB ADJ NOUN PUNCT PUNCT END||The Punter serves high priced Chinese food,.<|endoftext|> 
+
+START DET PROPN AUX DET NOUN NOUN VERB ADJ NOUN ADP DET ADJ NOUN NOUN PUNCT PRON AUX VERB ADP DET NOUN NOUN PUNCT PRON AUX ADP PROPN PROPN PUNCT PRON NOUN NOUN AUX NUM ADP ADP NUM PUNCT PROPN END||The Eagle is a coffee shop providing Indian food in the moderate price range. It<|endoftext|> 
+
+START PROPN AUX DET ADJ NOUN NOUN ADJ NOUN NOUN PRON VERB ADJ NOUN ADP PROPN PUNCT PUNCT END||Loch Fyne is a cheap family friendly coffee shop that serves fast food near Ranch.<|endoftext|> 
+
+START DET ADJ PROPN VERB ADJ NOUN PRON AUX VERB ADP DET NOUN PUNCT PRON AUX ADP PROPN PROPN PUNCT PRON NOUN NOUN AUX ADJ PUNCT PUNCT END||The Italian called Alimentum provides Chinese food It is located in the riverside. It is near Yippee Noodle Bar. Its customer rating is average.<|endoftext|> 
+
+START DET PROPN AUX DET ADJ VERB NOUN NOUN PRON AUX ADJ ADP DET NOUN PUNCT PUNCT END||The Mill is a high priced coffee shop that is suitable for all ages.<|endoftext|> 
+
+START PRON VERB DET ADV NOUN ADJ ADJ NOUN VERB VERB DET PROPN ADP DET PROPN PROPN PROPN PUNCT PROPN END||If there is a kid friendly Japanese restaurant called called called The Plough near the CafÃ© Rouge, Strada<|endoftext|> 
+
+START PROPN AUX DET ADJ NOUN NOUN NOUN ADP DET PROPN PROPN ADP DET NOUN NOUN PUNCT PRON VERB DET ADJ NOUN NOUN CCONJ DET ADJ NOUN NOUN PUNCT PUNCT END||Clowns is a fast food coffee shop near The Portland Arms in the city centre. It has a low customer rating and a high price range.<|endoftext|> 
+
+START PRON VERB DET NUM ADP ADP NUM ADJ NOUN NOUN ADP PROPN PUNCT PRON AUX VERB DET PROPN PUNCT PUNCT END||If you have a 5 out of 5 Japanese coffee shop near Ranch, you can try The Eagle.<|endoftext|> 
+
+START PRON VERB DET NOUN VERB DET PROPN VERB ADJ NOUN PUNCT PRON VERB DET ADJ NOUN NOUN PUNCT PROPN END||There is a pub called The Mill serving Japanese food. It has a low customer rating.<|endoftext|> 
+
+START PROPN AUX DET NOUN VERB PROPN CCONJ NOUN PRON AUX ADP DET ADJ NOUN NOUN PUNCT PUNCT END||Blue Spice is a restaurant providing sushi and wine that is in the high price range.<|endoftext|> 
+
+START DET PROPN NOUN NOUN VERB ADP PROPN PROPN PUNCT VERB DET ADJ NOUN CCONJ NOUN ADP ADJ NOUN PUNCT PROPN END||The Wrestlers coffee shop located near Raja Indian Cuisine, has an average rating and food at moderate prices. Raja<|endoftext|> 
+
+START PROPN PROPN AUX DET ADJ NOUN PRON VERB ADJ NOUN ADP DET PROPN NUM PUNCT PRON VERB DET ADJ NOUN NOUN SCONJ END||Midsummer House is a cheap restaurant that serves Chinese food near All Bar One. It has an average customer rating although<|endoftext|> 
+
+START VERB ADJ NOUN ADP DET ADV ADJ NOUN PUNCT CCONJ ADP DET NOUN NUM PUNCT AUX DET NOUN ADJ ADJ NOUN PUNCT PUNCT END||Moderately priced Chinese food at a very low price, and near The Six Bells, is a family friendly Japanese restaurant.<|endoftext|> 
+
+START DET PROPN AUX DET ADJ VERB NOUN NOUN ADJ NOUN PUNCT PRON AUX NOUN ADJ PUNCT PROPN END||The Wrestlers is a high priced family friendly coffee shop. It is child friendly. Alimentum<|endoftext|> 
+
+START PROPN PUNCT ADP DET NUM NOUN NOUN CCONJ DET ADJ NOUN NOUN PUNCT AUX DET NOUN NOUN PUNCT PRON AUX ADP DET NOUN ADP DET PROPN PROPN PUNCT DET END||Giraffe, near The Six Bells and a moderate price range, is a coffee shop. It is in the area of the City Centre. The is near The Portland Arms.<|endoftext|> 
+
+START PROPN ADJ NOUN AUX ADJ CCONJ ADJ VERB ADP DET NOUN VERB ADP PROPN ADJ PROPN PUNCT PUNCT END||Loch Fyne Japanese restaurant is cheap and average rated by the customers located near CafÃ© Rouge.<|endoftext|> 
+
+START PRON VERB DET NOUN ADP DET PROPN PROPN VERB DET PROPN PROPN PUNCT PRON VERB ADJ NOUN ADP SYM NUM PUNCT PUNCT END||There is a pub near The Portland Arms called The Dumpling Tree. It serves Japanese food for 20 - 25.<|endoftext|> 
+
+START DET PROPN AUX DET ADJ NOUN ADP PROPN PROPN PRON AUX PART NOUN PUNCT ADJ CCONJ VERB DET NOUN NOUN ADP ADJ ADP NUM NOUN PUNCT PROPN END||The Plough is an Italian pub near CafÃ© Rouge that is not family - friendly and has a price range of less than 20 pounds. Strada<|endoftext|> 
+
+START DET ADJ NOUN VERB DET PROPN PROPN VERB DET NOUN NOUN ADP NUM ADP ADP NUM PUNCT PUNCT END||A Japanese restaurant called The Golden Curry has a customer rating of 5 out of 5..<|endoftext|> 
+
+START DET PROPN AUX DET NOUN ADJ NOUN PRON VERB NUM NOUN CCONJ AUX ADJ VERB PUNCT PRON VERB NOUN CCONJ NOUN PUNCT PROPN END||The Waterman is a family friendly restaurant that has 5 stars and is cheap priced. It serves wine and cheese.<|endoftext|> 
+
+START ADP DET PROPN PROPN PUNCT PRON VERB DET NOUN VERB PROPN PROPN PRON VERB ADJ NOUN PUNCT PRON AUX ADP PROPN CCONJ VERB DET NOUN NOUN ADP NUM ADP ADP NUM PUNCT PUNCT END||Near The Portland Arms, there is a pub called Cotto that serves Japanese food. It is near Ranch and has a customer<|endoftext|> 
+
+START DET PROPN AUX DET ADJ PUNCT VERB PUNCT ADJ ADJ NOUN NOUN ADP DET NOUN PUNCT PROPN END||The Mill is a high - priced, kid friendly coffee shop in the riverside. Giraffe<|endoftext|> 
+
+START ADP DET ADJ VERB NOUN ADP PROPN PROPN PUNCT VERB DET PROPN PUNCT PRON VERB DET ADJ NOUN NOUN PUNCT PROPN END||Next to the average rated pub near CafÃ© Sicilia, try The Punter. It has an average customer rating.<|endoftext|> 
+
+START PROPN AUX DET ADJ PUNCT VERB NOUN VERB ADP DET NUM PROPN PUNCT PROPN END||Cotto is a high - priced restaurant located near The Six Bells. Twenty Two<|endoftext|> 
+
+START DET PROPN VERB ADJ NOUN PUNCT PRON AUX NOUN ADJ CCONJ AUX VERB ADP DET PROPN PROPN PROPN PUNCT END||The Plough provides Chinese food. It is child friendly and is located near the CafÃ© Rouge.<|endoftext|> 
+
+START DET NOUN ADP PROPN AUX VERB PRON ADV PUNCT DET NOUN AUX VERB ADP DET NOUN ADP PROPN PROPN PROPN PUNCT PRON VERB ADJ NOUN ADP ADJ NOUN NOUN PUNCT PROPN END||The pub near Avalon is called'The Vaults'which is located by the riverside near CafÃ© Adriatic. It serves Japanese food with<|endoftext|> 
+
+START PROPN PROPN AUX DET ADJ NOUN PUNCT PRON AUX NOUN ADJ CCONJ VERB ADJ NOUN PUNCT DET NOUN NOUN AUX ADV ADJ ADP SYM NUM PUNCT PROPN END||Loch Fyne is an Italian restaurant. It is child friendly and serves fast food. The price range is very high with 20 - 25.<|endoftext|> 
+
+START PROPN PROPN AUX ADJ NOUN VERB NOUN PUNCT PRON AUX VERB ADP DET PROPN PROPN PUNCT PROPN END||Bibimbap House is fast food serving restaurant. It is located near The Rice Boat.<|endoftext|> 
+
+START PROPN AUX DET NOUN NOUN CCONJ ADJ NOUN NOUN PUNCT ADP DET NUM ADP ADP NUM NOUN NOUN PUNCT PRON AUX ADP DET ADJ NOUN NOUN CCONJ AUX PART NOUN ADJ PUNCT NOUN END||Giraffe is a coffee shop and fast food restaurant, with a 5 out of 5 customer rating. It is in the moderate price range and is<|endoftext|> 
+
+START ADP ADJ NOUN VERB ADP ADJ NOUN NOUN PUNCT PROPN AUX DET NOUN PUNCT DET NOUN NOUN AUX NOUN ADJ ADP NOUN ADJ ADP SYM NUM PUNCT PROPN END||With average customer ratings located in high price range, Fitzbillies is a family - friendly establishment. The coffee shop is child friendly with prices more than 30.<|endoftext|> 
+
+START PROPN PUNCT VERB ADJ ADP PROPN PUNCT AUX NOUN PUNCT ADJ CCONJ NUM ADP ADP NUM PUNCT DET END||Giraffe, located close to Ranch, is family - friendly and 5 out of 5.<|endoftext|> 
+
+START NOUN PROPN PROPN VERB ADJ NOUN NOUN AUX ADJ PUNCT PART DET NOUN ADJ NOUN PUNCT PUNCT END||Near Rainbow Vegetarian CafÃ© has high customer ratings is cheap, not a family friendly restaurant.<|endoftext|> 
+
+START DET PROPN AUX DET NOUN VERB ADJ NOUN ADP ADJ NOUN PUNCT ADP DET NOUN PUNCT ADJ NOUN PUNCT PRON VERB DET NOUN PUNCT NOUN ADP NOUN PUNCT PUNCT END||The Waterman is a restaurant providing Indian food at moderate prices, with a family - friendly atmosphere. It has a family - friendly atmosphere.<|endoftext|> 
+
+START DET PROPN AUX PART NOUN PUNCT ADJ PUNCT PRON AUX VERB ADP DET NOUN NOUN ADP ADJ NOUN CCONJ ADJ NOUN NOUN PUNCT PUNCT END||The Waterman is not family - friendly. It is located in the city centre with high prices and average customer ratings.<|endoftext|> 
+
+START DET PROPN AUX AUX VERB ADV ADP DET NOUN NOUN PUNCT PUNCT ADP DET PROPN CCONJ DET PROPN PROPN PUNCT DET NOUN PUNCT NOUN ADJ NOUN VERB ADJ ADJ NOUN ADP NOUN ADP PRON ADJ NOUN PUNCT PROPN END||The Mill is located near to the city centre,, near The Sorrent<|endoftext|> 
+
+START PROPN AUX DET ADJ NOUN NOUN NOUN VERB ADP DET NOUN NOUN ADP DET NOUN NOUN ADP NUM ADP ADP NUM PUNCT PRON AUX PART NOUN PUNCT ADJ PUNCT PUNCT END||Blue Spice is a fast food coffee shop located in the city centre with a customer rating of 3 out of 5. It is not family - friendly.<|endoftext|> 
+
+START PRON VERB DET ADJ VERB ADJ NOUN NOUN VERB NOUN DET PROPN PROPN PRON AUX PART NOUN ADJ PUNCT PRON AUX VERB ADP DET NOUN NOUN ADP PROPN ADP PROPN PROPN PUNCT PROPN END||There is a high priced fast food restaurant called The Rice Boat that is not child friendly. It is located in the city centre near<|endoftext|> 
+
+START PRON AUX VERB ADV VERB ADJ NOUN ADP DET PROPN PROPN ADJ ADP DET PROPN PROPN PUNCT PROPN END||If you are looking for moderately priced fast food near The Rice Boat near the Express by Holiday Inn, Loch Fyne<|endoftext|> 
+
+START VERB ADP PROPN PROPN PUNCT DET ADJ PROPN AUX DET ADJ NOUN PART VERB ADP DET NOUN PUNCT DET END||Located near CafÃ© Sicilia, The Punter is a cheap place to eat near the river. The end<|endoftext|> 
+
+START ADJ NOUN NOUN AUX VERB ADP PROPN PUNCT PRON AUX ADP DET NUM PROPN PUNCT DET NOUN NOUN AUX ADJ PUNCT PROPN END||Japanese coffee shop is located in Riverside. It is near The Six Bells. The customer rating is low. Fitzbillies<|endoftext|> 
+
+START ADP PROPN PRON VERB DET NOUN VERB DET PROPN PRON VERB ADJ NOUN ADP ADJ NOUN PUNCT PUNCT END||In Riverside there is a pub called The Mill which serves English food at moderate prices.<|endoftext|> 
+
+START DET NOUN NOUN VERB DET PROPN VERB ADJ ADJ NOUN CCONJ DET ADJ NOUN NOUN PUNCT PRON AUX ADP DET PROPN PROPN ADP DET NOUN CCONJ AUX PART NOUN ADJ PUNCT PROPN END||The coffee shop called The Eagle serves cheap fast food and a high customer rating. It is near The Portland Arms in the riverside and is not family<|endoftext|> 
+
+START PROPN AUX DET ADV VERB NOUN VERB ADP DET NUM PROPN PUNCT PUNCT END||Loch Fyne is a moderately priced restaurant located near The Six Bells.<|endoftext|> 
+
+START DET ADJ PROPN AUX DET ADJ ADJ NOUN ADP PROPN PROPN PUNCT PRON AUX NOUN CCONJ NOUN ADJ PUNCT PUNCT END||The Italian Strada is a kid friendly restaurant near Yippee Noodle Bar. It is riverside and family friendly.<|endoftext|> 
+
+START DET ADJ PROPN VERB ADJ NOUN PRON AUX VERB ADP DET NOUN PUNCT PRON AUX ADP PROPN PROPN PUNCT PRON NOUN NOUN AUX NUM ADP ADP NUM PUNCT PUNCT END||The Italian called Alimentum provides Chinese food It is located in the riverside. It is near Yippee Noodle Bar. Its customer rating is 5 out of 5<|endoftext|> 
+
+START DET PROPN PROPN AUX DET ADJ NOUN NOUN ADP DET NOUN PUNCT PRON AUX NOUN PUNCT ADJ CCONJ VERB ADJ ADP SYM NUM PUNCT NOUN END||The Olive Grove is a fast food pub by the riverside. It is family - friendly and costs less than 20. Prices are low<|endoftext|> 
+
+START ADP NOUN NOUN VERB ADP DET PROPN PROPN PUNCT ADJ PUNCT ADJ VERB ADJ ADV NOUN ADJ NOUN ADP PROPN ADP PROPN PROPN CCONJ END||Located in city centre located near the Yippee Noodle Bar, high priced kid friendly fast food place near to Clare Hall and Riverside<|endoftext|> 
+
+START ADJ PROPN AUX DET ADV VERB NOUN ADJ ADJ NOUN ADP DET NOUN ADP DET PROPN NUM CCONJ END||Close to CafÃ© Sicilia is a moderately priced family friendly Italian restaurant near All Bar One and the riverside<|endoftext|> 
+
+START DET PROPN PROPN VERB DET ADJ NOUN ADP ADJ PUNCT NOUN PUNCT DET NOUN PUNCT PROPN END||Near The Portland Arms has an average rating for cheap, family - friendly, The Cricketers<|endoftext|> 
+
+START ADV ADP DET NOUN ADP DET PROPN PROPN VERB DET PROPN PUNCT DET ADJ NOUN NOUN VERB ADP PRON NOUN PUNCT PROPN END||Next to the center of the city near The Portland Arms called The Cricketers, an Italian coffee shop located by its customers.<|endoftext|> 
+
+START DET PROPN PROPN AUX DET ADJ NOUN ADP NOUN PROPN SYM NUM SYM NUM PUNCT PUNCT END||The Dumpling Tree is a Japanese pub with prices Â£ 20 - 25., no kids<|endoftext|> 
+
+START DET PROPN NOUN VERB ADJ ADJ NOUN PUNCT PUNCT END||The Cricketers pub serves cheap English food,.<|endoftext|> 
+
+START DET ADJ NOUN DET PROPN PROPN VERB NOUN PUNCT DET END||The Italian restaurant The Dumpling Tree has food, no children<|endoftext|> 
+
+START ADV VERB ADJ NOUN ADP DET NOUN PUNCT DET PROPN VERB DET NUM ADP ADP NUM NOUN NOUN CCONJ AUX NOUN ADJ PUNCT NOUN END||Moderately priced Indian food at the riverside, The Waterman has a 5 out of 5 customer rating and is child friendly.<|endoftext|> 
+
+START VERB ADP DET PROPN PROPN ADP PROPN PUNCT DET PROPN AUX NOUN ADJ CCONJ VERB DET NOUN NOUN ADP ADV DET SYM NUM PUNCT PUNCT END||Located near the Crowne Plaza Hotel in Riverside, The Waterman is family friendly and has a price range of only a 20 - 25.<|endoftext|> 
+
+START PRON VERB DET NOUN PROPN PROPN ADP ADJ ADP ADJ ADP SYM NUM ADP ADJ NOUN PUNCT PUNCT END||If you want a restaurant Loch Fyne for less than 20 with moderate prices,,, then,<|endoftext|> 
+
+START DET NUM NUM AUX DET NOUN ADJ ADJ NOUN VERB NOUN PUNCT PROPN END||The five is a family friendly Japanese restaurant located riverside. Cocum<|endoftext|> 
+
+START PROPN AUX DET NOUN VERB ADJ NOUN PRON NOUN NOUN AUX NUM ADP ADP NUM PUNCT PROPN END||Loch Fyne is a restaurant providing Indian food Its customer rating is 5 out of 5.<|endoftext|> 
+
+START PROPN PROPN VERB ADJ NOUN VERB ADP DET PROPN ADP DET NOUN NOUN PUNCT PROPN END||Bibimbap House serves Chinese food located near The Rice Boat in the city centre. Loch Fyne<|endoftext|> 
+
+START PROPN AUX DET ADV VERB NOUN ADP DET NOUN NOUN NOUN CCONJ ADJ NOUN PUNCT PROPN END||Clowns is a moderately priced pub in the city centre area and fast food. Clowns<|endoftext|> 
+
+START PROPN PROPN AUX AUX DET NOUN ADJ ADJ NOUN ADP ADJ NOUN PUNCT PROPN END||Loch Fyne is a children friendly Japanese restaurant with high prices. Loch Fyne<|endoftext|> 
+
+START PROPN PROPN AUX ADJ ADP ADJ NOUN CCONJ ADV NOUN ADJ ADP DET PROPN PUNCT PROPN END||Bibimbap House is cheap for Italian food and also family friendly near The Rice Boat.<|endoftext|> 
+
+START PROPN AUX DET NOUN VERB ADJ NOUN ADP PROPN PROPN PROPN PUNCT NOUN AUX VERB PRON NOUN PUNCT PUNCT END||Clowns is a pub providing Indian food near CafÃ© Sicilia. Customers have rated it average.<|endoftext|> 
+
+START PRON VERB DET NOUN VERB DET PROPN PRON AUX ADV VERB ADP NOUN CCONJ VERB ADJ NOUN PUNCT PUNCT END||There is a pub called The Mill which is moderately priced near riverside and serves Italian food.<|endoftext|> 
+
+START SCONJ PRON VERB ADJ NOUN ADV VERB CCONJ VERB PRON ADP PROPN PROPN PRON VERB NOUN ADP ADJ ADP SYM NUM CCONJ VERB DET ADJ NOUN NOUN PUNCT END||If you want fast food then go to Loch Fyne which serves sushi for less than 20 and has a low customer rating.<|endoftext|> 
+
+START DET PROPN AUX DET NOUN ADJ NOUN ADP DET NOUN NOUN ADJ ADP SYM NUM PUNCT PROPN END||The Waterman is a family friendly restaurant with a price range less than 20.<|endoftext|> 
+
+START DET PROPN PROPN AUX DET ADV VERB PUNCT NOUN ADJ PUNCT ADJ NOUN ADP NOUN NOUN ADP DET PROPN ADP PROPN PROPN PUNCT PRON VERB DET ADJ NOUN NOUN PUNCT VERB END||The Rice Boat is a moderately priced, family friendly, Italian restaurant in city centre near the Express by Holiday Inn. It has a low customer rating,<|endoftext|> 
+
+START DET NOUN ADP NOUN AUX PART NOUN PUNCT ADJ PUNCT DET PROPN AUX DET ADV ADJ PUNCT ADJ NOUN PUNCT PROPN END||The place in riverside is not family - friendly. The Waterman is a low - cost, Italian restaurant.<|endoftext|> 
+
+START PROPN NOUN VERB ADJ NOUN CCONJ AUX VERB NUM NOUN PUNCT END||Zizzi pub serves English food and is rated 5 stars.<|endoftext|> 
+

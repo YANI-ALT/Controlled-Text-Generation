@@ -1,0 +1,223 @@
+name:The Vaults|| REVIEW  The Golden Curry is a coffee shop located near Café Rouge. 
+<|endoftext|> 
+
+name:The Cambridge Blue|| REVIEW  The Rice Boat is a family friendly coffee shop located near Café Sicilia. 
+<|endoftext|> 
+
+name:The Eagle|| REVIEW  The Eagle is a pub that serves French food in the city centre. 
+<|endoftext|> 
+
+name:The Mill|| REVIEW  The Mill is a pub near the Rainbow Vegetarian Café. 
+<|endoftext|> 
+
+name:Loch Fyne|| REVIEW  A French restaurant called The Rice Boat is located near Café Rouge. 
+<|endoftext|> 
+
+name:Bibimbap House|| REVIEW  The Rice Boat is a coffee shop located near the river. 
+<|endoftext|> 
+
+name:The Rice Boat|| REVIEW  The Waterman is a coffee shop located near Café Sicilia. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+name:The Wrestlers|| REVIEW  A French restaurant called The Rice Boat is located near Café Rouge. 
+<|endoftext|> 
+
+name:Aromi|| REVIEW  The Golden Curry is a coffee shop located near the Rainbow Vegetarian Café. It is not family - friendly and has a low customer rating. 
+<|endoftext|> 
+
+name:The Phoenix|| REVIEW  The Waterman is a coffee shop located near Café Sicilia. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+name:Browns Cambridge|| REVIEW  The Waterman is a coffee shop located near Café Sicilia. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+name:Taste of Cambridge|| REVIEW  The Golden Curry is a coffee shop located near the Rainbow Vegetarian Café. 
+<|endoftext|> 
+
+name:Cocum|| REVIEW  The Golden Curry is a coffee shop located near Café Rouge. 
+<|endoftext|> 
+
+name:The Dumpling Tree|| REVIEW  A French restaurant called The Rice Boat is located near Café Rouge. 
+<|endoftext|> 
+
+name:The Punter|| REVIEW  The Eagle is a coffee shop located near Café Rouge. 
+<|endoftext|> 
+
+name:The Golden Curry|| REVIEW  The Eagle is a coffee shop located near Café Rouge. 
+<|endoftext|> 
+
+name:Alimentum|| REVIEW  The Waterman is a coffee shop located near Café Sicilia. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+name:Midsummer House|| REVIEW  A French restaurant called The Rice Boat is located near Café Rouge. 
+<|endoftext|> 
+
+name:Blue Spice|| REVIEW  The Eagle is a pub that serves Indian food in the city centre. 
+<|endoftext|> 
+
+name:Strada|| REVIEW  The Waterman is a coffee shop near Café Sicilia. It is family - friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+name:The Waterman|| REVIEW  The Waterman is a moderately priced restaurant located near Café Rouge. 
+<|endoftext|> 
+
+name:Zizzi|| REVIEW  The Golden Curry is a coffee shop located near Café Rouge. It is not family - friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+name:Green Man|| REVIEW  A French restaurant called The Rice Boat is located near Café Rouge. 
+<|endoftext|> 
+
+name:Clowns|| REVIEW  The Rice Boat is a coffee shop located near the river. 
+<|endoftext|> 
+
+name:Giraffe|| REVIEW  The Golden Curry is a coffee shop located near Café Sicilia. It is not family - friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+name:The Olive Grove|| REVIEW  A coffee shop named The Olive Grove is located near Café Sicilia. It is not family - friendly and has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+name:The Twenty Two|| REVIEW  The Waterman is a moderately priced restaurant located near Burger King. 
+<|endoftext|> 
+
+name:The Cricketers|| REVIEW  The Waterman is a coffee shop near Café Sicilia. It is family - friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+name:Wildwood|| REVIEW  The Golden Curry is a coffee shop located near the Rainbow Vegetarian Café. It is not family - friendly and has a low customer rating. 
+<|endoftext|> 
+
+name:The Golden Palace|| REVIEW  The Rice Boat is a coffee shop located near Café Rouge. 
+<|endoftext|> 
+
+name:The Plough|| REVIEW  A French restaurant called The Rice Boat is located near Café Rouge. 
+<|endoftext|> 
+
+name:Cotto|| REVIEW  The Waterman is a coffee shop near Café Sicilia. It is family - friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+name:Fitzbillies|| REVIEW  The Rice Boat is a coffee shop located near Clare Hall. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+name:Travellers Rest Beefeater|| REVIEW  The Waterman is a coffee shop located near Café Sicilia. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+Type:pub|| REVIEW  A pub called The Rice Boat is located near Café Rouge. 
+<|endoftext|> 
+
+Type:coffee shop|| REVIEW 
+
+Near The Portland Arms is a coffee shop called The Rice Boat. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+Type:restaurant|| REVIEW  is a cheap, family friendly, Japanese restaurant   located near the Rainbow Vegetarian Café in the riverside area.    It is not family friendly      <|endoftext|> 
+
+area:riverside|| REVIEW  The Waterman is a coffee shop near Café Sicilia. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+area:city centre|| REVIEW  A French restaurant called The Rice Boat is located near Café Rouge. 
+<|endoftext|> 
+
+near:Café Adriatic|| REVIEW  Located near the riverside, The Waterman is a pub that serves French food. 
+<|endoftext|> 
+
+near:Café Brazil|| REVIEW  Near the river is a pub called The Golden Palace  which serves Indian food.           is a family friendly pub serving Indian food.               is located near the Express by Holiday Inn.           is a coffee shop with a low customer rating.         is located near the Express by Holiday Inn.    
+
+near:Burger King|| REVIEW  A coffee shop called The Eagle is located near the riverside. 
+<|endoftext|> 
+
+near:The Sorrento|| REVIEW  is a kid friendly, family friendly pub that has a low customer rating. 
+<|endoftext|> 
+
+near:The Rice Boat|| REVIEW  Famous for its Italian food, The Golden Palace is located near The Sorrento. 
+<|endoftext|> 
+
+near:Clare Hall|| REVIEW  Cotto is a coffee shop in the city centre near Clare Hall. 
+<|endoftext|> 
+
+near:Raja Indian Cuisine|| REVIEW  The Waterman is a coffee shop with a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near:Café Rouge|| REVIEW  Founded in the city centre, The Rice Boat is a family friendly restaurant with a low customer rating. 
+<|endoftext|> 
+
+near:Yippee Noodle Bar|| REVIEW  Located near the Crowne Plaza Hotel, The Rice Boat is a family friendly restaurant with a low customer rating. 
+<|endoftext|> 
+
+near:The Portland Arms|| REVIEW  The Waterman is a coffee shop with a low customer rating. 
+<|endoftext|> 
+
+near:All Bar One|| REVIEW  Located near The Six Bells, The Golden Palace is a family friendly restaurant. 
+<|endoftext|> 
+
+near:Express by Holiday Inn|| REVIEW  The Rice Boat is a family friendly restaurant located near the Rainbow Vegetarian Café. 
+<|endoftext|> 
+
+near:The Bakers|| REVIEW  A French restaurant called The Waterman is located near the riverside. It serves Indian food and is family friendly. 
+<|endoftext|> 
+
+near:Café Sicilia|| REVIEW  The Waterman is a coffee shop that serves Italian food in the city centre. 
+<|endoftext|> 
+
+near:Avalon|| REVIEW  Aromi is a coffee shop that is not family - friendly and is not family - friendly. 
+<|endoftext|> 
+
+near:The Six Bells|| REVIEW  Located near the Crowne Plaza Hotel, The Rice Boat is a family friendly restaurant with a low customer rating. 
+<|endoftext|> 
+
+near:Ranch|| REVIEW  Near the river is a pub called The Punter, which is kid friendly and has a price range of more than £ 30. 
+<|endoftext|> 
+
+near:Crowne Plaza Hotel|| REVIEW  Cafe Alimentum is a coffee shop that serves Indian food in the city centre. 
+<|endoftext|> 
+
+near:Rainbow Vegetarian Café|| REVIEW  Located near Rainbow Vegetarian Café, The Rice Boat is a family friendly coffee shop that serves Japanese food. 
+<|endoftext|> 
+
+family_friendly:yes|| REVIEW  The Waterman is a family friendly coffee shop located near Café Sicilia. 
+<|endoftext|> 
+
+family_friendly:no|| REVIEW  The Waterman is a coffee shop located near Café Sicilia. It is not family - friendly and has a low customer rating. 
+<|endoftext|> 
+
+food:English|| REVIEW  The Waterman is a coffee shop located near Café Sicilia. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+food:Japanese|| REVIEW 
+
+Located near the Rainbow Vegetarian Café, The Rice Boat is a family friendly Japanese restaurant. 
+<|endoftext|> 
+
+food:French|| REVIEW 
+
+Located near the Rainbow Vegetarian Café, The Rice Boat is a family friendly coffee shop that serves Japanese food. 
+<|endoftext|> 
+
+food:Fast food|| REVIEW  The Waterman is a coffee shop located near Café Sicilia. It is not family - friendly and has a low customer rating. 
+<|endoftext|> 
+
+food:Italian|| REVIEW  The Waterman is a coffee shop located near Café Sicilia. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+food:Indian|| REVIEW  The Waterman is a coffee shop located near Café Sicilia. It is family friendly and has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+food:Chinese|| REVIEW  Located in the riverside area, The Rice Boat is a family friendly restaurant. 
+<|endoftext|> 
+
+price:more than £ 30|| REVIEW  The Waterman is a coffee shop that serves Japanese food in the city centre. 
+<|endoftext|> 
+
+price:cheap|| REVIEW  The Waterman is a cheap pub near Café Rouge. 
+<|endoftext|> 
+
+price:less than £ 20|| REVIEW  The Waterman is a coffee shop that serves Indian food. It is located near the Rainbow Vegetarian Café. 
+<|endoftext|> 
+
+price:£ 20 - 25|| REVIEW  The Waterman is a coffee shop serving Japanese food in the riverside area. 
+<|endoftext|> 
+
+price:moderate|| REVIEW  The Waterman is a moderately priced restaurant located near Café Sicilia. 
+<|endoftext|> 
+
+price:high|| REVIEW  The Waterman is a coffee shop located near Café Sicilia. 
+<|endoftext|> 
+

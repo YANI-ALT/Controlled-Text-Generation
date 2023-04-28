@@ -1,0 +1,119 @@
+Type:pub|food:English|area:riverside|| is family friendly pub Alimentum. The menu is high priced and serves English food. 
+<|endoftext|> 
+
+Type:pub|food:English|area:city centre|| A pub serving Chinese food in city centre is called The Waterman. 
+<|endoftext|> 
+
+Type:pub|food:Japanese|area:riverside|| is family friendly pub called Blue Mill 
+<|endoftext|> 
+
+Type:pub|food:Japanese|area:city centre|| A Japanese pub in city centre near the Express by Holiday Inn, The Waterman is family friendly. 
+<|endoftext|> 
+
+Type:pub|food:French|area:riverside|| is family style pub. 
+<|endoftext|> 
+
+Type:pub|food:French|area:city centre|| A French pub in city centre near Express by Holiday Inn serves French food. 
+<|endoftext|> 
+
+Type:pub|food:Fast food|area:riverside|| is The Olive Grove pub. There are three riverside  and a price range of more than £ 20. 
+<|endoftext|> 
+
+Type:pub|food:Fast food|area:city centre|| A pub in city centre is called The Rice Boat. It is located near the Rainbow Vegetarian Café. 
+<|endoftext|> 
+
+Type:pub|food:Italian|area:riverside|| is The Punting Bar    The pub is located north of the city centre and serves Italian food. It is not family - friendly. 
+<|endoftext|> 
+
+Type:pub|food:Italian|area:city centre|| The Rice Bowl provides Indian food near the Express Indian pub in city centre. 
+<|endoftext|> 
+
+Type:pub|food:Indian|area:riverside|| is The Golden Crown pub located north of City centre with a price range less than £ 20. It is not family - friendly. 
+<|endoftext|> 
+
+Type:pub|food:Indian|area:city centre|| A pub is a must try in town area that has a customer rating of 5 out of 5. It is located in the city centre. It is not family - friendly. 
+<|endoftext|> 
+
+Type:pub|food:Chinese|area:riverside|| Located north by Avalon pub  with the customer rating being low and near The Rice Boat. It is a pub that serves Chinese food. 
+<|endoftext|> 
+
+Type:pub|food:Chinese|area:city centre|| Located in a pub that specializes Chinese cuisine called Fitzbillies, The Punter is child - Friendly in the area and serves Chinese and is child - - - free in the area near The Punter in the City centre. The Punter is not child - - - free and serves food for under $ 1. The Punter is a child - - - free place near Café Sicilians and the Café Rouge. 
+<|endoftext|> 
+
+Type:coffee shop|food:English|area:riverside|| There isn 't a cheap, family friendly place near the riverside. 
+<|endoftext|> 
+
+Type:coffee shop|food:English|area:city centre|| This Chinese eatery in the city is called The Punter. It is a 5 out of 5. It is near the Café Sicilia. It is children - free. They serve Italian food. It is near Café Sicilum. It is near the Rainbow Vegetarian Café. It is child - free. It is near All Bar One. It is near All Bar One. It is near All Bar One. It is child - free. 
+<|endoftext|> 
+
+Type:coffee shop|food:Japanese|area:riverside|| There isn're a coffee shop near Ranch called The Portland Arms. it's not for those with a high end, but it has Indian food. 
+<|endoftext|> 
+
+Type:coffee shop|food:Japanese|area:city centre|| This Japanese coffee shop in city center is family - friendly. It has a high customer rating. 
+<|endoftext|> 
+
+Type:coffee shop|food:French|area:riverside|| The Punter coffee bar near Café Sicilia has French food. There is a low customer rating. 
+<|endoftext|> 
+
+Type:coffee shop|food:French|area:city centre|| This French restaurant is located in city centre near Burger King. It serves French food. It is not family - friendly. 
+<|endoftext|> 
+
+Type:coffee shop|food:Fast food|area:riverside|| There is a kid - friendly fast food near Ranch and Blue Spice. 
+<|endoftext|> 
+
+Type:coffee shop|food:Fast food|area:city centre|| This Indian restaurant is a coffee shop. It has a 1 - 1 rating. It is not child - friendly. It is near Express by Holiday Inn in city center. 
+<|endoftext|> 
+
+Type:coffee shop|food:Italian|area:riverside|| There isn't a cheap Italian sushi restaurant near Café Sicilia. 
+<|endoftext|> 
+
+Type:coffee shop|food:Italian|area:city centre|| This Italian restaurant is not family - friendly and has a price range less than £ 20 
+<|endoftext|> 
+
+Type:coffee shop|food:Indian|area:riverside|| There is a coffee place on Riverside called The Rice Boat located near Café Brazil. It is not family friendly. It offers Indian food. 
+<|endoftext|> 
+
+Type:coffee shop|food:Indian|area:city centre|| This Indian restaurant is not a coffee shop - it is a Japanese restaurant in city centre near the Express by Holiday Inn. It is not family - friendly and has a high price range. It is not family - friendly. 
+<|endoftext|> 
+
+Type:coffee shop|food:Chinese|area:riverside|| The Wildwood is a coffee bar that serves Chinese. There are a few near the Café Sicilio and it is child - free. It is near the Café Sicilio. It is not child - free. It is in Riverside. It is not child - free. It is near the Café Sicilio. It is not child - free. Its name is The Rice Bum. It is near the All Bar One. It is not child - free. It is near the 
+
+Type:coffee shop|food:Chinese|area:city centre|| This Chinese Restaurant in Chinatown is a 5 out of 5 - try it for an Italian take out. It is not a children - free place. It is near the Café Sicilie which is child - free. It is not child - free. It is in the area of the city. It is near the Café Sicilie. It is not child - free. It is not child - free. It is near the All Bar One. It is near All Bar One and is near 
+
+Type:restaurant|food:English|area:riverside|| is a high price, family friendly, and family-satisfactorily 
+  
+
+<|endoftext|> 
+
+Type:restaurant|food:English|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:Japanese|area:riverside|| <|endoftext|> 
+
+Type:restaurant|food:Japanese|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:French|area:riverside|| <|endoftext|> 
+
+Type:restaurant|food:French|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:Fast food|area:riverside|| is a high end coffee bar that welcomes all the adult and under £ twenty   <|endoftext|> 
+
+Type:restaurant|food:Fast food|area:city centre|| In the city near Yippu Nui, Zizzi      are fast serving Italian restaurant    and                                 , and                                , 
+
+Type:restaurant|food:Italian|area:riverside|| is a cheap Italian sushi shop that provides high quality Italian and Chinese food for under 20 Euros for under 30 and offers Japanese and Chinese food for under £ £ £ £ £ 15 
+<|endoftext|> 
+
+Type:restaurant|food:Italian|area:city centre|| In the high street you find Indian restaurant Yippai, which is not family - -,   you are likely hungry,   while   while in the city the restaurant   is cheap.   
+<|endoftext|> 
+
+Type:restaurant|food:Indian|area:riverside|| In a high end sushi restaurant  
+ 
+<|endoftext|> 
+
+Type:restaurant|food:Indian|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:Chinese|area:riverside|| Near Clare Inn and Wildwood there offers Chinese restaurant  and there isn the restaurant The Punished Vegetarian Café      
+ <|endoftext|> 
+
+Type:restaurant|food:Chinese|area:city centre|| Near Clare Clare, Wildwood serves Chinese restaurant and serves Chinese and Italian, serving a average of $ 1 and serving Chinese and a high average of 1 for the average customer.
+<|endoftext|> 
+

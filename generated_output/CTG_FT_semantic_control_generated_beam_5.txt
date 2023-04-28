@@ -1,0 +1,473 @@
+name : The Vaults| Type : coffee shop | food : Italian | price : moderate | customer rating : 1 out of 5 | area : city centre||The Vaults is a coffee shop providing Italian food in the moderate price range. It is located in the city centre. 
+<|endoftext|> 
+
+name : The Cambridge Blue| Type : pub | food : French | customer rating : 5 out of 5||The Cambridge Blue is a French pub with a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+name : The Eagle| Type : coffee shop | food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside | family friendly : yes||The Eagle is a coffee shop providing fast food in the moderate price range. It is located in the riverside area. Its customer rating is 1 out of 5. 
+<|endoftext|> 
+
+name : The Mill| Type : pub | food : Japanese | price : moderate | area : riverside||The Mill is a pub that serves Japanese food in the moderate price range. 
+<|endoftext|> 
+
+name : Loch Fyne| Type : restaurant | food : French | customer rating : 5 out of 5||Loch Fyne is a French restaurant with a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+name : Bibimbap House| food : English | price : moderate | area : riverside | near : Clare Hall||Bibimbap House is a moderately priced English restaurant located near Clare Hall. 
+<|endoftext|> 
+
+name : The Rice Boat| food : Fast food | price : moderate | customer rating : 1 out of 5 | area : city centre | family friendly : no||The Rice Boat is a moderately priced fast food restaurant located in the city centre with a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+name : The Wrestlers| Type : coffee shop | food : Japanese | price : less than £ 20 | customer rating : low | area : riverside | family friendly : yes||The Wrestlers is a coffee shop that serves Japanese food in the less than £ 20 price range. It is located in the riverside area. Its customer rating is low. 
+<|endoftext|> 
+
+name : Aromi| Type : coffee shop | food : French | customer rating : 5 out of 5 | area : riverside | family friendly : yes||Aromi is a family friendly French coffee shop located in the riverside area. It has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+name : The Phoenix| food : French | customer rating : 5 out of 5||The Phoenix is a French restaurant with a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+name : Browns Cambridge| Type : coffee shop | food : Italian | price : moderate | customer rating : 1 out of 5 | area : riverside | family friendly : yes||Browns Cambridge is a coffee shop providing Italian food in the moderate price range. It is located in the riverside area. Its customer rating is 1 out of 5. 
+<|endoftext|> 
+
+name : Taste of Cambridge| Type : coffee shop | food : Fast food | price : moderate | customer rating : 1 out of 5 | area : city centre||Taste of Cambridge is a coffee shop that serves fast food in the moderate price range. It has a customer rating of 1 out of 5 and is located in the city centre. 
+<|endoftext|> 
+
+name : Cocum| Type : coffee shop | food : Italian | price : moderate | customer rating : 1 out of 5 | family friendly : yes||Cocum is a coffee shop that serves Italian food. It is kid friendly and has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+name : The Dumpling Tree| Type : pub | food : French | price : less than £ 20 | area : riverside||The Dumpling Tree is a pub that serves French food in the less than £ 20 price range. 
+<|endoftext|> 
+
+name : The Punter| Type : coffee shop | food : Italian | price : moderate | customer rating : 1 out of 5 | family friendly : yes||The Punter is a coffee shop that serves Italian food. It is kid friendly and has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+name : The Golden Curry| food : French | customer rating : 5 out of 5 | area : riverside | family friendly : yes||The Golden Curry is a family friendly French restaurant located in the riverside area. It has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+name : Alimentum| food : Italian | price : moderate | customer rating : 1 out of 5 | area : city centre | near : Yippee Noodle Bar||Alimentum is a moderately priced Italian restaurant located in the city centre near Yippee Noodle Bar. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+name : Midsummer House| food : Indian | price : moderate | customer rating : 1 out of 5 | near : Café Rouge||Midsummer House is a moderately priced Indian restaurant near Café Rouge. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+name : Blue Spice| Type : coffee shop | food : Italian | price : moderate | customer rating : 1 out of 5 | area : riverside||Blue Spice is a coffee shop that serves Italian food in the moderate price range. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+name : Strada| food : Fast food | price : moderate | customer rating : 1 out of 5 | family friendly : yes||Strada is a moderately priced fast food restaurant with a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+name : The Waterman| food : Indian | price : moderate | customer rating : 1 out of 5 | area : city centre||The Waterman is a moderately priced Indian restaurant located in the city centre. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+name : Zizzi| Type : pub | food : Japanese | customer rating : 5 out of 5||Zizzi is a pub that serves Japanese food. It has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+name : Green Man| food : French | price : less than £ 20 | area : riverside | family friendly : yes | near : All Bar One||Green Man is a family friendly French restaurant near All Bar One in the riverside area. 
+<|endoftext|> 
+
+name : Clowns| Type : coffee shop | food : Italian | price : moderate | customer rating : 1 out of 5 | area : riverside||Clowns is a coffee shop that serves Italian food in the moderate price range. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+name : Giraffe| Type : pub | food : French | customer rating : 5 out of 5||Giraffe is a French pub with a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+name : The Olive Grove| Type : pub | food : French | price : less than £ 20 | area : riverside | family friendly : yes||The Olive Grove is a family friendly pub serving French food in the less than £ 20 price range. 
+<|endoftext|> 
+
+name : The Twenty Two| food : Italian | area : riverside | family friendly : yes||The Twenty Two is a family friendly Italian restaurant located in the riverside area. 
+<|endoftext|> 
+
+name : The Cricketers| Type : coffee shop | food : French | customer rating : 5 out of 5 | family friendly : yes||The Cricketers is a family friendly French coffee shop with a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+name : Wildwood| Type : pub | food : Japanese | customer rating : 5 out of 5||Wildwood is a pub that serves Japanese food. It has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+name : The Golden Palace| Type : coffee shop | food : Italian | price : moderate | customer rating : 1 out of 5 | area : riverside||The Golden Palace is a coffee shop serving Italian food in the moderate price range. It is located in the riverside area. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+name : The Plough| Type : pub | food : Italian | price : moderate | family friendly : yes | near : Café Rouge||The Plough is a moderately priced Italian pub near Café Rouge. 
+<|endoftext|> 
+
+name : Cotto| Type : coffee shop | food : Indian | price : moderate | customer rating : 1 out of 5 | area : riverside | near : The Portland Arms||Cotto is a coffee shop providing Indian food in the moderate price range. It is located in the riverside area near The Portland Arms. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+name : Fitzbillies| Type : coffee shop | food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside | family friendly : yes||Fitzbillies is a coffee shop providing fast food in the moderate price range. It is located in the riverside area. Its customer rating is 1 out of 5. 
+<|endoftext|> 
+
+name : Travellers Rest Beefeater| price : moderate | customer rating : 1 out of 5 | area : riverside | near : Café Adriatic||Travellers Rest Beefeater is located near Café Adriatic in the riverside area. It has a moderate price range and a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+Type : pub| food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside||There is a moderately priced fast food restaurant in the riverside area called Pub. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+Type : coffee shop| food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside | family friendly : yes||The coffee shop, Fast food, is located in the riverside area. It is kid friendly and has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+Type : restaurant| food : French | price : moderate||French food is served at a moderate price. 
+<|endoftext|> 
+
+area : riverside| Type : pub | food : French | customer rating : 5 out of 5||Riverside is a French pub with a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+area : city centre| Type : pub | food : Japanese | customer rating : 5 out of 5||In the city centre there is a Japanese pub called the city centre. It has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+customer rating : 5 out of 5| area : riverside||The riverside area has a 5 out of 5 customer rating. 
+<|endoftext|> 
+
+customer rating : low| area : riverside | family friendly : yes||Riverside is a family friendly restaurant with a low customer rating. 
+<|endoftext|> 
+
+customer rating : high| area : riverside | family friendly : yes||The riverside area has a high customer rating and is child friendly. 
+<|endoftext|> 
+
+customer rating : average| area : riverside | family friendly : yes||The riverside area has an average customer rating and is child friendly. 
+<|endoftext|> 
+
+customer rating : 3 out of 5| area : riverside||The riverside area has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+customer rating : 1 out of 5| area : riverside | family friendly : yes||Riverside is a kid friendly restaurant with a 1 out of 5 customer rating. 
+<|endoftext|> 
+
+near : Café Adriatic| Type : coffee shop | food : Italian | price : moderate | customer rating : 1 out of 5 | area : riverside||There is a coffee shop called Café Adriatic that serves Italian food in the moderate price range. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : Café Brazil| Type : coffee shop | food : Indian | price : moderate | customer rating : 1 out of 5 | area : riverside||Café Brazil is a coffee shop providing Indian food in the moderate price range. It is located in the riverside area. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : Burger King| Type : coffee shop | food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside | near : Burger King||Burger King is a moderately priced fast food coffee shop located in the riverside area near Burger King. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : The Sorrento| Type : coffee shop | food : Italian | price : moderate | customer rating : 1 out of 5 | area : riverside||The Sorrento is a coffee shop that serves Italian food in the moderate price range. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : The Rice Boat| food : Indian | price : moderate | customer rating : 1 out of 5 | area : city centre | family friendly : no||The Rice Boat is a moderately priced Indian restaurant located in the city centre with a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : Clare Hall| Type : coffee shop | food : Italian | price : moderate | customer rating : 1 out of 5 | area : riverside | near : Clare Hall||Clare Hall is a coffee shop that serves Italian food in the moderate price range. It is located near Clare Hall. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : Raja Indian Cuisine| food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside | family friendly : yes||Raja Indian Cuisine is a kid friendly restaurant located in the riverside area. It has a moderate price range and a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : Café Rouge| Type : coffee shop | food : Italian | price : moderate | customer rating : 1 out of 5 | area : riverside||Café Rouge is a moderately priced Italian coffee shop located in the riverside area. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : Yippee Noodle Bar| food : Japanese | customer rating : 5 out of 5 | area : riverside | near : Yippee Noodle Bar||The Yippee Noodle Bar serves Japanese food in the riverside area near Yippee Noodle Bar. It has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+near : The Portland Arms| food : Italian | price : moderate | customer rating : 1 out of 5||The Portland Arms is a moderately priced Italian restaurant with a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : All Bar One| food : Japanese | customer rating : 5 out of 5 | area : riverside | near : All Bar One||The All Bar One is a Japanese restaurant located in the riverside area near All Bar One. It has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+near : Express by Holiday Inn| Type : coffee shop | food : Fast food | price : moderate | customer rating : 1 out of 5 | area : city centre||Express by Holiday Inn is a moderately priced coffee shop that serves fast food. It is located in the city centre. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : The Bakers| Type : coffee shop | food : Japanese | price : moderate | customer rating : 1 out of 5 | area : city centre||The Bakers is a moderately priced Japanese coffee shop located in the city centre. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : Café Sicilia| Type : coffee shop | food : Italian | price : moderate | customer rating : 1 out of 5 | area : riverside||Café Sicilia is a moderately priced Italian coffee shop located in the riverside area. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : Avalon| Type : coffee shop | food : Italian | price : moderate | customer rating : 1 out of 5 | area : city centre||Avalon is a coffee shop that serves Italian food in the moderate price range. It is located in the city centre. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : The Six Bells| Type : coffee shop | food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside | family friendly : yes||The Six Bells is a coffee shop providing fast food in the moderate price range. It is located in the riverside area. Its customer rating is 1 out of 5. 
+<|endoftext|> 
+
+near : Ranch| Type : coffee shop | food : Japanese | price : moderate | customer rating : 1 out of 5 | area : riverside||Ranch is a moderately priced Japanese coffee shop located in Riverside. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : Crowne Plaza Hotel| Type : coffee shop | food : French | price : less than £ 20 | customer rating : low | area : riverside||The Crowne Plaza Hotel is a coffee shop serving French food in the less than £ 20 price range. It is located in the riverside area. 
+<|endoftext|> 
+
+near : Rainbow Vegetarian Café| food : French | price : less than £ 20 | area : riverside | family friendly : yes||The Rainbow Vegetarian Café serves French food in the less than £ 20 price range. It is located in the riverside area. 
+<|endoftext|> 
+
+family friendly : yes| near : Rainbow Vegetarian Café||Near Rainbow Vegetarian Café is a coffee shop called the Rainbow Vegetarian Café. 
+<|endoftext|> 
+
+family friendly : no| near : Rainbow Vegetarian Café||Near Rainbow Vegetarian Café is a non - family friendly restaurant called the Rainbow Vegetarian Café. 
+<|endoftext|> 
+
+food : English| Type : coffee shop | food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside||English coffee shop is located in the riverside area. It has a moderate price range and a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+food : Japanese| Type : coffee shop | food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside||The Japanese coffee shop is located in the riverside area. It has a moderate price range and a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+food : French| Type : coffee shop | food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside||The French coffee shop is located in the riverside area. It has a moderate price range and a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+food : Fast food| food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside | family friendly : yes||Fast food is located in the riverside area. It is kid friendly and has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+food : Italian| Type : coffee shop | food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside||Italian coffee shop is located in the riverside area. It has a moderate price range and a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+food : Indian| Type : coffee shop | food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside||Indian coffee shop is located in the riverside area. It has a moderate price range and a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+food : Chinese| Type : coffee shop | food : Fast food | price : moderate | customer rating : 1 out of 5 | area : riverside||The Chinese coffee shop is located in the riverside area. It has a moderate price range and a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+price : more than £ 30| customer rating : 5 out of 5||With a customer rating of 5 out of 5 and a price range of more than £ 30, more than £ 30 can be found at more than £ 30. 
+<|endoftext|> 
+
+price : cheap| customer rating : 5 out of 5 | area : riverside | family friendly : yes||Located in the riverside area is a family friendly restaurant called Cheap. It has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+price : less than £ 20| customer rating : low||There is a low customer rating restaurant called Less than £ 20. 
+<|endoftext|> 
+
+price : £ 20 - 25| food : Fast food | price : moderate | customer rating : 1 out of 5||The Fast food restaurant is moderately priced and has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+price : moderate| price : more than £ 30 | customer rating : 3 out of 5 | area : riverside||In the riverside area there is a moderately priced restaurant called The Rice Boat. It has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+price : high| price : more than £ 30 | customer rating : 5 out of 5 | area : riverside||High priced riverside restaurant with a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+name : The Vaults|food : Fast food||The Vaults is a fast food restaurant with a price range of £ 20 - 25. 
+<|endoftext|> 
+
+name : The Cambridge Blue|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Cambridge Blue is a French restaurant with a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+name : The Eagle|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Eagle is a coffee shop providing Indian food It is located in the riverside. It is near Burger King. Its customer rating is 5 out of 5. 
+<|endoftext|> 
+
+name : The Mill|name : The Mill|area : riverside|area : riverside||The Mill is a coffee shop providing Indian food in the moderate price range. It is located in the riverside. It is near The Sorrento. 
+<|endoftext|> 
+
+name : Loch Fyne|near : The Rice Boat|near : The Rice Boat||Loch Fyne is a Japanese restaurant near The Rice Boat in the riverside area. It has a low customer rating and is not family - friendly. 
+<|endoftext|> 
+
+name : Bibimbap House|name : Bibimbap House||Bibimbap House is located near Clare Hall in the riverside area. It serves English food and has a price range of £ 20 - 25. 
+<|endoftext|> 
+
+name : The Rice Boat|name : The Rice Boat|name : The Rice Boat|name : The Rice Boat|area : riverside||The Rice Boat is a Japanese restaurant located in the riverside area near Express by Holiday Inn. It has a low customer rating and a price range of less than £ 20. 
+<|endoftext|> 
+
+name : The Wrestlers|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Wrestlers is a 5 out of 5 rated Japanese coffee shop near Raja Indian Cuisine in the riverside area. It is not family - friendly. 
+<|endoftext|> 
+
+name : Aromi|name : Aromi||Aromi is a coffee shop providing Indian food It is located in the riverside. Its customer rating is high. 
+<|endoftext|> 
+
+name : The Phoenix|area : riverside|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Phoenix is a Chinese restaurant in the riverside area. It has a customer rating of 5 out of 5 and a price range of more than £ 30. 
+<|endoftext|> 
+
+name : Browns Cambridge|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||Browns Cambridge has a customer rating of 5 out of 5 and a price range of more than £ 30. 
+<|endoftext|> 
+
+name : Taste of Cambridge|price : £ 20 - 25|price : £ 20 - 25|price : £ 20 - 25|price : £ 20 - 25||Taste of Cambridge is a coffee shop providing Indian food in the £ 20 - 25 price range. It is near the Crowne Plaza Hotel in the riverside. Its customer rating is high. 
+<|endoftext|> 
+
+name : Cocum|family friendly : yes|family friendly : yes||Cocum is a coffee shop providing Indian food It is located in the riverside. Its customer rating is 1 out of 5. 
+<|endoftext|> 
+
+name : The Dumpling Tree|name : The Dumpling Tree|name : The Dumpling Tree|Type : restaurant||The Dumpling Tree is a restaurant that serves French food. 
+<|endoftext|> 
+
+name : The Punter|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Punter is a coffee shop providing Indian food It is located in the riverside. It is near Café Sicilia. Its customer rating is 5 out of 5. 
+<|endoftext|> 
+
+name : The Golden Curry|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Golden Curry is a Chinese restaurant with a customer rating of 5 out of 5. It is located in the city centre near Café Rouge and is not family friendly. 
+<|endoftext|> 
+
+name : Alimentum|name : Alimentum|price : less than £ 20|price : less than £ 20|area : riverside||Alimentum is a low - priced restaurant located near Yippee Noodle Bar in the riverside area. 
+<|endoftext|> 
+
+name : Midsummer House|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||Midsummer House is a French restaurant with a customer rating of 5 out of 5. It is located near All Bar One. 
+<|endoftext|> 
+
+name : Blue Spice|name : Blue Spice|area : riverside|area : riverside||Blue Spice is a coffee shop providing Indian food in the moderate price range. It is located in the riverside. Its customer rating is 1 out of 5. 
+<|endoftext|> 
+
+name : Strada|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||Strada is a 5 out of 5 rated French restaurant near Rainbow Vegetarian Café. It is not family - friendly. 
+<|endoftext|> 
+
+name : The Waterman|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Waterman is a French restaurant located in the city centre. It is not family - friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+name : Zizzi|name : Zizzi|family friendly : yes|family friendly : yes||Zizzi is a family - friendly pub with a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+name : Green Man|name : Green Man|area : riverside|food : Fast food||Green Man is a fast food restaurant in the riverside area near All Bar One. It has a moderate price range and is not kid friendly. 
+<|endoftext|> 
+
+name : Clowns|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||Clowns is a coffee shop providing Indian food It is located in the riverside. Its customer rating is 5 out of 5. 
+<|endoftext|> 
+
+name : Giraffe|name : Giraffe|family friendly : yes|family friendly : yes||Giraffe is a child friendly pub located in the riverside area. It has a customer rating of 3 out of 5. 
+<|endoftext|> 
+
+name : The Olive Grove|name : The Olive Grove|family friendly : yes|family friendly : yes|family friendly : yes||The Olive Grove is a child friendly pub in the riverside area. It serves English food and has a price range of more than £ 30. 
+<|endoftext|> 
+
+name : The Twenty Two|name : The Twenty Two|family friendly : yes||The Twenty Two is a family friendly restaurant located near The Rice Boat in the riverside area. 
+<|endoftext|> 
+
+name : The Cricketers|name : The Cricketers|name : The Cricketers||The Cricketers is a coffee shop near The Portland Arms. It has a customer rating of 5 out of 5 and is not family - friendly. 
+<|endoftext|> 
+
+name : Wildwood|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||Wildwood is a coffee shop providing Indian food in the cheap price range. It is near Ranch. Its customer rating is 5 out of 5. 
+<|endoftext|> 
+
+name : The Golden Palace|name : The Golden Palace|area : riverside|area : riverside||The Golden Palace is a coffee shop providing Indian food It is located in the riverside. Its customer rating is 1 out of 5. 
+<|endoftext|> 
+
+name : The Plough|name : The Plough|family friendly : yes|family friendly : yes||The Plough is a family friendly pub located near Café Rouge. It serves English food and has a price range of less than £ 20. 
+<|endoftext|> 
+
+name : Cotto|customer rating : 1 out of 5|customer rating : 1 out of 5|customer rating : 1 out of 5||Cotto is a coffee shop providing Indian food It is located in the riverside. It is near The Portland Arms. Its customer rating is 1 out of 5. 
+<|endoftext|> 
+
+name : Fitzbillies|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||Fitzbillies is a coffee shop providing Indian food It is located in the riverside. Its customer rating is 5 out of 5. 
+<|endoftext|> 
+
+name : Travellers Rest Beefeater|near : Café Adriatic|near : Café Adriatic||Travellers Rest Beefeater is located near Café Adriatic in the riverside area. It has a moderate price range and a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+Type : pub|family friendly : yes|name : The Olive Grove||The Olive Grove is a pub providing Indian food in the moderate price range. It is located in the riverside. 
+<|endoftext|> 
+
+Type : coffee shop|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||Fitzbillies is a coffee shop providing Indian food in the cheap price range. It is located in the riverside. Its customer rating is 5 out of 5. 
+<|endoftext|> 
+
+Type : restaurant|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Dumpling Tree is a French restaurant with a price range of more than £ 30. 
+<|endoftext|> 
+
+area : riverside|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|area : riverside||The Rice Boat is a French restaurant located in the riverside area near Express by Holiday Inn. It is not family - friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+area : city centre|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Rice Boat is a French restaurant located in the city centre near Express by Holiday Inn. It has a customer rating of 5 out of 5 and is not family - friendly. 
+<|endoftext|> 
+
+customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||Fitzbillies is a coffee shop providing Indian food in the cheap price range. It is located in the riverside. Its customer rating is 5 out of 5. 
+<|endoftext|> 
+
+customer rating : low|price : less than £ 20|price : less than £ 20|customer rating : low|customer rating : low||The Wrestlers is a coffee shop providing Indian food in the less than £ 20 price range. It is located in the riverside. It is near Raja Indian Cuisine. 
+<|endoftext|> 
+
+customer rating : high|price : £ 20 - 25|price : £ 20 - 25|customer rating : high|customer rating : high||The Wrestlers is a coffee shop providing Indian food in the £ 20 - 25 price range. It is near Raja Indian Cuisine in the riverside. Its customer rating is high. 
+<|endoftext|> 
+
+customer rating : average|customer rating : average|customer rating : average|customer rating : average|customer rating : average|customer rating : average||The Rice Boat is a family - friendly fast food restaurant located in the city centre near Express by Holiday Inn. It has an average customer rating and a high price range. 
+<|endoftext|> 
+
+customer rating : 3 out of 5|customer rating : 3 out of 5|customer rating : 3 out of 5|customer rating : 3 out of 5|customer rating : 3 out of 5|customer rating : 3 out of 5||Fitzbillies is a coffee shop providing Indian food in the moderate price range. It is located in the riverside. Its customer rating is 3 out of 5. 
+<|endoftext|> 
+
+customer rating : 1 out of 5|customer rating : 1 out of 5|customer rating : 1 out of 5|customer rating : 1 out of 5|customer rating : 1 out of 5|customer rating : 1 out of 5|customer rating : 1 out of 5||The Wrestlers is a coffee shop providing Indian food in the moderate price range. It is located in the riverside. It is near Raja Indian Cuisine. Its customer rating is<|endoftext|> 
+
+near : Café Adriatic|name : Travellers Rest Beefeater|name : Travellers Rest Beefeater||Travellers Rest Beefeater is located near Café Adriatic in the riverside area. It has a high price range and a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : Café Brazil|near : Café Brazil|Type : coffee shop|near : Café Brazil||The Vaults is a coffee shop near Café Brazil in the riverside area. It has a high price range and a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+near : Burger King|near : Burger King|near : Burger King|family friendly : yes|family friendly : yes|family friendly : yes||The Eagle is a coffee shop providing Indian food It is located in the riverside. It is near Burger King. Its customer rating is 5 out of 5. 
+<|endoftext|> 
+
+near : The Sorrento|near : The Sorrento|family friendly : yes|family friendly : yes||The Mill is a coffee shop providing Indian food in the more than £ 30 price range. It is located in the riverside. It is near The Sorrento. 
+<|endoftext|> 
+
+near : The Rice Boat|near : The Rice Boat|near : The Rice Boat|area : riverside||The Twenty Two is located near The Rice Boat in the riverside area. It has a low customer rating and is not family - friendly. 
+<|endoftext|> 
+
+near : Clare Hall|name : Bibimbap House|area : riverside|area : riverside||Bibimbap House is located near Clare Hall in the riverside area. It serves English food and has a price range of less than £ 20. 
+<|endoftext|> 
+
+near : Raja Indian Cuisine|name : The Wrestlers|near : Raja Indian Cuisine|family friendly : yes|family friendly : yes||The Wrestlers is a coffee shop providing Indian food in the moderate price range. It is located in the riverside. It is near Raja Indian Cuisine. 
+<|endoftext|> 
+
+near : Café Rouge|name : Midsummer House|customer rating : 5 out of 5||Midsummer House is located near Café Rouge and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+near : Yippee Noodle Bar|near : Yippee Noodle Bar|near : Yippee Noodle Bar|customer rating : 5 out of 5|customer rating : 5 out of 5|near : Yippee Noodle Bar||Alimentum is a French restaurant near Yippee Noodle Bar in the riverside area. It has a customer rating of 5 out of 5 and a price range of more than £ 30. 
+<|endoftext|> 
+
+near : The Portland Arms|near : The Portland Arms|near : The Portland Arms|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Cricketers is a family friendly coffee shop near The Portland Arms. It has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+near : All Bar One|name : Midsummer House|price : £ 20 - 25|near : All Bar One||Midsummer House is a Japanese restaurant near All Bar One with a price range of £ 20 - 25. It has a high customer rating. 
+<|endoftext|> 
+
+near : Express by Holiday Inn|near : Express by Holiday Inn|family friendly : yes|family friendly : yes|customer rating : 5 out of 5|customer rating : 5 out of 5|price : cheap||The Rice Boat is a cheap family friendly restaurant located near Express by Holiday Inn. It has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+near : The Bakers|name : The Golden Curry|family friendly : yes|near : The Bakers||The Golden Curry is a family friendly restaurant located near The Bakers. 
+<|endoftext|> 
+
+near : Café Sicilia|near : Café Sicilia|near : Café Sicilia|family friendly : yes|family friendly : yes|family friendly : yes||The Punter is a coffee shop providing Indian food It is near Café Sicilia. Its customer rating is 1 out of 5. 
+<|endoftext|> 
+
+near : Avalon|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||Blue Spice is a coffee shop providing Indian food It is located in the riverside. It is near Avalon. Its customer rating is 5 out of 5. 
+<|endoftext|> 
+
+near : The Six Bells|name : Fitzbillies|price : £ 20 - 25|price : £ 20 - 25||Fitzbillies is located near The Six Bells. It has a price range of £ 20 - 25. 
+<|endoftext|> 
+
+near : Ranch|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Cricketers is a family friendly coffee shop near Ranch. It has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+near : Crowne Plaza Hotel|near : Crowne Plaza Hotel|near : Crowne Plaza Hotel|family friendly : yes|customer rating : 5 out of 5||Browns Cambridge is a family friendly coffee shop near Crowne Plaza Hotel in the riverside area. It serves Indian food and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+near : Rainbow Vegetarian Café|near : Rainbow Vegetarian Café|near : Rainbow Vegetarian Café|near : Rainbow Vegetarian Café|near : Rainbow Vegetarian Café|near : Rainbow Vegetarian Café||Strada is a moderately priced restaurant near Rainbow Vegetarian Café. It has a customer rating of 1 out of 5. 
+<|endoftext|> 
+
+family friendly : yes|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Rice Boat is a family - friendly fast food restaurant located in the city centre near Express by Holiday Inn. It has a customer rating of 5 out of 5 and a price range of more than £ 30. 
+<|endoftext|> 
+
+family friendly : no|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||Fitzbillies is a coffee shop providing Indian food in the cheap price range. It is located in the riverside. Its customer rating is 5 out of 5. 
+<|endoftext|> 
+
+food : English|customer rating : 5 out of 5|food : English|food : English||The Rice Boat is a family - friendly English restaurant with a customer rating of 5 out of 5. It is located in the riverside area near Express by Holiday Inn. 
+<|endoftext|> 
+
+food : Japanese|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Rice Boat is a Japanese restaurant located in the city centre near Express by Holiday Inn. It has a customer rating of 5 out of 5 and is not family - friendly. 
+<|endoftext|> 
+
+food : French|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Rice Boat is a French restaurant located in the city centre near Express by Holiday Inn. It is not family - friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+food : Fast food|food : Fast food|food : Fast food|food : Fast food|name : The Phoenix||The Phoenix is a fast food restaurant in the city centre. It has a low customer rating and a price range of less than £ 20. 
+<|endoftext|> 
+
+food : Italian|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Rice Boat is a family - friendly Italian restaurant in the riverside area near Express by Holiday Inn. It has a customer rating of 5 out of 5 and a price range of more than £ 30. 
+<|endoftext|> 
+
+food : Indian|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Rice Boat serves Indian food in the riverside area. It has a customer rating of 5 out of 5 and is not family friendly. 
+<|endoftext|> 
+
+food : Chinese|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Phoenix is a Chinese restaurant with a customer rating of 5 out of 5. It is located in the city centre. 
+<|endoftext|> 
+
+price : more than £ 30|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Waterman is a French restaurant located in the city centre. It has a customer rating of 5 out of 5 and a price range of more than £ 30. 
+<|endoftext|> 
+
+price : cheap|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5|customer rating : 5 out of 5||The Rice Boat is a family - friendly restaurant located in the city centre near Express by Holiday Inn. It has a cheap price range and a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+price : less than £ 20|price : less than £ 20|price : less than £ 20|price : less than £ 20|customer rating : low||The Wrestlers is a coffee shop providing Indian food in the less than £ 20 price range. It is near Raja Indian Cuisine in the riverside. Its customer rating is low. 
+<|endoftext|> 
+
+price : £ 20 - 25|price : £ 20 - 25|customer rating : 3 out of 5|customer rating : 3 out of 5|customer rating : 3 out of 5||The Wrestlers is a coffee shop providing Indian food in the £ 20 - 25 price range. It is near Raja Indian Cuisine in the riverside. Its customer rating is 3 out of 5. 
+<|endoftext|> 
+
+price : moderate|customer rating : 1 out of 5|customer rating : 1 out of 5|customer rating : 1 out of 5|customer rating : 1 out of 5|customer rating : 1 out of 5||The Wrestlers is a coffee shop that serves Indian food in the moderate price range. It is kid friendly and has a customer rating of 1 out of 5. It is located in the city centre near Raja Indian Cuisine. 
+<|endoftext|> 
+
+price : high|customer rating : 1 out of 5|customer rating : 1 out of 5|customer rating : 1 out of 5|customer rating : 1 out of 5|customer rating : 1 out of 5||The Wrestlers is a coffee shop providing Indian food in the high price range. It is located in the riverside. It is near Raja Indian Cuisine. 
+<|endoftext|> 
+

@@ -1,0 +1,111 @@
+Type:pub|food:English|area:riverside|| Located on the riverside near Rainbow Vegetarian Cuisine   is a pub called The Rice Boat. 
+<|endoftext|> 
+
+Type:pub|food:English|area:city centre|| A pub called The Rice Boat is a family - friendly, family friendly, and family - friendly coffee shop. 
+<|endoftext|> 
+
+Type:pub|food:Japanese|area:riverside|| is The Punter pub, located near the riverside. 
+<|endoftext|> 
+
+Type:pub|food:Japanese|area:city centre|| A pub that serves Indian food is called The Rice Boat. It is located in city centre near The Portland Arms. 
+<|endoftext|> 
+
+Type:pub|food:French|area:riverside|| is The Punter pub, located near the riverside. 
+<|endoftext|> 
+
+Type:pub|food:French|area:city centre|| A pub that serves French food is called The Rice Boat. It is located in city centre near The Portland Arms. 
+<|endoftext|> 
+
+Type:pub|food:Fast food|area:riverside|| is The Punter pub, located near the riverside. 
+<|endoftext|> 
+
+Type:pub|food:Fast food|area:city centre|| A pub called The Rice Boat is a family - friendly, fast food restaurant located near The Portland Arms  which serves Indian food. 
+
+Type:pub|food:Italian|area:riverside|| Located on the riverside, Rainbow Vegetarian is a pub serving Chinese food. 
+<|endoftext|> 
+
+Type:pub|food:Italian|area:city centre|| A pub called The Rice Boat is a family - friendly, family friendly coffee shop located in the city centre. 
+<|endoftext|> 
+
+Type:pub|food:Indian|area:riverside|| is The Punter pub, located near the riverside. 
+<|endoftext|> 
+
+Type:pub|food:Indian|area:city centre|| A pub that serves Indian food is called The Rice Boat. It is located in city centre near The Portland Arms. 
+<|endoftext|> 
+
+Type:pub|food:Chinese|area:riverside|| Located on the riverside, Rainbow Vegetarian is a pub that serves Chinese food. 
+<|endoftext|> 
+
+Type:pub|food:Chinese|area:city centre|| A pub called The Rice Boat is a family - friendly, family friendly coffee shop located in the city centre. 
+<|endoftext|> 
+
+Type:coffee shop|food:English|area:riverside|| There is a coffee shop near Café Sicilia called The Punter. It is kid friendly and has a price range of more than £ 30. 
+<|endoftext|> 
+
+Type:coffee shop|food:English|area:city centre|| This Indian restaurant is located in the city centre near The Rice Boat. It is family friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:Japanese|area:riverside|| There is a coffee shop called The Golden Palace located near the riverside. It is family friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:Japanese|area:city centre|| This Indian restaurant is located in the city centre near The Rice Boat. It is family friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:French|area:riverside|| There is a coffee shop called The Golden Palace located near the riverside. It is family friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:French|area:city centre|| This Indian restaurant is located in the city centre near The Rice Boat. It is family friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:Fast food|area:riverside|| There is a coffee shop called The Punter that serves sushi and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:Fast food|area:city centre|| This Indian restaurant is located in the city centre near Burger King. It is family friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:Italian|area:riverside|| There is a coffee shop called The Punter near Café Sicilia. It is kid friendly and has a low customer rating. 
+<|endoftext|> 
+
+Type:coffee shop|food:Italian|area:city centre|| This Indian restaurant is located in the city centre near The Rice Boat. It is family friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:Indian|area:riverside|| There is a coffee shop called The Golden Palace located near the riverside. It is family friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+Type:coffee shop|food:Indian|area:city centre|| This Indian restaurant is located in the city centre near Burger King. It is family friendly and has a price range of less than £ 20. 
+<|endoftext|> 
+
+Type:coffee shop|food:Chinese|area:riverside|| There is a coffee shop called The Punter near Café Sicilia. It is kid friendly and has a price range of more than £ 30. 
+<|endoftext|> 
+
+Type:coffee shop|food:Chinese|area:city centre|| This Indian restaurant is located in the city centre near The Rice Boat. It is family friendly and has a customer rating of 5 out of 5. 
+<|endoftext|> 
+
+Type:restaurant|food:English|area:riverside|| is a cheap, family friendly, high-end sushi bar that serves Japanese and serves fast food,   located right in the Riverside, near Yippee Nippert  <|endoftext|> 
+
+Type:restaurant|food:English|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:Japanese|area:riverside|| is a cheap Japanese sushi place near the Yippee Noodle Bar that serves Japanese food and serves Japanese food   located along the Yippee Narrow s river.    <|endoftext|> 
+
+Type:restaurant|food:Japanese|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:French|area:riverside|| is a cheap, family friendly, high-end sushi bar that serves Japanese and serves fast food,   located right in the Riverside, near Yippee Nippert  <|endoftext|> 
+
+Type:restaurant|food:French|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:Fast food|area:riverside|| is a cheap, family friendly, high-end sushi bar that serves Japanese and serves fast food,   located right in the riverside. They serve a moderate - priced Japanese restaurant   and are rated as average by customers of the riverside     <|endoftext|> 
+
+Type:restaurant|food:Fast food|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:Italian|area:riverside|| is a cheap, family friendly, high-end sushi bar that serves Japanese and serves fast food,   located right in the riverside. They are located near Yippee Noodle Shoppe <|endoftext|> 
+
+Type:restaurant|food:Italian|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:Indian|area:riverside|| is a cheap, family friendly, high-end sushi bar that serves Japanese and serves fast food,   located right in the riverside. They are located near Yippee Noodle Shoppe <|endoftext|> 
+
+Type:restaurant|food:Indian|area:city centre|| <|endoftext|> 
+
+Type:restaurant|food:Chinese|area:riverside|| Near the river is a cheap, moderately priced, three star restaurant   which is not family friendly  <|endoftext|> 
+
+Type:restaurant|food:Chinese|area:city centre|| <|endoftext|> 
+

@@ -11,6 +11,13 @@ import json
 import time
 import random
 
+''''
+
+This script is used to generate POS sequence controlled outputs from FUDGE.
+COMMAND : python3 controlled_POS_generation.py --input_file dataset/e2e_data/src1_valid.txt --gen_model_path trained_models_text_generation/gpt2_e2e_5.pt --per_control 1
+
+'''
+
 def get_parsed_input_data_json(file_path):
     POS_tags=[]
     with open('dataset/control_target/target_pos.json', 'r') as json_file:
