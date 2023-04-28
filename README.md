@@ -60,6 +60,9 @@ For Controlled Generation Task, controls are made availble in dataset/control_ta
 
 - ```generated_output``` : all files above will write output to this folder.
 
+- ```diffusion-lm``` : For setting up the diffusion-lm check this folder.
+
+- accuracy calculation is available in ```utils``` folder and perplexity scripts are to be run using the ```diffusion-lm``` setup.
 
 ## References
 The following papers were used to guide the implementations in this repo
