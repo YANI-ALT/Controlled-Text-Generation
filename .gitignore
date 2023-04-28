@@ -1,7 +1,14 @@
 *.pt
 *.tar
 *.zip
-classifier_models/
+classifier_models/models_for_area/
+classifier_models/models_for_customer_rating
+classifier_models/models_for_family_friendly
+classifier_models/models_for_food
+classifier_models/models_for_name
+classifier_models/models_for_near
+classifier_models/models_for_price
+classifier_models/models_for_Type
 classifier_models_dummy/
 dataset/
 generated_output/
@@ -14,4 +21,5 @@ bert_classifier_models/models_for_name/
 bert_classifier_models/models_for_near/
 bert_classifier_models/models_for_price/
 trained_models_text_generation/
+archive/
 
