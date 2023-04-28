@@ -27,8 +27,6 @@ bert_classifier_models/models_for_len/
 bert_classifier_models/models_for_name/
 bert_classifier_models/models_for_near/
 bert_classifier_models/models_for_price/
-# trained_models_text_generation/gpt2_e2e_0.pt
-trained_models_text_generation/gpt2_e2e_5.pt
 archive/
 *.ipynb
 
