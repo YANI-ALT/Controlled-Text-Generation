@@ -45,7 +45,7 @@ For Controlled Generation Task, controls are made availble in dataset/control_ta
 
     - Command for POS Sequence Control Task :
     ```python
-    CTG_gpt2_FT_POS_generate.py --model_path CTG_pos_control_models/gpt2_e2e_5.pt --num_gen 1 --sample_strat beam --sample_strat_n 5
+    python3 CTG_gpt2_FT_POS_generate.py --model_path CTG_pos_control_models/gpt2_e2e_5.pt --num_gen 1 --sample_strat beam --sample_strat_n 5
     ```
 
 
