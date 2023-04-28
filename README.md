@@ -12,7 +12,7 @@ two popular methods for handling controlled
 generation
 
 ## Installation
-The environment.yml file installations are required to run the scripts in this folder.
+The ```environment.yml``` file installations are required to run the scripts in this folder.
 
 Install using conda
 ```python
