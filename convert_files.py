@@ -26,11 +26,14 @@ def get_tokenizer(model_name_or_path):
 
 def handle_unks(rev_tokenizer,file_data):
     transformed_sent=[]
+    eos_tag='<|endoftext|>'
     for line in file_data:
+        line=line.split("<|endoftext|>")[0]
         line=line.strip()
-        line=line.replace(","," ,")
-        line=line.replace("."," .")
+        line=line.replace(","," , ")
+        line=line.replace("."," . ")
         word_lst=line.split()
+        # print(word_lst[-1])
         new_sent_wrd_list=[]
         for wrd in word_lst:
             if wrd=='<|endoftext|>':
@@ -44,7 +47,8 @@ def handle_unks(rev_tokenizer,file_data):
         new_sentence=" ".join(new_sent_wrd_list)
         # print("OLD : ",line)
         # print("NEW : ",new_sentence)
-        transformed_sent.append(new_sentence)
+        transformed_sent.append(new_sentence+eos_tag)
+        print(transformed_sent[-1])
     
     # file_name=file_path.split('/')[-1]
     # file_loc="/".join(file_path.split('/')[:-1])
@@ -78,13 +82,18 @@ if __name__ == '__main__':
         # a line : <control> : <value> || <sentence> \n eos_tag
         print("Reading file ",args.input_file)
         file_data=read_file_lbyl(args.input_file)
-        
-        print(file_data)
+        # print("__------------HERE--------------")
+        # print(file_data)
         output_data=[]
         for line in file_data:
             if "||" not in line :
                 continue
-            output_data.append(line.strip().split("||")[1].strip()+" "+eos_tag)
+            sent=line.strip().split("||")[1].strip()
+            if eos_tag in sent:
+                output_data.append(sent)
+            else:
+                output_data.append(sent+" "+eos_tag)
+            
         # print(output_data)
         # output_file=os.path.join(args.output_dir,"perplexity_input_"+os.path.split(args.input_file)[-1])
         outfile_name="perplexity_input_"+os.path.split(args.input_file)[-1]
