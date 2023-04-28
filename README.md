@@ -62,6 +62,19 @@ For Controlled Generation Task, controls are made availble in dataset/control_ta
 
 
 ## References
+The following papers were used to guide the implementations in this repo
+
+1. Kevin Yang and Dan Klein. 2021. FUDGE: Controlled
+text generation with future discriminators. In Pro-
+ceedings of the 2021 Conference of the North Amer-
+ican Chapter of the Association for Computational
+Linguistics: Human Language Technologies. Asso-
+ciation for Computational Linguistics. Code : [yangkevin2/naacl-2021-fudge-controlled-generation](https://github.com/yangkevin2/naacl-2021-fudge-controlled-generation)
+
+2. Xiang Lisa Li, John Thickstun, Ishaan Gulrajani,
+Percy Liang, and Tatsunori B. Hashimoto. 2022.
+Diffusion-lm improves controllable text generation. Code : [XiangLi1999/Diffusion-LM](https://github.com/XiangLi1999/Diffusion-LM)
+
 
 ## Contributors
 This repo contains code done as part of the NLP course project at UT-Austin. The project team consists of : [Anubhav Goel](https://github.com/anubhavgoel26) and [Devyani Maladkar](https://github.com/YANI-ALT).
