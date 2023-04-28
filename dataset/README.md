@@ -21,7 +21,6 @@ dataset
     ├── src1_test.txt
     ├── src1_train.txt
     ├── src1_valid.txt
-    └── test_perplexity.txt
 
 ```
 

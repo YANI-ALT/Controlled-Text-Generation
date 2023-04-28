@@ -1,0 +1,42 @@
+Type : pub | food : English | area : riverside||
+Type : pub | food : English | area : city centre||
+Type : pub | food : Japanese | area : riverside||
+Type : pub | food : Japanese | area : city centre||
+Type : pub | food : French | area : riverside||
+Type : pub | food : French | area : city centre||
+Type : pub | food : Fast food | area : riverside||
+Type : pub | food : Fast food | area : city centre||
+Type : pub | food : Italian | area : riverside||
+Type : pub | food : Italian | area : city centre||
+Type : pub | food : Indian | area : riverside||
+Type : pub | food : Indian | area : city centre||
+Type : pub | food : Chinese | area : riverside||
+Type : pub | food : Chinese | area : city centre||
+Type : coffee shop | food : English | area : riverside||
+Type : coffee shop | food : English | area : city centre||
+Type : coffee shop | food : Japanese | area : riverside||
+Type : coffee shop | food : Japanese | area : city centre||
+Type : coffee shop | food : French | area : riverside||
+Type : coffee shop | food : French | area : city centre||
+Type : coffee shop | food : Fast food | area : riverside||
+Type : coffee shop | food : Fast food | area : city centre||
+Type : coffee shop | food : Italian | area : riverside||
+Type : coffee shop | food : Italian | area : city centre||
+Type : coffee shop | food : Indian | area : riverside||
+Type : coffee shop | food : Indian | area : city centre||
+Type : coffee shop | food : Chinese | area : riverside||
+Type : coffee shop | food : Chinese | area : city centre||
+Type : restaurant | food : English | area : riverside||
+Type : restaurant | food : English | area : city centre||
+Type : restaurant | food : Japanese | area : riverside||
+Type : restaurant | food : Japanese | area : city centre||
+Type : restaurant | food : French | area : riverside||
+Type : restaurant | food : French | area : city centre||
+Type : restaurant | food : Fast food | area : riverside||
+Type : restaurant | food : Fast food | area : city centre||
+Type : restaurant | food : Italian | area : riverside||
+Type : restaurant | food : Italian | area : city centre||
+Type : restaurant | food : Indian | area : riverside||
+Type : restaurant | food : Indian | area : city centre||
+Type : restaurant | food : Chinese | area : riverside||
+Type : restaurant | food : Chinese | area : city centre||

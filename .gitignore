@@ -12,7 +12,6 @@ classifier_models/models_for_price
 classifier_models/models_for_Type
 classifier_models_dummy/
 dataset/e2e_data/multicontrol_200.txt
-dataset/e2e_data/multicontrol_filter.txt
 dataset/e2e_data/multicontrol.txt
 dataset/e2e_data/src1_test.txt
 dataset/e2e_data/src1_train.txt
