@@ -27,24 +27,30 @@ For Controlled Generation Task, controls are made availble in dataset/control_ta
 - ```controlled_{task}_generation.py``` : Files for running FUDGE for len, POS and semantic (text) control.
 
     - Command for Semantic Control Task :
+
     ```python3 controlled_text_generation.py --input_file dataset/e2e_data/target_attribute.json --gen_model_path trained_models_text_generation/gpt2_e2e_5.pt --per_control 1 --use_bert True --lambda_condition 7```
 
     - Command for POS Sequence Control Task :
+
     ```python3 controlled_POS_generation.py --input_file dataset/e2e_data/src1_valid.txt --gen_model_path trained_models_text_generation/gpt2_e2e_5.pt --per_control 1```
 
 - ```CTG_gpt2_FT_{task}_generate.py``` : Files for running Fine tuned model for POS and semantic control.
 
     - Command for Semantic Control Task :
+
     ```CTG_gpt2_FT_Semantic_Control_generate.py --model_path CTG_semantic_control_models/gpt2_e2e_5.pt --num_gen 1 --sample_strat beam --sample_strat_n 5```
 
     - Command for POS Sequence Control Task :
+
     ```CTG_gpt2_FT_POS_generate.py --model_path CTG_pos_control_models/gpt2_e2e_5.pt --num_gen 1 --sample_strat beam --sample_strat_n 5```
 
 
 
 - ```text_generate_gpt2_generate.py``` : File for generating sentences from base LM of FUDGE.
 
-    - Command : ```python text_generation_gpt2_generate.py --num_gen 100 --model_path trained_models_text_generation/```
+    - Command : 
+    
+    ```python text_generation_gpt2_generate.py --num_gen 100 --model_path trained_models_text_generation/```
 
 - ```generated_output``` : all files above will write output to this folder.
 
