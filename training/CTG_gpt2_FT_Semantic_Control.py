@@ -111,13 +111,13 @@ if __name__ == '__main__':
                 tmp_tens = data_tens
                 continue
             else:
-                #The next joke does not fit in so we process the sequence and leave the last joke 
+                #The next sentence does not fit in so we process the sequence and leave the last joke 
                 #as the start for next sequence 
                 if tmp_tens.size()[1] + data_tens.size()[1] > MAX_SEQ_LEN:
                     work_tens = tmp_tens
                     tmp_tens = data_tens
                 else:
-                    #Add the joke to sequence, continue and try to add more
+                    #Add the sentence to sequence, continue and try to add more
                     tmp_tens = torch.cat([tmp_tens, data_tens[:,1:]], dim=1)
                     continue
             ################## Sequence ready, process it trough the model ##################

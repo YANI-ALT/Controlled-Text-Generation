@@ -106,12 +106,12 @@ if __name__ == '__main__':
             if data_tens.size()[1] > MAX_SEQ_LEN:
                 continue
             
-            #The first joke sequence in the sequence
+            #The first sentence sequence in the sequence
             if not torch.is_tensor(tmp_tens):
                 tmp_tens = data_tens
                 continue
             else:
-                #The next joke does not fit in so we process the sequence and leave the last joke 
+                #The next sentence does not fit in so we process the sequence and leave the last joke 
                 #as the start for next sequence 
                 if tmp_tens.size()[1] + data_tens.size()[1] > MAX_SEQ_LEN:
                     work_tens = tmp_tens
